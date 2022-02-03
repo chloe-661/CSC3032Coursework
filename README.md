@@ -1,0 +1,2 @@
+# CSC3032Coursework
+Final year project and dissertation | MAJOR PROJECT IN COMPUTER SCIENCE MODULE (2021/22) | NEWCASTLE UNIVERSITY
