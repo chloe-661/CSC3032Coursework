@@ -19220,7 +19220,7 @@ GameObject:
   - component: {fileID: 271349427}
   m_Layer: 0
   m_Name: Camera (7)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23760,7 +23760,7 @@ GameObject:
   - component: {fileID: 420701842}
   m_Layer: 0
   m_Name: Camera (6)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23777,7 +23777,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1183671091}
-  m_RootOrder: 7
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 25, y: 180, z: 0}
 --- !u!81 &420701842
 AudioListener:
@@ -35784,7 +35784,7 @@ GameObject:
   - component: {fileID: 615153381}
   m_Layer: 0
   m_Name: Camera (1)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59798,7 +59798,7 @@ GameObject:
   - component: {fileID: 768200423}
   m_Layer: 0
   m_Name: Camera (10)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59881,7 +59881,7 @@ GameObject:
   - component: {fileID: 776451097}
   m_Layer: 0
   m_Name: Camera (13)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -73454,7 +73454,7 @@ GameObject:
   - component: {fileID: 1047067312}
   m_Layer: 0
   m_Name: Camera (11)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -79109,7 +79109,7 @@ GameObject:
   - component: {fileID: 1156317159}
   m_Layer: 0
   m_Name: Camera (3)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -79126,7 +79126,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1183671091}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 25, y: -45, z: 0}
 --- !u!81 &1156317159
 AudioListener:
@@ -80658,6 +80658,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1183671091}
+  - component: {fileID: 1183671092}
   m_Layer: 0
   m_Name: Cameras
   m_TagString: Untagged
@@ -80680,19 +80681,41 @@ Transform:
   - {fileID: 776451096}
   - {fileID: 1265092247}
   - {fileID: 1216073049}
-  - {fileID: 1690276544}
   - {fileID: 1156317158}
+  - {fileID: 1690276544}
   - {fileID: 1475117009}
-  - {fileID: 420701841}
-  - {fileID: 271349426}
   - {fileID: 1211877793}
+  - {fileID: 271349426}
   - {fileID: 1262187526}
+  - {fileID: 420701841}
   - {fileID: 768200422}
   - {fileID: 1047067311}
   - {fileID: 1478009550}
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1183671092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1183671090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecf46bc83560a0046ba53432a6969f2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelCameras: []
+  redTeamTPCameras: []
+  redTeamFPCameras: []
+  blueTeamTPCameras: []
+  blueTeamFPCameras: []
+  currentLevelCamera: 0
+  currentRedTeamTPCamera: 0
+  currentRedTeamFPCamera: 0
+  currentBlueTeamTPCamera: 0
+  currentBlueTeamFPCamera: 0
 --- !u!1 &1184261532
 GameObject:
   m_ObjectHideFlags: 0
@@ -82716,7 +82739,7 @@ GameObject:
   - component: {fileID: 1211877794}
   m_Layer: 0
   m_Name: Camera (8)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -82733,7 +82756,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1183671091}
-  m_RootOrder: 9
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 25, y: 90, z: 0}
 --- !u!81 &1211877794
 AudioListener:
@@ -82799,7 +82822,7 @@ GameObject:
   - component: {fileID: 1216073050}
   m_Layer: 0
   m_Name: Camera (2)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -84236,7 +84259,7 @@ GameObject:
   - component: {fileID: 1262187527}
   m_Layer: 0
   m_Name: Camera (9)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -84253,7 +84276,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1183671091}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 25, y: -90, z: 0}
 --- !u!81 &1262187527
 AudioListener:
@@ -84483,7 +84506,7 @@ GameObject:
   - component: {fileID: 1265092248}
   m_Layer: 0
   m_Name: Camera (14)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -94322,7 +94345,7 @@ GameObject:
   - component: {fileID: 1475117010}
   m_Layer: 0
   m_Name: Camera (4)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -94405,7 +94428,7 @@ GameObject:
   - component: {fileID: 1478009551}
   m_Layer: 0
   m_Name: Camera (12)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108334,7 +108357,7 @@ GameObject:
   - component: {fileID: 1690276545}
   m_Layer: 0
   m_Name: Camera (5)
-  m_TagString: Untagged
+  m_TagString: LevelCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108351,7 +108374,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1183671091}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 25, y: 225, z: 0}
 --- !u!81 &1690276545
 AudioListener:
