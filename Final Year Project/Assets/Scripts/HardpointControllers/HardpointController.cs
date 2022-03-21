@@ -228,19 +228,15 @@ public class HardpointController : MonoBehaviour
         switch(this.color) 
         {
             case "green":
-                Debug.Log("Color should be green");
                 renderer.material = greenFade;
                 break;
             case "purple":
-                Debug.Log("Color should be purple");
                 renderer.material = purpleFade;
                 break;
             case "red":
-                Debug.Log("Color should be red");
                 renderer.material = redFade;
                 break;
             case "blue":
-                Debug.Log("Color should be blue");
                 renderer.material = blueFade;
                 break;
             default:

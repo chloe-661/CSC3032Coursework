@@ -85,6 +85,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5074569773961125401, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
+      propertyPath: name
+      value: ybot2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5074569773961125401, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
+      propertyPath: aiType
+      value: State
+      objectReference: {fileID: 0}
     - target: {fileID: 5397498506394708874, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
       propertyPath: m_Name
       value: ybot (2)
@@ -146,6 +154,14 @@ PrefabInstance:
     - target: {fileID: 2213443714523537749, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5074569773961125401, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
+      propertyPath: name
+      value: ybot1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5074569773961125401, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
+      propertyPath: aiType
+      value: State
       objectReference: {fileID: 0}
     - target: {fileID: 5397498506394708874, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
       propertyPath: m_Name
@@ -209,6 +225,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5074569773961125401, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
+      propertyPath: name
+      value: ybot4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5074569773961125401, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
+      propertyPath: aiType
+      value: State
+      objectReference: {fileID: 0}
     - target: {fileID: 5397498506394708874, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
       propertyPath: m_Name
       value: ybot (4)
@@ -270,6 +294,14 @@ PrefabInstance:
     - target: {fileID: 2213443714523537749, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5074569773961125401, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
+      propertyPath: name
+      value: ybot3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5074569773961125401, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
+      propertyPath: aiType
+      value: State
       objectReference: {fileID: 0}
     - target: {fileID: 5397498506394708874, guid: 67caafb4427bdce48a08274957c541f5, type: 3}
       propertyPath: m_Name

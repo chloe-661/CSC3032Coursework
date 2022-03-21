@@ -89,6 +89,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: xbot (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
+      propertyPath: name
+      value: xbot2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
+      propertyPath: aiType
+      value: State
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
 --- !u!4 &3339325233883451360 stripped
@@ -150,6 +158,14 @@ PrefabInstance:
     - target: {fileID: 4523076993739861292, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
       propertyPath: m_Name
       value: xbot (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
+      propertyPath: name
+      value: xbot1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
+      propertyPath: aiType
+      value: State
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
@@ -213,6 +229,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: xbot (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
+      propertyPath: name
+      value: xbot4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
+      propertyPath: aiType
+      value: State
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4192737924337184586, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
@@ -275,6 +299,14 @@ PrefabInstance:
     - target: {fileID: 4523076993739861292, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
       propertyPath: m_Name
       value: xbot (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
+      propertyPath: name
+      value: xbot3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
+      propertyPath: aiType
+      value: State
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}

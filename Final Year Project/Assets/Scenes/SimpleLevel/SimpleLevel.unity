@@ -25616,7 +25616,7 @@ GameObject:
   - component: {fileID: 1269852792}
   - component: {fileID: 1269852791}
   m_Layer: 5
-  m_Name: blueKillsScore
+  m_Name: blueKillScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35086,7 +35086,7 @@ GameObject:
   - component: {fileID: 1726048883}
   - component: {fileID: 1726048882}
   m_Layer: 5
-  m_Name: redKillsScore
+  m_Name: redKillScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
