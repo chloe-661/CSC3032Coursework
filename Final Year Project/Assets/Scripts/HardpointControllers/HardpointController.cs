@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,16 +6,28 @@ using UnityEngine;
 public class HardpointController : MonoBehaviour
 {
 
+    
+    public string name;
+    public Material greenFade;
+    public Material purpleFade;
+    public Material redFade;
+    public Material blueFade;
+
+    private Color green = new Color(0f,1f,0.1f);
+    private Color purple = new Color(0.56f,0f,1f);
+    private Color red = new Color(1f,0f,0f);
+    private Color blue = new Color(0f,0.07f,1f);
+
+    public ProgressBarCircle progressBar;
+
+    private MeshRenderer renderer;
     private string state;   // unallocated, captured, congested
     private string owner;   // red, blue, none
     
-    private float counter;
     private bool counterActive;
+    private float counter;
     private float captureCounterTotal = 3f;
     private float defendCounterTotal = 10f;
-
-    private float capturePoints = 15f;
-    private float defendPoints = 5f;
     
     private string color; // red, blue, green = unallocated, purple = congested
     private List<GameObject> playersInside = new List<GameObject>();
@@ -38,15 +51,19 @@ public class HardpointController : MonoBehaviour
         this.owner = "none";
         this.color = "green";
         this.gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+        this.renderer =  this.GetComponent<MeshRenderer>();
+        this.progressBar.BarValue = 100;        
     }
 
     void Update()
     {
         if (!gs.getGameOver()){
             updateState();
+            updateColor();
 
             if (this.counterActive){
                 countDown();
+                
             }
         }
     }
@@ -101,7 +118,6 @@ public class HardpointController : MonoBehaviour
         // If only red players are in the hardpoint
         // Red can capture/defend
         if (red == true && blue == false){
-            updateColor();
             if (this.owner == "none"){
                 this.state = "unallocated";
                 capture("red");
@@ -119,7 +135,6 @@ public class HardpointController : MonoBehaviour
         // If only blue players are in the hardpoint
         // Blue can capture/defend
         if (red == false && blue == true){
-            updateColor();
             if (this.owner == "none"){
                 this.state = "unallocated";
                 capture("blue");
@@ -139,19 +154,26 @@ public class HardpointController : MonoBehaviour
         Debug.Log("Hardpoint Congested");
         this.state = "congested";
         this.counterActive = false;
-        updateColor();
+        updateProgressBar();
     }
 
     private void capture(string team){
+        updateProgressBar(team);
+
+        //If the counter has been counting down has reached 0
         if (this.counterActive == true && this.counter <= 0f){
             Debug.Log("Successfully Captured");
             
-            gs.addToScore(team, capturePoints);
+            playersInside[0].GetComponent<PlayerStatus>().addToCaptureScore(gs.getCapturePoints());
+
             this.state = "captured";
             this.owner = team;
-            this.counter = defendCounterTotal;
-            updateColor();
+            this.counter = defendCounterTotal;            
+            
+            string logMessage = (team + ":" + playersInside[0].GetComponent<PlayerStatus>().name + " captured hardpoint " + this.name);
+            gs.writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {logMessage});
         }
+        //Otherwise start the counter
         else if (this.counterActive == false){
             this.counterActive = true;
             this.counter = captureCounterTotal;
@@ -161,10 +183,18 @@ public class HardpointController : MonoBehaviour
     private void defend(string team){
         if (this.counterActive == true && this.counter <= 0f){
             Debug.Log("Successfully Defended");
-            
-            gs.addToScore(team, defendPoints);
+
             this.state = "captured";
             this.counter = defendCounterTotal;
+
+            string[] logMessageArray = new String[playersInside.Count];
+            
+            for (int i = 0; i < playersInside.Count; i++){
+                playersInside[i].GetComponent<PlayerStatus>().addToDefendScore(gs.getDefendPoints());
+                logMessageArray[i] = (team + ":" + playersInside[i].GetComponent<PlayerStatus>().name + " defended hardpoint " + this.name);
+            }
+            
+            gs.writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), logMessageArray);
         }
         else if (this.counterActive == false){
             this.counterActive = true;
@@ -189,23 +219,70 @@ public class HardpointController : MonoBehaviour
         else if (this.owner == "blue" && this.state == "captured"){
             this.color = "blue";
         }
-        
+
+        updateHardpointColor();
+        updateProgressBar();
+    }
+
+    private void updateHardpointColor(){
         switch(this.color) 
         {
             case "green":
                 Debug.Log("Color should be green");
+                renderer.material = greenFade;
                 break;
             case "purple":
                 Debug.Log("Color should be purple");
+                renderer.material = purpleFade;
                 break;
             case "red":
                 Debug.Log("Color should be red");
+                renderer.material = redFade;
                 break;
             case "blue":
                 Debug.Log("Color should be blue");
+                renderer.material = blueFade;
                 break;
             default:
                 break;
             }
+    }
+
+    private void updateProgressBar()
+    {
+        if (this.state == "congested"){
+            this.progressBar.BarColor = this.purple;
+            this.progressBar.BarValue = 0;
+        } else {
+            switch(this.color){
+                case "green":
+                    this.progressBar.BarColor = this.green;
+                    break;
+                case "red":
+                    this.progressBar.BarColor = this.red;
+                    break;
+                case "blue":
+                    this.progressBar.BarColor = this.blue;
+                    break;
+                // case "purple":
+                //     this.progressBar.BarColor = this.purple;
+                //     break;
+                default:
+                    this.progressBar.BarColor = this.green;
+                    break;
+            }
+        }
+    }
+    private void updateProgressBar(string team)
+    {
+
+        if (team == "red"){
+            this.progressBar.BarBackGroundColor = this.red;
+        }
+        else if (team == "blue"){
+            this.progressBar.BarBackGroundColor = this.blue;
+        }
+        
+        this.progressBar.BarValue = (this.captureCounterTotal - this.counter)/(this.captureCounterTotal/100);
     }
 }

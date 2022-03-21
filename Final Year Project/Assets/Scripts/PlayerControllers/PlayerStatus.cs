@@ -4,12 +4,21 @@ using UnityEngine;
 
 public class PlayerStatus : MonoBehaviour
 {
-
+    
+    public string name;
+    private string aiType;
+    public string team;
+    
     private float x;
     private float y;
-    public string team;
+    
     private float health;
     private bool dead;
+    
+    private float captureScore;
+    private float defendScore;
+    private float killScore;
+    private float totalScore;
 
     private GameStatus gs;
 
@@ -18,6 +27,11 @@ public class PlayerStatus : MonoBehaviour
     {
         this.dead = false;
         this.health = 100f;
+        this.captureScore = 0f;
+        this.defendScore = 0f;
+        this.killScore = 0f;
+        this.totalScore = 0f;
+
         whichTeam();
         this.gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
     }
@@ -26,8 +40,25 @@ public class PlayerStatus : MonoBehaviour
     void Update()
     {
         if (!gs.getGameOver()){
-
+            this.totalScore = this.captureScore + this.defendScore;
         }
+    }
+
+    public float getCaptureScore(){ return this.captureScore; }
+    public float getDefendScore(){ return this.defendScore; }
+    public float getKillScore(){ return this.killScore; }
+    public float getTotalScore(){ return this.totalScore; }
+
+    public void addToCaptureScore(float num){
+        this.captureScore += num;
+    }
+
+    public void addToDefendScore(float num){
+        this.defendScore += num;
+    }
+
+    public void addToKillScore(){
+        this.killScore += 1;
     }
 
     private string whichTeam(){
@@ -55,5 +86,8 @@ public class PlayerStatus : MonoBehaviour
     private void respawn(){
         this.dead = false;
         this.health = 100f;
+
+        string logMessage = (this.team + ":" + this.name + " respawned");
+        gs.writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {logMessage});
     }
 }

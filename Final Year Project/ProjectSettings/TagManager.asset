@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - LevelCamera
+  - RedPlayer
+  - GameStatus
+  - BluePlayer
+  - Scores
+  - ProgressBars
+  - RespawnArea
+  - RespawnPoint
   layers:
   - Default
   - TransparentFX

@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/ComplexTest.unity
-    guid: c8c0d18b6f44f1c46a7bc545592ac624
+    path: Assets/Scenes/SimpleLevel/SimpleLevel.unity
+    guid: d101cd6b89a613b4a9413d2142ffe665
+  - enabled: 1
+    path: Assets/Scenes/ComplexLevel/ComplexLevel.unity
+    guid: 0fc3f8c962198fe43aff5bad9042efeb
   m_configObjects: {}
