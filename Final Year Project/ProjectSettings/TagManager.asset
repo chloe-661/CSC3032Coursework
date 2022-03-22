@@ -11,7 +11,8 @@ TagManager:
   - Scores
   - ProgressBars
   - RespawnArea
-  - RespawnPoint
+  - BlueRespawnPoint
+  - RedRespawnPoint
   layers:
   - Default
   - TransparentFX

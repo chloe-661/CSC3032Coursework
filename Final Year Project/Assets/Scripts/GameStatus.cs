@@ -7,7 +7,7 @@ using System;
 
 public class GameStatus : MonoBehaviour
 {
-    //Red Team Variables
+//Red Team Variables
     private List<GameObject> redTeam = new List<GameObject>();
     private float redTeamScore;
     private float redTeamCaptureScore;
@@ -15,7 +15,7 @@ public class GameStatus : MonoBehaviour
     private float redTeamKillScore;
     private string redTeamAiType;
 
-    //Blue Team Variables
+//Blue Team Variables
     private List<GameObject> blueTeam = new List<GameObject>();
     private float blueTeamScore;
     private float blueTeamCaptureScore;
@@ -23,18 +23,20 @@ public class GameStatus : MonoBehaviour
     private float blueTeamKillScore;
     private string blueTeamAiType;
 
-    //Game Variables
+//Game Variables
     private bool gameOver;
+
+    private bool init;
     private float scoreToWin = 100f;
     private string winner;
     private string winnerAiType;
     private float capturePoints = 15f;
     private float defendPoints = 5f;
 
-    //UI Variables
+//UI Variables
     private GameObject scoreUI;
 
-    //Text File Variables
+//Text File Variables
 
     private string matchStartDateTime;
     private string matchLogFileName;
@@ -43,7 +45,6 @@ public class GameStatus : MonoBehaviour
     private string matchLogPath;
     private string matchReportPath;
     private string matchReportCSVPath;
-
     private bool matchReportWritten;
     
 
@@ -80,6 +81,8 @@ public class GameStatus : MonoBehaviour
     {
         getRedTeam();
         getBlueTeam();
+
+        this.init = false;
         this.scoreToWin = 100f;
         this.gameOver = false;
         this.redTeamScore = 0f;
@@ -94,6 +97,9 @@ public class GameStatus : MonoBehaviour
     }
     void Update()
     {
+        if (!this.init){
+            initalStartLocation();
+        }
         if (isGameOver()){
             Debug.Log("Winner: " + this.winner);
             if (!this.matchReportWritten){
@@ -141,6 +147,20 @@ public class GameStatus : MonoBehaviour
             }
         }
         this.blueTeamAiType = aiTypeTemp;
+    }
+
+    private void initalStartLocation(){
+        //Sets the player to a respawn point
+        //Done this way so that there doesn't end up being 2 players on one respawn point
+        //Maps player in list to respawn point in list by index value
+        //aka Player[0] maps to Respawn[0] and so on
+        for (int i = 0; i < this.redTeam.Count; i++){
+            this.redTeam[i].GetComponent<PlayerStatus>().initalStartLocation(i);
+        }
+        for (int j = 0; j < this.blueTeam.Count; j++){
+            this.blueTeam[j].GetComponent<PlayerStatus>().initalStartLocation(j);
+        }
+        this.init = true;
     }
     
     private bool isGameOver(){

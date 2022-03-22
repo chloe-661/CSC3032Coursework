@@ -20,10 +20,11 @@ public class PlayerStatus : MonoBehaviour
     private float killScore;
     private float totalScore;
 
-    //private Random rnd = new Random();
     private bool inPlay;
 
     private GameStatus gs;
+
+    private GameObject centerTarget;
 
     private List<GameObject> respawnPoints = new List<GameObject>();
 
@@ -31,6 +32,7 @@ public class PlayerStatus : MonoBehaviour
     void Start()
     {
         this.gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+        this.centerTarget = gs.transform.Find("CenterTarget").gameObject ;
         this.inPlay = true;
         this.health = 100f;
         this.captureScore = 0f;
@@ -109,6 +111,16 @@ public class PlayerStatus : MonoBehaviour
             }
         }
     }
+
+    public void initalStartLocation(int index){
+        Debug.Log("index: " + index);
+        float x = this.respawnPoints[index].transform.position.x;
+        float y = this.respawnPoints[index].transform.position.y;
+        float z = this.respawnPoints[index].transform.position.z;
+
+        this.transform.position = new Vector3(x, y, z);
+        this.transform.LookAt(this.centerTarget.transform);
+    }
     private void respawn(){
         StartCoroutine(respawnWaiter());
     }
@@ -119,11 +131,9 @@ public class PlayerStatus : MonoBehaviour
         float x = this.respawnPoints[num].transform.position.x;
         float y = this.respawnPoints[num].transform.position.y;
         float z = this.respawnPoints[num].transform.position.z;
-        
-        //TO DO
-        //Rotate the player to look at a target in the center of the map
-        
+
         this.transform.position = new Vector3(x, y, z);
+        this.transform.LookAt(this.centerTarget.transform);
 
         yield return new WaitForSeconds(3);
         this.health = 100f;

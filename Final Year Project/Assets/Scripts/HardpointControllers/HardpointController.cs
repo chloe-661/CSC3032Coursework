@@ -5,9 +5,6 @@ using UnityEngine;
 
 public class HardpointController : MonoBehaviour
 {
-
-    
-    public string name;
     public Material greenFade;
     public Material purpleFade;
     public Material redFade;
@@ -19,27 +16,31 @@ public class HardpointController : MonoBehaviour
     private Color blue = new Color(0f,0.07f,1f);
 
     public ProgressBarCircle progressBar;
-
     private MeshRenderer renderer;
+    private GameStatus gs;
+
+    public string name;     // A, B, C
     private string state;   // unallocated, captured, congested
     private string owner;   // red, blue, none
-    
+    private string color;   // red, blue, green = unallocated, purple = congested
+
     private bool counterActive;
     private float counter;
     private float captureCounterTotal = 3f;
     private float defendCounterTotal = 10f;
-    
-    private string color; // red, blue, green = unallocated, purple = congested
+
     private List<GameObject> playersInside = new List<GameObject>();
 
-    private GameStatus gs;
-
+    
 
 
 // Getter Methods --------------------------------------------------------------------------------------
     public string getState(){ return this.state; }
     public string getOwner(){ return this.owner; }
     public string getColor(){ return this.color; }
+    public float getCaptureCounterTotal(){ return this.captureCounterTotal; }
+    public float getDefendCounterTotal(){ return this.defendCounterTotal; }
+    public List<GameObject> getPlayersInside(){ return this.playersInside; }
 
 
 
@@ -63,7 +64,6 @@ public class HardpointController : MonoBehaviour
 
             if (this.counterActive){
                 countDown();
-                
             }
         }
     }
@@ -241,8 +241,12 @@ public class HardpointController : MonoBehaviour
                 break;
             default:
                 break;
-            }
+        }
     }
+
+    
+    
+//UI UPDATE METHODS ---------------------------------------------------------------------------
 
     private void updateProgressBar()
     {
@@ -271,7 +275,6 @@ public class HardpointController : MonoBehaviour
     }
     private void updateProgressBar(string team)
     {
-
         if (team == "red"){
             this.progressBar.BarBackGroundColor = this.red;
         }
