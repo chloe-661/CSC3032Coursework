@@ -5,7 +5,7 @@ Newcastle University - 2021/22 - 3rd Year
 
 	Final year project and dissertation
 
-	Poster Submitted:
+	Poster Submitted: 25/03/2022
 	Dissertation Submitted: 
 	
 Marks and Feedback
