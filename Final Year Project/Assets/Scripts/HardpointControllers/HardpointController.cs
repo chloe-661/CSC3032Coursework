@@ -16,8 +16,6 @@ public class HardpointController : MonoBehaviour
     private Color blue = new Color(0f,0.07f,1f);
 
     public ProgressBarCircle progressBar;
-    private MeshRenderer renderer;
-    private GameStatus gs;
 
     public string name;     // A, B, C
     private string state;   // unallocated, captured, congested
@@ -51,20 +49,17 @@ public class HardpointController : MonoBehaviour
         this.counterActive = false;
         this.owner = "none";
         this.color = "green";
-        this.gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
-        this.renderer =  this.GetComponent<MeshRenderer>();
-        this.progressBar.BarValue = 100;        
+        getProgressBar();
+        this.progressBar.BarValue = 100;
     }
 
     void Update()
     {
-        if (!gs.getGameOver()){
-            updateState();
-            updateColor();
+        updateState();
+        updateColor();
 
-            if (this.counterActive){
-                countDown();
-            }
+        if (this.counterActive){
+            countDown();
         }
     }
 
@@ -90,6 +85,20 @@ public class HardpointController : MonoBehaviour
 
 
 // Methods --------------------------------------------------------------------------------------------
+    
+    private void getProgressBar(){
+        switch(this.name){
+            case "A":
+                progressBar = GameObject.FindWithTag("aProgressBar").GetComponent<ProgressBarCircle>();
+                break;
+            case "B":
+                progressBar = GameObject.FindWithTag("bProgressBar").GetComponent<ProgressBarCircle>();
+                break;
+            case "C":
+                progressBar = GameObject.FindWithTag("cProgressBar").GetComponent<ProgressBarCircle>();
+                break;
+        }
+    }
     private void updateState(){
         bool red = false;
         bool blue = false;
@@ -163,7 +172,7 @@ public class HardpointController : MonoBehaviour
         //If the counter has been counting down has reached 0
         if (this.counterActive == true && this.counter <= 0f){
             Debug.Log("Successfully Captured");
-            
+            GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
             playersInside[0].GetComponent<PlayerStatus>().addToCaptureScore(gs.getCapturePoints());
 
             this.state = "captured";
@@ -186,7 +195,7 @@ public class HardpointController : MonoBehaviour
 
             this.state = "captured";
             this.counter = defendCounterTotal;
-
+            GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
             string[] logMessageArray = new String[playersInside.Count];
             
             for (int i = 0; i < playersInside.Count; i++){
@@ -225,6 +234,7 @@ public class HardpointController : MonoBehaviour
     }
 
     private void updateHardpointColor(){
+        MeshRenderer renderer = this.GetComponent<MeshRenderer>();    
         switch(this.color) 
         {
             case "green":

@@ -13,6 +13,12 @@ TagManager:
   - RespawnArea
   - BlueRespawnPoint
   - RedRespawnPoint
+  - GameUI
+  - SettingsUI
+  - CenterTarget
+  - aProgressBar
+  - bProgressBar
+  - cProgressBar
   layers:
   - Default
   - TransparentFX

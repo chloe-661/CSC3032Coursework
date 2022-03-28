@@ -13,15 +13,15 @@ public class GameStatus : MonoBehaviour
     private float redTeamCaptureScore;
     private float redTeamDefendScore;
     private float redTeamKillScore;
-    private string redTeamAiType;
+    private string redTeamAiType;       //state, machine, mixed
 
 //Blue Team Variables
     private List<GameObject> blueTeam = new List<GameObject>();
     private float blueTeamScore;
     private float blueTeamCaptureScore;
     private float blueTeamDefendScore;
-    private float blueTeamKillScore;
-    private string blueTeamAiType;
+    private float blueTeamKillScore; 
+    private string blueTeamAiType;      //state, machine, mixed
 
 //Game Variables
     private bool gameOver;
@@ -100,12 +100,13 @@ public class GameStatus : MonoBehaviour
         if (!this.init){
             initalStartLocation();
         }
-        if (isGameOver()){
+        if (isGameOver() && this.gameOver == false){
             Debug.Log("Winner: " + this.winner);
             if (!this.matchReportWritten){
                 writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {"Match Ended", ("Winner: " + this.winner)});
                 writeMatchReport();
             }
+            this.gameOver = true;
         }
 
         updateScores();
@@ -150,6 +151,7 @@ public class GameStatus : MonoBehaviour
     }
 
     private void initalStartLocation(){
+        this.init = true;
         //Sets the player to a respawn point
         //Done this way so that there doesn't end up being 2 players on one respawn point
         //Maps player in list to respawn point in list by index value
@@ -160,20 +162,18 @@ public class GameStatus : MonoBehaviour
         for (int j = 0; j < this.blueTeam.Count; j++){
             this.blueTeam[j].GetComponent<PlayerStatus>().initalStartLocation(j);
         }
-        this.init = true;
+        
     }
     
     private bool isGameOver(){
         if (this.blueTeamScore >= this.scoreToWin){
             this.winner = "blue";
             this.winnerAiType = this.blueTeamAiType;
-            this.gameOver = true;
             return true;
         }
         else if (this.redTeamScore >= this.scoreToWin){
             this.winner = "red";
             this.winnerAiType = this.redTeamAiType;
-            this.gameOver = true;
             return true;
         }
         else {

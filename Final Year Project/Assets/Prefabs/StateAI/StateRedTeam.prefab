@@ -95,7 +95,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
       propertyPath: aiType
-      value: State
+      value: state
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
@@ -165,7 +165,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
       propertyPath: aiType
-      value: State
+      value: state
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
@@ -235,7 +235,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
       propertyPath: aiType
-      value: State
+      value: state
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4192737924337184586, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
@@ -306,7 +306,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6256423440722772674, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}
       propertyPath: aiType
-      value: State
+      value: state
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6061c0d2b439ee4dbb000f1620aabad, type: 3}

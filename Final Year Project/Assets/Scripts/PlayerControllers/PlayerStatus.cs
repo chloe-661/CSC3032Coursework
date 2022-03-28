@@ -22,8 +22,6 @@ public class PlayerStatus : MonoBehaviour
 
     private bool inPlay;
 
-    private GameStatus gs;
-
     private GameObject centerTarget;
 
     private List<GameObject> respawnPoints = new List<GameObject>();
@@ -31,8 +29,7 @@ public class PlayerStatus : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        this.gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
-        this.centerTarget = gs.transform.Find("CenterTarget").gameObject ;
+        this.centerTarget = GameObject.FindWithTag("CenterTarget");
         this.inPlay = true;
         this.health = 100f;
         this.captureScore = 0f;
@@ -47,14 +44,12 @@ public class PlayerStatus : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!gs.getGameOver()){
-            this.totalScore = this.captureScore + this.defendScore;
+        this.totalScore = this.captureScore + this.defendScore;
 
-            isDead();
+        isDead();
 
-            if(this.inPlay){
-                //can move....
-            }
+        if(this.inPlay){
+            //can move....
         }
     }
 
@@ -140,6 +135,8 @@ public class PlayerStatus : MonoBehaviour
         this.inPlay = true;
 
         string logMessage = (this.team + ":" + this.name + " respawned");
+
+        GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
         gs.writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {logMessage});
     }
 }
