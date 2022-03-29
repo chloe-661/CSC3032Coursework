@@ -42,9 +42,13 @@ public class GameStatus : MonoBehaviour
     private string matchLogFileName;
     private string matchReportFileName;
     private string matchReportCSVFileName;
+    private string totalDetailedReportFileName;
+    private string totalSimpleReportFileName;
     private string matchLogPath;
     private string matchReportPath;
     private string matchReportCSVPath;
+    private string totalDetailedReportPath;
+    private string totalSimpleReportPath;
     private bool matchReportWritten;
     
 
@@ -101,12 +105,12 @@ public class GameStatus : MonoBehaviour
             initalStartLocation();
         }
         if (isGameOver() && this.gameOver == false){
+            this.gameOver = true;
             Debug.Log("Winner: " + this.winner);
             if (!this.matchReportWritten){
                 writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {"Match Ended", ("Winner: " + this.winner)});
                 writeMatchReport();
             }
-            this.gameOver = true;
         }
 
         updateScores();
@@ -251,17 +255,31 @@ public class GameStatus : MonoBehaviour
         //Match Report
         this.matchReportFileName = (this.matchStartDateTime + "-MR-Formatted");
         this.matchReportCSVFileName = (this.matchStartDateTime + "-MR");
+        this.totalDetailedReportFileName = ("Cumulative-Match-Reports-Detailed");
+        this.totalSimpleReportFileName = ("Cumulative-Match-Reports-Simple");
         this.matchReportPath = (Application.dataPath + "/GameLogs/MatchReports/" + this.matchReportFileName + ".txt");
         this.matchReportCSVPath = (Application.dataPath + "/GameLogs/MatchReports/" + this.matchReportCSVFileName + ".csv");
+        this.totalDetailedReportPath = (Application.dataPath + "/GameLogs/" + this.totalDetailedReportFileName + ".csv");
+        this.totalSimpleReportPath = (Application.dataPath + "/GameLogs/" + this.totalSimpleReportFileName + ".csv");
 
         if(!File.Exists(this.matchReportCSVPath)){
-            string content = "TEAM,AI TYPE,NAME,TOTAL,CAPTURES,DEFENDS,KILLS" + "\n==============================================" + "\n";
+            string content = "TEAM,AI TYPE,NAME,TOTAL,CAPTURES,DEFENDS,KILLS,DATE/TIME" + "\n==============================================" + "\n";
             File.WriteAllText(this.matchReportCSVPath, content);
         }
         
         if(!File.Exists(this.matchReportPath)){
             string content = "MATCH REPORT: " + dateTimeFormat + "\n" + "---------------------------------";
             File.WriteAllText(this.matchReportPath, content + "\n\n");
+        }
+
+        if(!File.Exists(this.totalDetailedReportPath)){
+            string content = "TEAM,AI TYPE,NAME,TOTAL,CAPTURES,DEFENDS,KILLS,DATE/TIME" + "\n==============================================" + "\n";
+            File.WriteAllText(this.totalDetailedReportPath, content);
+        }
+
+        if(!File.Exists(this.totalSimpleReportPath)){
+            string content = "TEAM,AI TYPE,TOTAL,CAPTURES,DEFENDS,KILLS,WON,DATE/TIME" + "\n==============================================" + "\n";
+            File.WriteAllText(this.totalSimpleReportPath, content);
         }
 
         //Match Log
@@ -277,7 +295,26 @@ public class GameStatus : MonoBehaviour
     private async void writeMatchReport()
     {   
         if(File.Exists(this.matchReportPath)){
-            string csvContent = "";
+            string csvContent = "";           
+            
+            string totalReportContent = "";
+            totalReportContent = totalReportContent + "red," + this.redTeamAiType + "," + this.redTeamScore + "," + this.redTeamCaptureScore + "," + this.redTeamDefendScore + "," + this.redTeamKillScore + ",";
+            if(this.winner == "red"){
+                totalReportContent = totalReportContent + "yes,";
+            }
+            else {
+                totalReportContent = totalReportContent + "no,";
+            } 
+            totalReportContent = totalReportContent + this.matchStartDateTime + "\n";
+            totalReportContent = totalReportContent + "blue," + this.blueTeamAiType + "," + this.blueTeamScore + "," + this.blueTeamCaptureScore + "," + this.blueTeamDefendScore + "," + this.blueTeamKillScore + ",";
+            if(this.winner == "blue"){
+                totalReportContent = totalReportContent + "yes,";
+            }
+            else {
+                totalReportContent = totalReportContent + "no,";
+            } 
+            totalReportContent = totalReportContent + this.matchStartDateTime + "\n";
+            
             string content = 
                 "WINNER" + "\n" +
                 string.Format("{0,-56}","=======================") + "\n" +
@@ -305,7 +342,7 @@ public class GameStatus : MonoBehaviour
                 content = content + 
                     String.Format("|{0,-10}|{1,-10}|{2,-10}|{3,-10}|{4,-10}|{5,-10}|{6,-10}|", r.team, r.aiType, r.name, r.getTotalScore(), r.getCaptureScore(), r.getDefendScore(), r.getKillScore()) + "\n" +
                     string.Format("{0,-56}","------------------------------------------------------------------------------") + "\n";
-                csvContent = csvContent + (r.team + "," + r.aiType + "," + r.name + "," + r.getTotalScore() + "," + r.getCaptureScore() + "," + r.getDefendScore() + "," + r.getKillScore() + "\n");
+                csvContent = csvContent + (r.team + "," + r.aiType + "," + r.name + "," + r.getTotalScore() + "," + r.getCaptureScore() + "," + r.getDefendScore() + "," + r.getKillScore() + "," + this.matchStartDateTime + "\n");
             }                
 
             content = content + "\nBLUE TEAM OVERVIEW" + "\n" +
@@ -318,12 +355,15 @@ public class GameStatus : MonoBehaviour
                 content = content + 
                     String.Format("|{0,-10}|{1,-10}|{2,-10}|{3,-10}|{4,-10}|{5,-10}|{6,-10}|", b.team, b.aiType, b.name, b.getTotalScore(), b.getCaptureScore(), b.getDefendScore(), b.getKillScore()) + "\n" +
                     string.Format("{0,-56}","------------------------------------------------------------------------------") + "\n";
-                csvContent = csvContent + (b.team + "," + b.aiType + "," + b.name + "," + b.getTotalScore() + "," + b.getCaptureScore() + "," + b.getDefendScore() + "," + b.getKillScore() + "\n");
+                csvContent = csvContent + (b.team + "," + b.aiType + "," + b.name + "," + b.getTotalScore() + "," + b.getCaptureScore() + "," + b.getDefendScore() + "," + b.getKillScore() + "," + this.matchStartDateTime + "\n");
             }            
 
             File.AppendAllText(this.matchReportPath, content);
             File.AppendAllText(this.matchReportCSVPath, csvContent);
+            File.AppendAllText(this.totalSimpleReportPath, totalReportContent);
+            File.AppendAllText(this.totalDetailedReportPath, csvContent);
             this.matchReportWritten = true;
+            Debug.Log("Report Written");
         }
     }
 
