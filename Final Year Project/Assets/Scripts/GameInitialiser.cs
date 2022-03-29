@@ -10,6 +10,7 @@ public class GameInitialiser : MonoBehaviour
 //SettingsUI
 
     private GameObject settingsUI;
+    private GameObject gameOverUI;
     public Button startButton;
     public Text numGamesTxt;
 
@@ -47,6 +48,7 @@ public class GameInitialiser : MonoBehaviour
         this.startButton.interactable = false;
         this.gamesPlayed = 0;
         this.settingsUI = GameObject.FindWithTag("SettingsUI");
+        this.gameOverUI = GameObject.FindWithTag("GameOverUI");
         this.gameOver = false;
     }
 
@@ -58,6 +60,7 @@ public class GameInitialiser : MonoBehaviour
 
             if (gs.getGameOver() == true && this.gameOver == false){
                 this.gameOver = true;
+                this.gameOverUI.SetActive(true);
                 for (int i = 0; i < requiredObjects.Count; i++){
                     Destroy(requiredObjects[i]); 
                 }
@@ -129,14 +132,19 @@ public class GameInitialiser : MonoBehaviour
     }
 
     IEnumerator newGameWaiter(){
-        yield return new WaitForSeconds(3);
+        Text txt = this.gameOverUI.transform.GetChild(0).GetChild(3).gameObject.GetComponent<Text>();
+        txt.text = "3";
+        yield return new WaitForSeconds(1);
+        txt.text = "2";
+        yield return new WaitForSeconds(1);
+        txt.text = "1";
+        yield return new WaitForSeconds(1);
         startGame();
     }
 
     public void startGame(){
         this.settingsDone = true;
-        
-
+        this.gameOverUI.SetActive(false);
 
         switch(this.redTeamAIType){
             case "state":
