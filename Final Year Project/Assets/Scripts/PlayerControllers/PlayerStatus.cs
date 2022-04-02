@@ -108,7 +108,6 @@ public class PlayerStatus : MonoBehaviour
     }
 
     public void initalStartLocation(int index){
-        Debug.Log("index: " + index);
         float x = this.respawnPoints[index].transform.position.x;
         float y = this.respawnPoints[index].transform.position.y;
         float z = this.respawnPoints[index].transform.position.z;

@@ -120,7 +120,6 @@ public class GameInitialiser : MonoBehaviour
 
     public void handleNumGamesInputData (){
         string val = numGamesTxt.text;
-        Debug.Log(val);
         bool isNumber = int.TryParse(val, out this.numGames);
 
         if (!isNumber) {

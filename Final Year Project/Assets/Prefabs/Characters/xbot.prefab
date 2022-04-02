@@ -1236,8 +1236,11 @@ GameObject:
   - component: {fileID: 2589556401393209231}
   - component: {fileID: 1992185847513217523}
   - component: {fileID: 7363661072283622404}
-  - component: {fileID: 6256423440722772674}
   - component: {fileID: 5650315231761333013}
+  - component: {fileID: 3816245128480190722}
+  - component: {fileID: 6256423440722772674}
+  - component: {fileID: 1435632129904277916}
+  - component: {fileID: 2547454522125826981}
   m_Layer: 8
   m_Name: xbot
   m_TagString: RedPlayer
@@ -1294,22 +1297,6 @@ CapsuleCollider:
   m_Height: 1.78
   m_Direction: 1
   m_Center: {x: 0, y: 0.87, z: 0}
---- !u!114 &6256423440722772674
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4523076993739861292}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52367f01f2e3e024aa09158dee3c7d50, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  name: 
-  aiType: 
-  team: 
-  dead: 0
 --- !u!195 &5650315231761333013
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1332,6 +1319,66 @@ NavMeshAgent:
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!95 &3816245128480190722
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4523076993739861292}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 84d6c44eee0d3404cbbe0160dfb07aeb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &6256423440722772674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4523076993739861292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52367f01f2e3e024aa09158dee3c7d50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: 
+  aiType: 
+  team: 
+  dead: 0
+--- !u!114 &1435632129904277916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4523076993739861292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3aa5ae8c5d5470c88c7e493b6f52b1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2547454522125826981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4523076993739861292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fdbb0d23c9947e429033d3f18ca07db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _maxCarried: 20
 --- !u!1 &4810299902195152667
 GameObject:
   m_ObjectHideFlags: 0

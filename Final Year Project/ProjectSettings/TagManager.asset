@@ -19,6 +19,9 @@ TagManager:
   - aProgressBar
   - bProgressBar
   - cProgressBar
+  - GameOverUI
+  - NavMesh
+  - Hardpoint
   layers:
   - Default
   - TransparentFX
