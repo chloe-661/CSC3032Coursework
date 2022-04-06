@@ -107,7 +107,7 @@ public class GameStatus : MonoBehaviour
         }
         if (isGameOver() && this.gameOver == false){
             this.gameOver = true;
-            Debug.Log("Winner: " + this.winner);
+            Debug.Log("WINNER: " + this.winner);
             if (!this.matchReportWritten){
                 writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {"Match Ended", ("Winner: " + this.winner)});
                 writeMatchReport();
@@ -173,10 +173,10 @@ public class GameStatus : MonoBehaviour
     public void addToKillScores(string teamThatDied){
         //Takes in team of player that died
         if (teamThatDied == "red"){
-            this.blueTeamKillScore ++;
+            this.blueTeamKillScore += 1;
         }
         else if (teamThatDied == "blue"){
-            this.redTeamKillScore ++;
+            this.redTeamKillScore += 1;
         }
     }
     
@@ -213,7 +213,7 @@ public class GameStatus : MonoBehaviour
         }
         this.redTeamCaptureScore = captureScore;
         this.redTeamDefendScore = defendScore;
-        this.redTeamKillScore = killScore;
+        // this.redTeamKillScore = killScore;
         this.redTeamScore = this.redTeamCaptureScore + this.redTeamDefendScore;
 
         //Reset
@@ -230,7 +230,7 @@ public class GameStatus : MonoBehaviour
         }
         this.blueTeamCaptureScore = captureScore;
         this.blueTeamDefendScore = defendScore;
-        this.blueTeamKillScore = killScore;
+        // this.blueTeamKillScore = killScore;
         this.blueTeamScore = this.blueTeamCaptureScore + this.blueTeamDefendScore;
         
         updateScoreUI();
@@ -242,6 +242,9 @@ public class GameStatus : MonoBehaviour
 
         r.transform.Find("redTotalScore").gameObject.GetComponent<Text>().text = this.redTeamScore.ToString();
         b.transform.Find("blueTotalScore").gameObject.GetComponent<Text>().text = this.blueTeamScore.ToString();
+
+        r.transform.Find("redAiType").gameObject.GetComponent<Text>().text = ("AI Type: " + this.redTeamAiType);
+        b.transform.Find("blueAiType").gameObject.GetComponent<Text>().text = ("AI Type: " + this.blueTeamAiType);
 
         r.transform.Find("redCaptureScore").gameObject.GetComponent<Text>().text = ("Capture Score: " + this.redTeamCaptureScore.ToString());
         b.transform.Find("blueCaptureScore").gameObject.GetComponent<Text>().text = ("Capture Score: " + this.blueTeamCaptureScore.ToString());
@@ -374,7 +377,6 @@ public class GameStatus : MonoBehaviour
             File.AppendAllText(this.totalSimpleReportPath, totalReportContent);
             File.AppendAllText(this.totalDetailedReportPath, csvContent);
             this.matchReportWritten = true;
-            Debug.Log("Report Written");
         }
     }
 

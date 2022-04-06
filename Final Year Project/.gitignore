@@ -24,7 +24,7 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 # NavMesh components
-/[Aa]ssets/NavMeshComponents-master*
+/[Aa]ssets/ExternalAssets/NavMeshComponents-master*
 
 # Visual Studio cache directory
 .vs/

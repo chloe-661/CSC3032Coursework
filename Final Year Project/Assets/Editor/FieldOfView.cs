@@ -8,6 +8,7 @@ public class FieldOfView : Editor
 {
     void OnSceneGUI(){
         StateAiEnemyDetection fov = (StateAiEnemyDetection)target;
+        
         Handles.color = Color.black;
         Handles.DrawWireArc(fov.transform.position, Vector3.up, Vector3.forward, 360, fov.VIEWRADIUS);
         Handles.DrawWireArc(fov.transform.position, Vector3.up, Vector3.forward, 360, fov.ATTACKRADIUS);

@@ -171,9 +171,11 @@ public class HardpointController : MonoBehaviour
 
     private void congested(){
         Debug.Log("Hardpoint Congested");
+        
         this.state = "congested";
         this.counterActive = false;
         updateProgressBar();
+        updateColor();
 
         GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
         string logMessage = ("Congested hardpoint: " + this.name);

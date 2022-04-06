@@ -7,15 +7,13 @@ using UnityEngine.UI;
 public class GameInitialiser : MonoBehaviour
 {
 
-//SettingsUI
-
+    //SettingsUI
     private GameObject settingsUI;
     private GameObject gameOverUI;
     public Button startButton;
     public Text numGamesTxt;
 
-//Prefabs
-
+    //Prefabs
     public GameObject gameUI;
     public GameObject gameStatus;
     public GameObject stateRedTeam;
@@ -25,8 +23,7 @@ public class GameInitialiser : MonoBehaviour
     // public GameObject machineBlueTeam;
 
 
-//For the new instances created
-
+    //For the new instances created
     private List<GameObject> requiredObjects = new List<GameObject>();
     private GameStatus gs;
 
@@ -38,7 +35,8 @@ public class GameInitialiser : MonoBehaviour
     private bool settingsDone;
     private bool gameOver;
 
-    // Start is called before the first frame update
+// LIFECYCLE METHODS ------------------------------------------------------------------------
+
     void Start()
     {
         //Default game...
@@ -52,7 +50,6 @@ public class GameInitialiser : MonoBehaviour
         this.gameOver = false;
     }
 
-    // Update is called once per frame
     async void Update()
     {
         if (this.settingsDone){
@@ -68,11 +65,10 @@ public class GameInitialiser : MonoBehaviour
                 this.gamesPlayed++;
 
                 if (this.gamesPlayed < this.numGames){
-                    Debug.Log("Starting new game");
+                    Debug.Log("STARTING NEW GAME");
                     StartCoroutine(newGameWaiter());
                 }
                 else if (this.gamesPlayed == this.numGames){
-                    Debug.Log("Finished playing all the games it was supposed to");
                     this.settingsDone = false;
                     this.gamesPlayed = 0;
                 }
@@ -82,6 +78,8 @@ public class GameInitialiser : MonoBehaviour
             this.settingsUI.SetActive(true);
         }
     }
+
+// METHODS --------------------------------------------------------------------------------
 
     public void handleRedTeamInputData(int val){
         switch(val){

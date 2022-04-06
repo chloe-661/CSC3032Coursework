@@ -4,20 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    public void loadScene(string sceneName){
+{    public void loadScene(string sceneName){
         SceneManager.LoadScene(sceneName);
     }
 }

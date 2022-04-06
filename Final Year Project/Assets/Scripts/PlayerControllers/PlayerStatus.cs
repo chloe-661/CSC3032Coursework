@@ -10,9 +10,6 @@ public class PlayerStatus : MonoBehaviour
     public string aiType;
     public string team;
     
-    private float x;
-    private float y;
-    
     private float health;
     public bool dead;
     
@@ -25,16 +22,37 @@ public class PlayerStatus : MonoBehaviour
 
     public bool inPlay;
     public bool inHardpoint;
-
     public bool beingAttacked;
 
     private GameObject centerTarget;
-
+    
     private float counter;
 
     private List<GameObject> respawnPoints = new List<GameObject>();
 
-    // Start is called before the first frame update
+// GETTER METHODS --------------------------------------------------------------------------
+
+    public float getCaptureScore(){ return this.captureScore; }
+    public float getDefendScore(){ return this.defendScore; }
+    public float getKillScore(){ return this.killScore; }
+    public float getTotalScore(){ return this.totalScore; }
+    public float getHealth(){ return this.health; }
+    public float getBulletDamage(){ return this.bulletDamage; }
+    public List<GameObject> getRespawnPoints() { return this.respawnPoints; }
+
+// SETTER METHODS -------------------------------------------------------------------------
+
+    public void setHealth(float health){ 
+        if (health >= 0 && health <= 100) {
+            this.health = health;
+        }
+        else {
+            this.health = 0;
+        }
+    }
+
+// LIFECYCLE METHODS --------------------------------------------------------------------
+
     void Start()
     {
         this.centerTarget = GameObject.FindWithTag("CenterTarget");
@@ -51,7 +69,6 @@ public class PlayerStatus : MonoBehaviour
         getRespawnPointsFromGame();
     }
 
-    // Update is called once per frame
     void Update()
     {
         this.totalScore = this.captureScore + this.defendScore;
@@ -67,22 +84,7 @@ public class PlayerStatus : MonoBehaviour
         }
     }
 
-    public float getCaptureScore(){ return this.captureScore; }
-    public float getDefendScore(){ return this.defendScore; }
-    public float getKillScore(){ return this.killScore; }
-    public float getTotalScore(){ return this.totalScore; }
-    public float getHealth(){ return this.health; }
-    public float getBulletDamage(){ return this.bulletDamage; }
-    public List<GameObject> getRespawnPoints() { return this.respawnPoints; }
-
-    public void setHealth(float health){ 
-        if (health >= 0 && health <= 100) {
-            this.health = health;
-        }
-        else {
-            this.health = 0;
-        }
-    }
+// METHODS --------------------------------------------------------------------------------
 
     public void addToHealth(float amount){ 
         if (this.health + amount <= 100) {

@@ -1930,8 +1930,8 @@ GameObject:
   - component: {fileID: 5079335655272727378}
   - component: {fileID: 3243820419233480663}
   - component: {fileID: 7221722868812663357}
-  - component: {fileID: 5904665339815998088}
   - component: {fileID: 4570422014923967082}
+  - component: {fileID: 5904665339815998088}
   m_Layer: 0
   m_Name: ybotPistol
   m_TagString: BluePlayer
@@ -2028,25 +2028,6 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 1, z: 0}
---- !u!114 &5904665339815998088
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4065464954294636611}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52367f01f2e3e024aa09158dee3c7d50, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  name: 
-  aiType: 
-  team: blue
-  dead: 0
-  inPlay: 0
-  inHardpoint: 0
-  beingAttacked: 0
 --- !u!96 &4570422014923967082
 TrailRenderer:
   serializedVersion: 2
@@ -2155,6 +2136,25 @@ TrailRenderer:
   m_MinVertexDistance: 0.1
   m_Autodestruct: 0
   m_Emitting: 1
+--- !u!114 &5904665339815998088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4065464954294636611}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52367f01f2e3e024aa09158dee3c7d50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: 
+  aiType: 
+  team: blue
+  dead: 0
+  inPlay: 0
+  inHardpoint: 0
+  beingAttacked: 0
 --- !u!1 &4114030615378554161
 GameObject:
   m_ObjectHideFlags: 0
