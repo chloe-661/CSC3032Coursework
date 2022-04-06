@@ -9,6 +9,8 @@ internal class Patrol : IState
     private readonly Animator _animator;
     private float _resourcesPerSecond = 3;
     private float PATROL_RADIUS = 5f;
+    private float PATROL_SPEED = 1f;
+    private float RUN_SPEED = 3.5f;
     private Vector3 away;
 
     private float _nextTakeResourceTime;
@@ -19,6 +21,7 @@ internal class Patrol : IState
         this.player = player;
         _navMeshAgent = navMeshAgent;
         _animator = animator;
+        
     }
 
 
@@ -31,12 +34,14 @@ internal class Patrol : IState
         _animator.SetBool("isPatrolling", true);
         _animator.SetBool("isAttacking", false);
         away = getRandomPoint();
+        _navMeshAgent.speed = PATROL_SPEED;
         _navMeshAgent.SetDestination(away);
     }
 
     public void Tick()
     {
         if (Vector3.Distance(this.player.transform.position, away) < 0.5f){
+            Debug.Log("PATROL TICK IF STATEMENT");
             away = getRandomPoint();
             _navMeshAgent.SetDestination(away);
         }
@@ -44,6 +49,7 @@ internal class Patrol : IState
 
     private Vector3 getRandomPoint()
     {
+        Debug.Log("CHOSEN A NEW POINT");
         List<GameObject> patrolPoints = new List<GameObject>();
         Transform parent = this.player.Target.transform.parent;
 
@@ -53,7 +59,14 @@ internal class Patrol : IState
         }
 
         int rndNum = Random.Range(0, patrolPoints.Count);
-        return patrolPoints[rndNum].transform.position;
+        float x = patrolPoints[rndNum].transform.position.x;
+        float y = 1f;
+        float z = patrolPoints[rndNum].transform.position.z;
+        Vector3 point = new Vector3(x,y,z);
+
+        this.player.patrolTarget = point;
+
+        return point;
     }
 
     public void OnExit()
@@ -61,6 +74,7 @@ internal class Patrol : IState
         _animator.SetBool("isRunning", false);
         _animator.SetBool("isPatrolling", false);
         _animator.SetBool("isAttacking", false);
+        _navMeshAgent.speed = RUN_SPEED;
         Debug.Log("EXIT PATROL");
     }
 }

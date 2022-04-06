@@ -12,7 +12,7 @@ public class Flee : IState
 
     // private float _initialSpeed;
     // private const float FLEE_SPEED = 6F;
-    private const float FLEE_DISTANCE = 5F;
+    private const float FLEE_DISTANCE = 10f;
     public float TimeStuck;
     private Vector3 _lastPosition = Vector3.zero;
 
