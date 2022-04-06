@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class PlayerStatus : MonoBehaviour
 {
@@ -29,6 +30,8 @@ public class PlayerStatus : MonoBehaviour
 
     private GameObject centerTarget;
 
+    private float counter;
+
     private List<GameObject> respawnPoints = new List<GameObject>();
 
     // Start is called before the first frame update
@@ -42,6 +45,7 @@ public class PlayerStatus : MonoBehaviour
         this.killScore = 0f;
         this.totalScore = 0f;
         this.inHardpoint = false;
+        this.counter = 0f;
 
         whichTeam();
         getRespawnPointsFromGame();
@@ -55,7 +59,11 @@ public class PlayerStatus : MonoBehaviour
         isDead();
 
         if(this.inPlay){
-            //can move....
+            if (this.counter >= 2){
+                healthRegen();
+                this.counter = 0;
+            }
+            this.counter += Time.deltaTime;
         }
     }
 
@@ -76,6 +84,15 @@ public class PlayerStatus : MonoBehaviour
         }
     }
 
+    public void addToHealth(float amount){ 
+        if (this.health + amount <= 100) {
+            this.health += amount;
+        }
+        else {
+            this.health = 100;
+        }
+    }
+
     public void addToCaptureScore(float num){
         this.captureScore += num;
     }
@@ -86,6 +103,12 @@ public class PlayerStatus : MonoBehaviour
 
     public void addToKillScore(){
         this.killScore += 1;
+    }
+
+    private void healthRegen(){
+        if (this.health < 100){
+            addToHealth(10f);
+        }
     }
 
     private string whichTeam(){
@@ -132,34 +155,13 @@ public class PlayerStatus : MonoBehaviour
     }
 
     public void initalStartLocation(int index){
+        this.GetComponent<NavMeshAgent>().enabled = false;
+        this.GetComponent<TrailRenderer>().enabled = false;
         float x = this.respawnPoints[index].transform.position.x;
         float y = 1.5f;
         float z = this.respawnPoints[index].transform.position.z;
 
         this.transform.position = new Vector3(x, y, z);
         this.transform.LookAt(this.centerTarget.transform);
-    }
-    private void respawn(){
-        StartCoroutine(respawnWaiter());
-    }
-
-    IEnumerator respawnWaiter()
-    {
-        int num = Random.Range(0, this.respawnPoints.Count);
-        float x = this.respawnPoints[num].transform.position.x;
-        float y = this.respawnPoints[num].transform.position.y;
-        float z = this.respawnPoints[num].transform.position.z;
-
-        this.transform.position = new Vector3(x, y, z);
-        this.transform.LookAt(this.centerTarget.transform);
-
-        yield return new WaitForSeconds(3);
-        this.health = 100f;
-        this.inPlay = true;
-
-        string logMessage = (this.team + ":" + this.name + " respawned");
-
-        GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
-        gs.writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {logMessage});
     }
 }

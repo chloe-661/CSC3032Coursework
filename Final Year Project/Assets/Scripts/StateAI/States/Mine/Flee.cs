@@ -12,13 +12,12 @@ public class Flee : IState
 
     // private float _initialSpeed;
     // private const float FLEE_SPEED = 6F;
-    private const float FLEE_DISTANCE = 15F;
+    private const float FLEE_DISTANCE = 5F;
     public float TimeStuck;
     private Vector3 _lastPosition = Vector3.zero;
 
     public Flee(StateAiPlayerController player, NavMeshAgent navMeshAgent, StateAiEnemyDetection enemyDetector)
     {
-        Debug.Log("Flee Constructor");
         this.player = player;
         _navMeshAgent = navMeshAgent;
         _enemyDetector = enemyDetector;
@@ -26,12 +25,14 @@ public class Flee : IState
 
     public void OnEnter()
     {
-        Debug.Log("Flee OnEnter");
         TimeStuck = 0f;
         _navMeshAgent.enabled = true;
+        this.player.decision = "continue";
+        this.player.attackDecision_flee = false;
 
         var away = getRandomPoint();
         _navMeshAgent.SetDestination(away);
+        Debug.Log("ENTERED FLEE");
     }
 
     public void Tick()
@@ -44,16 +45,20 @@ public class Flee : IState
 
     private Vector3 getRandomPoint()
     {
-        Debug.Log("Entered getRandomPoint");
-        var directionFromEnemy = this.player.transform.position - _enemyDetector.getFirstSeenEnemy();
-        directionFromEnemy.Normalize();
+        Vector3 direction = new Vector3();
+        if (_enemyDetector.getVisibleEnemyTargets().Count > 0){
+            direction = this.player.transform.position - _enemyDetector.getFirstSeenEnemy();    
+        }
+        else {
+            direction = this.player.transform.forward;    
+        }
+        direction.Normalize();
 
-        var endPoint = this.player.transform.position + (directionFromEnemy * FLEE_DISTANCE);
+        var endPoint = this.player.transform.position + (direction * FLEE_DISTANCE);
         Debug.Log(endPoint);
         if (NavMesh.SamplePosition(endPoint, out var hit, 10f, NavMesh.AllAreas))
         {
-            Debug.Log("Found valid point");
-            Vector3 validPosition = new Vector3(hit.position.x, 1.3f, hit.position.z);
+            Vector3 validPosition = new Vector3(hit.position.x, 1f, hit.position.z);
             this.player.fleeTarget = validPosition;
             return validPosition;
         }
@@ -63,8 +68,10 @@ public class Flee : IState
 
     public void OnExit()
     {
-        Debug.Log("Flee OnExit");
+        this.player.decision = "continue";
         this.player.attackDecision_flee = false;
+        Debug.Log("EXITTED FLEE");
+
         // _navMeshAgent.speed = _initialSpeed;
         // _navMeshAgent.enabled = false;
         // _animator.SetBool(FleeHash, false);

@@ -7,10 +7,10 @@ using UnityEditor;
 public class FieldOfView : Editor
 {
     void OnSceneGUI(){
-        Debug.Log("Running OnSceneGUI");
         StateAiEnemyDetection fov = (StateAiEnemyDetection)target;
         Handles.color = Color.black;
         Handles.DrawWireArc(fov.transform.position, Vector3.up, Vector3.forward, 360, fov.VIEWRADIUS);
+        Handles.DrawWireArc(fov.transform.position, Vector3.up, Vector3.forward, 360, fov.ATTACKRADIUS);
         Vector3 viewAngleA = fov.directionFromAngle (-fov.VIEWANGLE / 2, false);
 		Vector3 viewAngleB = fov.directionFromAngle (fov.VIEWANGLE / 2, false);
 

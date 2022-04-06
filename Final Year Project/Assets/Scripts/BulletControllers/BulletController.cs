@@ -31,14 +31,17 @@ public class BulletController : MonoBehaviour
             || other.gameObject.tag == "RedPlayer" || other.gameObject.tag == "BluePlayer")
         {
             Destroy(this.gameObject);
+            Debug.Log("Destroying bullet - trigger");
         }
     }
 
     private void OnCollisionEnter (Collision other) {
-        if (other.gameObject.tag == "Wall" || other.gameObject.tag == "Ground" 
-            || other.gameObject.tag == "RedPlayer" || other.gameObject.tag == "BluePlayer")
-        {    
+        if (other.gameObject.tag == "Wall" || other.gameObject.tag == "Ground"){    
             Destroy(this.gameObject);
+        }
+        else if (other.gameObject.tag == "RedPlayer" || other.gameObject.tag == "BluePlayer"){
+            Destroy(this.gameObject);
+            Debug.Log("Destroying bullet");
         }
     }
 }

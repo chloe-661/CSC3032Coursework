@@ -99,6 +99,7 @@ public class GameStatus : MonoBehaviour
         createTextFiles();
         writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {"Match Started"});
     }
+
     void Update()
     {
         if (!this.init){
@@ -167,6 +168,16 @@ public class GameStatus : MonoBehaviour
             this.blueTeam[j].GetComponent<PlayerStatus>().initalStartLocation(j);
         }
         
+    }
+
+    public void addToKillScores(string teamThatDied){
+        //Takes in team of player that died
+        if (teamThatDied == "red"){
+            this.blueTeamKillScore ++;
+        }
+        else if (teamThatDied == "blue"){
+            this.redTeamKillScore ++;
+        }
     }
     
     private bool isGameOver(){

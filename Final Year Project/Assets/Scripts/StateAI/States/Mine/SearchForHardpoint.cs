@@ -2,14 +2,24 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class SearchForHardpoint : IState
 {
     private StateAiPlayerController player;
+    private NavMeshAgent navMeshAgent;
+    private TrailRenderer trailRenderer;
 
-    public SearchForHardpoint(StateAiPlayerController player)
+    public SearchForHardpoint(StateAiPlayerController player, NavMeshAgent navMeshAgent, TrailRenderer trailRenderer)
     {
         this.player = player;
+        this.navMeshAgent = navMeshAgent;
+        this.trailRenderer = trailRenderer;
+    }
+
+    public void OnEnter() { 
+        this.navMeshAgent.enabled = true;
+        this.trailRenderer.enabled = true;
     }
 
     public void Tick()
@@ -31,20 +41,17 @@ public class SearchForHardpoint : IState
         //If the nearest hardpoint has not been captured by your team
         if (orderedHardpoints[0].GetComponent<HardpointController>().getOwner() != this.player.ps.team){
             //Probabilities:
-            //Capture Nearest 95%
-            //Capture Other 2.5%
-            //Capture Other 2.5%
+            //Capture Nearest 80%
+            //Capture Second Nearest 15%
+            //Capture Other 5%
 
             var options = new List<KeyValuePair<GameObject, float>>() 
             { 
-                new KeyValuePair<GameObject, float>(orderedHardpoints[2], 0.025f),
-                new KeyValuePair<GameObject, float>(orderedHardpoints[1], 0.025f),
-                new KeyValuePair<GameObject, float>(orderedHardpoints[0], 0.95f),
+                new KeyValuePair<GameObject, float>(orderedHardpoints[2], 0.5f),
+                new KeyValuePair<GameObject, float>(orderedHardpoints[1], 0.15f),
+                new KeyValuePair<GameObject, float>(orderedHardpoints[0], 0.80f),
             };
-            GameObject temp = makeDecision(options);
-            // Debug.Log(this.player.ps.name + "has chosen hardpoint: " + temp.name);
-            return temp.transform.GetChild(0).gameObject;
-            //return makeDecision(options).transform.GetChild(0).gameObject;
+            return makeDecision(options).transform.GetChild(0).gameObject;
             
         }
         else {
@@ -62,9 +69,7 @@ public class SearchForHardpoint : IState
                     new KeyValuePair<GameObject, float>(orderedHardpoints[2], 0.1f),
                     new KeyValuePair<GameObject, float>(orderedHardpoints[1], 0.85f),
                 };
-                GameObject temp = makeDecision(options);
-                // Debug.Log(this.player.ps.name + "has chosen hardpoint: " + temp.name);
-                return temp.transform.GetChild(0).gameObject;
+                return makeDecision(options).transform.GetChild(0).gameObject;
             }
             //If the nearest hardpoint has been captured by your team
             //If the second nearest hardpoint has not been captured
@@ -80,9 +85,7 @@ public class SearchForHardpoint : IState
                     new KeyValuePair<GameObject, float>(orderedHardpoints[0], 0.1f),
                     new KeyValuePair<GameObject, float>(orderedHardpoints[1], 0.85f),
                 };
-                GameObject temp = makeDecision(options);
-                // Debug.Log(this.player.ps.name + "has chosen hardpoint: " + temp.name);
-                return temp.transform.GetChild(0).gameObject;
+                return makeDecision(options).transform.GetChild(0).gameObject;
             }
             //If the nearest hardpoint has been captured by your team
             //If the second nearest hardpoint has also been captured by your team
@@ -98,9 +101,7 @@ public class SearchForHardpoint : IState
                     new KeyValuePair<GameObject, float>(orderedHardpoints[0], 0.15f),
                     new KeyValuePair<GameObject, float>(orderedHardpoints[2], 0.8f),
                 };
-                GameObject temp = makeDecision(options);
-                // Debug.Log(this.player.ps.name + "has chosen hardpoint: " + temp.name);
-                return temp.transform.GetChild(0).gameObject;
+                return makeDecision(options).transform.GetChild(0).gameObject;
             }
             //If all hardpoint have been captured by your team
             else {
@@ -114,9 +115,7 @@ public class SearchForHardpoint : IState
                     new KeyValuePair<GameObject, float>(orderedHardpoints[1], 0.3f),
                     new KeyValuePair<GameObject, float>(orderedHardpoints[0], 0.6f),
                 };
-                GameObject temp = makeDecision(options);
-                // Debug.Log(this.player.ps.name + "has chosen hardpoint: " + temp.name);
-                return temp.transform.GetChild(0).gameObject;
+                return makeDecision(options).transform.GetChild(0).gameObject;
             }
         }
         return null;
@@ -136,7 +135,5 @@ public class SearchForHardpoint : IState
 
         return null;
     }
-
-    public void OnEnter() { }
     public void OnExit() { }
 }

@@ -19,7 +19,7 @@ public class StateAiPlayerCollisionController : MonoBehaviour
     void Update()
     {
         timePassedSinceLastBulletHit();
-        if (this.timePassedBullet > 2){
+        if (this.timePassedBullet >= 2){
             ps.beingAttacked = false;
         }
     }
