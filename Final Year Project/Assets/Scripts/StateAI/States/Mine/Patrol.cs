@@ -33,9 +33,15 @@ internal class Patrol : IState
 
     public void OnEnter()
     {
+        _animator.SetBool("isRunning", false);
+        _animator.SetBool("isPatrolling", true);
+        _animator.SetBool("isAttacking", false);
     }
 
     public void OnExit()
     {
+        _animator.SetBool("isRunning", false);
+        _animator.SetBool("isPatrolling", false);
+        _animator.SetBool("isAttacking", false);
     }
 }

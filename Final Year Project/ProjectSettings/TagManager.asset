@@ -22,6 +22,11 @@ TagManager:
   - GameOverUI
   - NavMesh
   - Hardpoint
+  - BulletSpawnPoint
+  - Gun
+  - Bullet
+  - Wall
+  - Ground
   layers:
   - Default
   - TransparentFX

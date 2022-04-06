@@ -20,7 +20,12 @@ public class PlayerStatus : MonoBehaviour
     private float killScore;
     private float totalScore;
 
-    private bool inPlay;
+    private float bulletDamage = 25f;
+
+    public bool inPlay;
+    public bool inHardpoint;
+
+    public bool beingAttacked;
 
     private GameObject centerTarget;
 
@@ -36,9 +41,10 @@ public class PlayerStatus : MonoBehaviour
         this.defendScore = 0f;
         this.killScore = 0f;
         this.totalScore = 0f;
+        this.inHardpoint = false;
 
         whichTeam();
-        getRespawnPoints();
+        getRespawnPointsFromGame();
     }
 
     // Update is called once per frame
@@ -57,6 +63,18 @@ public class PlayerStatus : MonoBehaviour
     public float getDefendScore(){ return this.defendScore; }
     public float getKillScore(){ return this.killScore; }
     public float getTotalScore(){ return this.totalScore; }
+    public float getHealth(){ return this.health; }
+    public float getBulletDamage(){ return this.bulletDamage; }
+    public List<GameObject> getRespawnPoints() { return this.respawnPoints; }
+
+    public void setHealth(float health){ 
+        if (health >= 0 && health <= 100) {
+            this.health = health;
+        }
+        else {
+            this.health = 0;
+        }
+    }
 
     public void addToCaptureScore(float num){
         this.captureScore += num;
@@ -88,13 +106,19 @@ public class PlayerStatus : MonoBehaviour
     private void isDead(){
         if (this.health <= 0 || this.dead == true){
             if (this.inPlay == true) {
+                this.dead = true;
                 this.inPlay = false;
-                respawn();
+
+                //FSM will reset these....
+
+                string logMessage = (this.team + ":" + this.name + " respawned");
+                GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+                gs.writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {logMessage});
             }
         }
     }
 
-    private void getRespawnPoints(){
+    private void getRespawnPointsFromGame(){
         if (this.team == "red"){
             foreach(GameObject obj in GameObject.FindGameObjectsWithTag("RedRespawnPoint")) {
                 this.respawnPoints.Add(obj);
@@ -109,7 +133,7 @@ public class PlayerStatus : MonoBehaviour
 
     public void initalStartLocation(int index){
         float x = this.respawnPoints[index].transform.position.x;
-        float y = this.respawnPoints[index].transform.position.y;
+        float y = 1.5f;
         float z = this.respawnPoints[index].transform.position.z;
 
         this.transform.position = new Vector3(x, y, z);

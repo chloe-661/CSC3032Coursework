@@ -32,12 +32,16 @@ internal class MoveToHardpoint : IState
         TimeStuck = 0f;
         _navMeshAgent.enabled = true;
         _navMeshAgent.SetDestination(this.player.Target.transform.position);
-        // _animator.SetFloat(Speed, 1f);
+        _animator.SetBool("isRunning", true);
+        _animator.SetBool("isPatrolling", false);
+        _animator.SetBool("isAttacking", false);
     }
 
     public void OnExit()
     {
         _navMeshAgent.enabled = false;
-        // _animator.SetFloat(Speed, 0f);
+        _animator.SetBool("isRunning", false);
+        _animator.SetBool("isPatrolling", false);
+        _animator.SetBool("isAttacking", false);
     }
 }

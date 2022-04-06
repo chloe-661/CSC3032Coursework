@@ -65,7 +65,6 @@ public class GameInitialiser : MonoBehaviour
                     Destroy(requiredObjects[i]); 
                 }
                 requiredObjects.Clear();
-                Debug.Log("destroyed the objects");
                 this.gamesPlayed++;
 
                 if (this.gamesPlayed < this.numGames){

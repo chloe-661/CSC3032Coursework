@@ -22,6 +22,9 @@ public class HardpointController : MonoBehaviour
     private string owner;   // red, blue, none
     private string color;   // red, blue, green = unallocated, purple = congested
 
+    private int runTimeDefends;
+    private int runTimeCaptures;
+
     private bool counterActive;
     private float counter;
     private float captureCounterTotal = 3f;
@@ -36,6 +39,9 @@ public class HardpointController : MonoBehaviour
     public string getState(){ return this.state; }
     public string getOwner(){ return this.owner; }
     public string getColor(){ return this.color; }
+    public float getCounter(){ return this.counter; }
+    public int getRunTimeDefends(){ return this.runTimeDefends; }
+    public int getRunTimeCaptures(){ return this.runTimeCaptures; }
     public float getCaptureCounterTotal(){ return this.captureCounterTotal; }
     public float getDefendCounterTotal(){ return this.defendCounterTotal; }
     public List<GameObject> getPlayersInside(){ return this.playersInside; }
@@ -51,6 +57,8 @@ public class HardpointController : MonoBehaviour
         this.color = "green";
         getProgressBar();
         this.progressBar.BarValue = 100;
+        this.runTimeCaptures = 0;
+        this.runTimeDefends = 0;
     }
 
     void Update()
@@ -70,6 +78,7 @@ public class HardpointController : MonoBehaviour
     {
         if (other.tag == "RedPlayer" || other.tag == "BluePlayer"){ 
             this.playersInside.Add(other.gameObject);
+            other.gameObject.GetComponent<PlayerStatus>().inHardpoint = true;
             updateState();
         }
     }
@@ -78,6 +87,7 @@ public class HardpointController : MonoBehaviour
     {
         if (other.tag == "RedPlayer" || other.tag == "BluePlayer"){ 
             this.playersInside.Remove(other.gameObject);
+            other.gameObject.GetComponent<PlayerStatus>().inHardpoint = false;
             updateState();
         }
     }
@@ -164,6 +174,10 @@ public class HardpointController : MonoBehaviour
         this.state = "congested";
         this.counterActive = false;
         updateProgressBar();
+
+        GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+        string logMessage = ("Congested hardpoint: " + this.name);
+        gs.writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {logMessage});
     }
 
     private void capture(string team){
@@ -177,6 +191,7 @@ public class HardpointController : MonoBehaviour
 
             this.state = "captured";
             this.owner = team;
+            this.runTimeCaptures ++;
             this.counter = defendCounterTotal;            
             
             string logMessage = (team + ":" + playersInside[0].GetComponent<PlayerStatus>().name + " captured hardpoint " + this.name);
@@ -194,6 +209,7 @@ public class HardpointController : MonoBehaviour
             Debug.Log("Successfully Defended");
 
             this.state = "captured";
+            this.runTimeDefends ++;
             this.counter = defendCounterTotal;
             GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
             string[] logMessageArray = new String[playersInside.Count];
