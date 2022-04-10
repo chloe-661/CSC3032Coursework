@@ -1,0 +1,110 @@
+MATCH LOG: 04/04/2022 02:06:23
+-----------------------------------
+04/04/2022-02:06:23 | Match Started
+------
+04/04/2022-02:06:28 | red:xbot3 captured hardpoint B
+------
+04/04/2022-02:06:31 | Congested hardpoint: B
+------
+04/04/2022-02:06:31 | Congested hardpoint: B
+------
+04/04/2022-02:06:31 | Congested hardpoint: B
+------
+04/04/2022-02:06:31 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:32 | Congested hardpoint: B
+------
+04/04/2022-02:06:33 | Congested hardpoint: B
+------
+04/04/2022-02:06:33 | Congested hardpoint: B
+------
+04/04/2022-02:06:33 | Congested hardpoint: B
+------
+04/04/2022-02:06:33 | Congested hardpoint: B
+------
+04/04/2022-02:06:33 | Congested hardpoint: B
+------
+04/04/2022-02:06:33 | Congested hardpoint: B
+------
+04/04/2022-02:06:33 | Congested hardpoint: B
+------
+04/04/2022-02:06:33 | Congested hardpoint: B
+------
+04/04/2022-02:06:33 | Congested hardpoint: B
+------
+04/04/2022-02:06:34 | Congested hardpoint: B
+------
+04/04/2022-02:06:34 | Congested hardpoint: B
+------
+04/04/2022-02:06:34 | Congested hardpoint: B
+------
+04/04/2022-02:06:34 | Congested hardpoint: B
+------
+04/04/2022-02:06:34 | Congested hardpoint: B
+------
+04/04/2022-02:06:34 | Congested hardpoint: B
+------
+04/04/2022-02:06:34 | Congested hardpoint: B
+------
+04/04/2022-02:06:34 | Congested hardpoint: B
+------
+04/04/2022-02:06:34 | Congested hardpoint: B
+------
+04/04/2022-02:06:35 | Congested hardpoint: B
+------
+04/04/2022-02:06:35 | Congested hardpoint: B
+------
+04/04/2022-02:06:35 | Congested hardpoint: B
+------
+04/04/2022-02:06:35 | Congested hardpoint: B
+------
+04/04/2022-02:06:35 | Congested hardpoint: B
+------
+04/04/2022-02:06:35 | Congested hardpoint: B
+------
+04/04/2022-02:06:35 | Congested hardpoint: B
+------
+04/04/2022-02:06:35 | Congested hardpoint: B
+------
+04/04/2022-02:06:35 | Congested hardpoint: B
+------
+04/04/2022-02:06:35 | Congested hardpoint: B
+------
+04/04/2022-02:06:36 | Congested hardpoint: B
+------
+04/04/2022-02:06:36 | Congested hardpoint: B
+------
+04/04/2022-02:06:36 | Congested hardpoint: B
+------
+04/04/2022-02:06:36 | Congested hardpoint: B
+------
+04/04/2022-02:06:36 | Congested hardpoint: B
+------
+04/04/2022-02:06:36 | Congested hardpoint: B
+------
+04/04/2022-02:06:36 | Congested hardpoint: B
+------

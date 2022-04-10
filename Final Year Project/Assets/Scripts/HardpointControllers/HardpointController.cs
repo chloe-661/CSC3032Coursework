@@ -176,10 +176,6 @@ public class HardpointController : MonoBehaviour
         this.counterActive = false;
         updateProgressBar();
         updateColor();
-
-        GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
-        string logMessage = ("Congested hardpoint: " + this.name);
-        gs.writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {logMessage});
     }
 
     private void capture(string team){

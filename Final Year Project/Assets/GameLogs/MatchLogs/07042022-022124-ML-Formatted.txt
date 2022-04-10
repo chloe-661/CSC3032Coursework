@@ -1,0 +1,72 @@
+MATCH LOG: 07/04/2022 02:21:24
+-----------------------------------
+07/04/2022-02:21:24 | Match Started
+------
+07/04/2022-02:21:36 | red:xbot3 captured hardpoint A
+------
+07/04/2022-02:21:37 | blue:ybot1 captured hardpoint C
+------
+07/04/2022-02:21:37 | red:xbot4 respawned
+------
+07/04/2022-02:21:42 | red:xbot4 respawned
+------
+07/04/2022-02:21:46 | red:xbot1 captured hardpoint B
+------
+07/04/2022-02:21:49 | blue:ybot4 respawned
+------
+07/04/2022-02:21:49 | blue:ybot3 captured hardpoint A
+------
+07/04/2022-02:21:50 | blue:ybot2 respawned
+------
+07/04/2022-02:21:53 | red:xbot3 respawned
+------
+07/04/2022-02:21:54 | blue:ybot4 respawned
+------
+07/04/2022-02:21:55 | blue:ybot2 respawned
+------
+07/04/2022-02:21:58 | red:xbot3 respawned
+------
+07/04/2022-02:21:59 | blue:ybot3 captured hardpoint B
+------
+07/04/2022-02:21:59 | red:xbot1 captured hardpoint C
+------
+07/04/2022-02:22:18 | blue:ybot1 respawned
+------
+07/04/2022-02:22:19 | red:xbot3 captured hardpoint B
+------
+07/04/2022-02:22:23 | blue:ybot1 respawned
+------
+07/04/2022-02:22:23 | blue:ybot4 defended hardpoint A
+------
+07/04/2022-02:22:29 | red:xbot3 defended hardpoint B
+07/04/2022-02:22:29 | red:xbot4 defended hardpoint B
+------
+07/04/2022-02:22:29 | red:xbot1 respawned
+------
+07/04/2022-02:22:34 | red:xbot1 respawned
+------
+07/04/2022-02:22:35 | red:xbot2 respawned
+------
+07/04/2022-02:22:35 | red:xbot3 respawned
+------
+07/04/2022-02:22:38 | blue:ybot2 captured hardpoint C
+------
+07/04/2022-02:22:38 | blue:ybot1 captured hardpoint B
+------
+07/04/2022-02:22:40 | red:xbot2 respawned
+------
+07/04/2022-02:22:40 | red:xbot3 respawned
+------
+07/04/2022-02:22:47 | red:xbot4 captured hardpoint C
+------
+07/04/2022-02:22:48 | blue:ybot3 respawned
+------
+07/04/2022-02:22:49 | blue:ybot4 defended hardpoint B
+------
+07/04/2022-02:22:53 | blue:ybot3 respawned
+------
+07/04/2022-02:22:59 | red:xbot2 captured hardpoint A
+------
+07/04/2022-02:22:59 | Match Ended
+07/04/2022-02:22:59 | Winner: red
+------

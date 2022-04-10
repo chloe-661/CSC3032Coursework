@@ -1,0 +1,94 @@
+MATCH LOG: 03/04/2022 17:25:44
+-----------------------------------
+03/04/2022-17:25:44 | Match Started
+------
+03/04/2022-17:25:49 | red:xbot4 captured hardpoint B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:52 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:53 | Congested hardpoint: B
+------
+03/04/2022-17:25:57 | blue:ybot3 captured hardpoint B
+------
+03/04/2022-17:25:59 | red:xbot3 captured hardpoint C
+------
+03/04/2022-17:26:05 | blue:ybot4 captured hardpoint A
+------
+03/04/2022-17:26:06 | blue:ybot2 captured hardpoint C
+------
+03/04/2022-17:26:08 | red:xbot1 captured hardpoint B
+------

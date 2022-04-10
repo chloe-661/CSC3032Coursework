@@ -1,0 +1,71 @@
+MATCH LOG: 07/04/2022 01:25:08
+-----------------------------------
+07/04/2022-01:25:08 | Match Started
+------
+07/04/2022-01:25:20 | blue:ybot4 captured hardpoint A
+------
+07/04/2022-01:25:21 | red:xbot4 captured hardpoint B
+------
+07/04/2022-01:25:30 | blue:ybot1 captured hardpoint C
+------
+07/04/2022-01:25:38 | red:xbot2 captured hardpoint C
+------
+07/04/2022-01:25:41 | red:xbot1 respawned
+------
+07/04/2022-01:25:46 | red:xbot1 respawned
+------
+07/04/2022-01:25:50 | blue:ybot4 respawned
+------
+07/04/2022-01:25:51 | blue:ybot2 captured hardpoint B
+------
+07/04/2022-01:25:54 | red:xbot2 respawned
+------
+07/04/2022-01:25:54 | blue:ybot3 defended hardpoint A
+------
+07/04/2022-01:25:55 | blue:ybot4 respawned
+------
+07/04/2022-01:25:59 | red:xbot2 respawned
+------
+07/04/2022-01:26:02 | blue:ybot1 respawned
+------
+07/04/2022-01:26:04 | red:xbot1 respawned
+------
+07/04/2022-01:26:05 | red:xbot3 captured hardpoint B
+------
+07/04/2022-01:26:07 | blue:ybot1 respawned
+------
+07/04/2022-01:26:08 | blue:ybot2 captured hardpoint C
+------
+07/04/2022-01:26:09 | red:xbot1 respawned
+------
+07/04/2022-01:26:14 | blue:ybot4 defended hardpoint A
+------
+07/04/2022-01:26:17 | red:xbot3 respawned
+------
+07/04/2022-01:26:18 | blue:ybot2 captured hardpoint B
+------
+07/04/2022-01:26:21 | red:xbot1 captured hardpoint A
+------
+07/04/2022-01:26:22 | red:xbot3 respawned
+------
+07/04/2022-01:26:27 | blue:ybot1 defended hardpoint C
+------
+07/04/2022-01:26:36 | red:xbot3 captured hardpoint C
+------
+07/04/2022-01:26:40 | red:xbot1 respawned
+------
+07/04/2022-01:26:43 | red:xbot4 respawned
+------
+07/04/2022-01:26:45 | red:xbot1 respawned
+------
+07/04/2022-01:26:48 | red:xbot4 respawned
+------
+07/04/2022-01:26:50 | red:xbot2 defended hardpoint A
+------
+07/04/2022-01:26:53 | blue:ybot2 defended hardpoint B
+07/04/2022-01:26:53 | blue:ybot4 defended hardpoint B
+07/04/2022-01:26:53 | blue:ybot1 defended hardpoint B
+------
+07/04/2022-01:26:53 | Match Ended
+07/04/2022-01:26:53 | Winner: blue
+------

@@ -1,0 +1,46 @@
+MATCH LOG: 04/04/2022 15:12:47
+-----------------------------------
+04/04/2022-15:12:47 | Match Started
+------
+04/04/2022-15:12:52 | red:xbot4 captured hardpoint B
+------
+04/04/2022-15:12:56 | Congested hardpoint: B
+------
+04/04/2022-15:12:56 | Congested hardpoint: B
+------
+04/04/2022-15:12:56 | Congested hardpoint: B
+------
+04/04/2022-15:12:56 | Congested hardpoint: B
+------
+04/04/2022-15:12:56 | Congested hardpoint: B
+------
+04/04/2022-15:12:56 | Congested hardpoint: B
+------
+04/04/2022-15:12:56 | Congested hardpoint: B
+------
+04/04/2022-15:12:56 | Congested hardpoint: B
+------
+04/04/2022-15:12:56 | Congested hardpoint: B
+------
+04/04/2022-15:12:56 | Congested hardpoint: B
+------
+04/04/2022-15:13:06 | red:xbot4 defended hardpoint B
+04/04/2022-15:13:06 | red:xbot3 defended hardpoint B
+04/04/2022-15:13:06 | red:xbot1 defended hardpoint B
+04/04/2022-15:13:06 | red:xbot2 defended hardpoint B
+------
+04/04/2022-15:13:16 | red:xbot4 defended hardpoint B
+04/04/2022-15:13:16 | red:xbot3 defended hardpoint B
+04/04/2022-15:13:16 | red:xbot1 defended hardpoint B
+04/04/2022-15:13:16 | red:xbot2 defended hardpoint B
+------
+04/04/2022-15:13:38 | red:xbot4 defended hardpoint B
+04/04/2022-15:13:38 | red:xbot3 defended hardpoint B
+04/04/2022-15:13:38 | red:xbot1 defended hardpoint B
+04/04/2022-15:13:38 | red:xbot2 defended hardpoint B
+------
+04/04/2022-15:13:48 | red:xbot4 defended hardpoint B
+04/04/2022-15:13:48 | red:xbot3 defended hardpoint B
+04/04/2022-15:13:48 | red:xbot1 defended hardpoint B
+04/04/2022-15:13:48 | red:xbot2 defended hardpoint B
+------

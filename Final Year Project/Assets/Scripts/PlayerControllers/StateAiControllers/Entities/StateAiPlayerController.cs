@@ -37,6 +37,7 @@ public class StateAiPlayerController : MonoBehaviour
     //Attack options
     public bool attackDecision_flee;
     public bool attackDecision_attack;
+    public bool attackDecision_searchForEnemy;
     public string decision;
 
     //Timer
@@ -64,6 +65,7 @@ public class StateAiPlayerController : MonoBehaviour
         var attack          = new Attack(this, navMeshAgent, enemyDetector, animator);
         var flee            = new Flee(this, navMeshAgent, enemyDetector);
         var respawn         = new Respawn(this, navMeshAgent, trailRenderer);
+        var searchForEnemy  = new SearchForEnemy(this, navMeshAgent, enemyDetector);
         
         // Transitions
         this.stateMachine.AddAnyTransition(respawn, () => ps.inPlay == false);
@@ -71,12 +73,17 @@ public class StateAiPlayerController : MonoBehaviour
 
         At(search, moveToSelected, HasTarget());
         At(search, attack, shouldAttack());
+        At(search, searchForEnemy, shouldSearchForEnemy());
         At(moveToSelected, patrol, ReachedHardpoint());
         At(moveToSelected, attack, shouldAttack());
+        At(moveToSelected, searchForEnemy, shouldSearchForEnemy());
         At(moveToSelected, search, StuckForOverASecondWhenMovingToHardpoint());
         At(patrol, search, hardpointStateHasUpdated());
         At(patrol, attack, shouldAttack());
+        At(patrol, searchForEnemy, shouldSearchForEnemy());
         At(patrol, moveToSelected, StuckForOverASecondWhenPatrolling());
+        At(searchForEnemy, attack, sawEnemy());
+        At(searchForEnemy, moveToSelected, StuckForOverASecondWhenSearchingForEnemy());
         At(attack, moveToSelected, noEnemyInSight());
         At(flee, search, reachedFleeTarget());
         At(flee, search, StuckForOverASecondWhenFleeing());
@@ -94,6 +101,7 @@ public class StateAiPlayerController : MonoBehaviour
         Func<bool> StuckForOverASecondWhenMovingToHardpoint() => () => moveToSelected.TimeStuck > 1f; 
         Func<bool> StuckForOverASecondWhenPatrolling() => () => patrol.TimeStuck > 1f; 
         Func<bool> StuckForOverASecondWhenFleeing() => () => flee.TimeStuck > 1f; 
+        Func<bool> StuckForOverASecondWhenSearchingForEnemy() => () => searchForEnemy.TimeStuck > 2f; 
         
         Func<bool> hardpointStateHasUpdated() => () => previousRunTimeCaptures < Target.transform.parent.gameObject.GetComponent<HardpointController>().getRunTimeCaptures() || previousRunTimeDefends < Target.transform.parent.gameObject.GetComponent<HardpointController>().getRunTimeDefends();
         
@@ -102,6 +110,7 @@ public class StateAiPlayerController : MonoBehaviour
         
         Func<bool> shouldAttack() => () => attackDecision_attack;
         Func<bool> shouldFlee() => () => attackDecision_flee;
+        Func<bool> shouldSearchForEnemy() => () => attackDecision_searchForEnemy;
         
     }
 
@@ -130,104 +139,216 @@ public class StateAiPlayerController : MonoBehaviour
 
         if (attackableList.Count > 0){
             if (attackableList.Count == 1){
-                //PROBABILITIES
-                //Attack = 95%
-                //Flee = 5%
+                if (Vector3.Distance(transform.position, Target.transform.position) < 5f){
+                    //PROBABILITIES
+                    //Attack = 99%
+                    //Flee = 1%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.01f),
+                        new KeyValuePair<string, float>("attack", 0.99f),
+                    };
+                    this.decision = makeDecision(options);
+                }
+                else {
+                    //PROBABILITIES
+                    //Attack = 95%
+                    //Flee = 5%
 
-                var options = new List<KeyValuePair<string, float>>() 
-                { 
-                    new KeyValuePair<string, float>("flee", 0.05f),
-                    new KeyValuePair<string, float>("attack", 0.95f),
-                };
-                this.decision = makeDecision(options);
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.05f),
+                        new KeyValuePair<string, float>("attack", 0.95f),
+                    };
+                    this.decision = makeDecision(options);
+                }
             }
             else if (attackableList.Count == 2){
-                //PROBABILITIES
-                //Attack = 95%
-                //Flee = 5%
-                var options = new List<KeyValuePair<string, float>>() 
-                { 
-                    new KeyValuePair<string, float>("flee", 0.05f),
-                    new KeyValuePair<string, float>("attack", 0.95f),
-                };
-                this.decision = makeDecision(options);
+                if (Vector3.Distance(transform.position, Target.transform.position) < 5f){
+                    //PROBABILITIES
+                    //Attack = 98%
+                    //Flee = 2%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.02f),
+                        new KeyValuePair<string, float>("attack", 0.98f),
+                    };
+                    this.decision = makeDecision(options);
+                }
+                else {
+                    //PROBABILITIES
+                    //Attack = 95%
+                    //Flee = 5%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.05f),
+                        new KeyValuePair<string, float>("attack", 0.95f),
+                    };
+                    this.decision = makeDecision(options);
+                }
             }
             else if (attackableList.Count == 3){
-                //PROBABILITIES
-                //Attack = 80%
-                //Flee = 20%
-                var options = new List<KeyValuePair<string, float>>() 
-                { 
-                    new KeyValuePair<string, float>("flee", 0.2f),
-                    new KeyValuePair<string, float>("attack", 0.8f),
-                };
-                this.decision = makeDecision(options);
+                if (Vector3.Distance(transform.position, Target.transform.position) < 5f){
+                    //PROBABILITIES
+                    //Attack = 95%
+                    //Flee = 5%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.05f),
+                        new KeyValuePair<string, float>("attack", 0.95f),
+                    };
+                    this.decision = makeDecision(options);
+                }
+                else {
+                    //PROBABILITIES
+                    //Attack = 80%
+                    //Flee = 20%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.2f),
+                        new KeyValuePair<string, float>("attack", 0.8f),
+                    };
+                    this.decision = makeDecision(options);
+                }
             }
             else {
-                //PROBABILITIES
-                //Attack = 50%
-                //Flee = 50%
-                var options = new List<KeyValuePair<string, float>>() 
-                { 
-                    new KeyValuePair<string, float>("attack", 0.5f),
-                    new KeyValuePair<string, float>("flee", 0.5f),
-                };
-                this.decision = makeDecision(options);
+                if (Vector3.Distance(transform.position, Target.transform.position) < 5f){
+                    //PROBABILITIES
+                    //Attack = 90%
+                    //Flee = 10%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.1f),
+                        new KeyValuePair<string, float>("attack", 0.9f),
+                    };
+                    this.decision = makeDecision(options);
+                }
+                else {
+                    //PROBABILITIES
+                    //Attack = 50%
+                    //Flee = 50%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("attack", 0.5f),
+                        new KeyValuePair<string, float>("flee", 0.5f),
+                    };
+                    this.decision = makeDecision(options);
+                }
             }
         }
         else if (visibleList.Count > 0){
             if (visibleList.Count == 1){
-                //PROBABILITIES
-                //Continue = 30%
-                //Attack = 65%
-                //Flee = 5%
-                var options = new List<KeyValuePair<string, float>>() 
-                { 
-                    new KeyValuePair<string, float>("flee", 0.05f),
-                    new KeyValuePair<string, float>("continue", 0.3f),
-                    new KeyValuePair<string, float>("attack", 0.65f),
-                };
-                this.decision = makeDecision(options);
+                if (Vector3.Distance(transform.position, Target.transform.position) < 5f){
+                    //PROBABILITIES
+                    //Continue = 32%
+                    //Attack = 67%
+                    //Flee = 1%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.01f),
+                        new KeyValuePair<string, float>("continue", 0.32f),
+                        new KeyValuePair<string, float>("attack", 0.67f),
+                    };
+                    this.decision = makeDecision(options);
+                }
+                else {
+                    //PROBABILITIES
+                    //Continue = 30%
+                    //Attack = 65%
+                    //Flee = 5%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.05f),
+                        new KeyValuePair<string, float>("continue", 0.3f),
+                        new KeyValuePair<string, float>("attack", 0.65f),
+                    };
+                    this.decision = makeDecision(options);
+                }
             }
             else if (visibleList.Count == 2){
-                //PROBABILITIES
-                //Continue = 45%
-                //Attack = 50%
-                //Flee = 5%
-                var options = new List<KeyValuePair<string, float>>() 
-                { 
-                    new KeyValuePair<string, float>("flee", 0.1f),
-                    new KeyValuePair<string, float>("continue", 0.45f),
-                    new KeyValuePair<string, float>("attack", 0.45f),
-                };
-                this.decision = makeDecision(options);
+                if (Vector3.Distance(transform.position, Target.transform.position) < 5f){
+                    //PROBABILITIES
+                    //Continue = 46%
+                    //Attack = 52%
+                    //Flee = 2%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.02f),
+                        new KeyValuePair<string, float>("continue", 0.46f),
+                        new KeyValuePair<string, float>("attack", 0.52f),
+                    };
+                    this.decision = makeDecision(options);
+                }
+                else {
+                    //PROBABILITIES
+                    //Continue = 45%
+                    //Attack = 50%
+                    //Flee = 5%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.1f),
+                        new KeyValuePair<string, float>("continue", 0.45f),
+                        new KeyValuePair<string, float>("attack", 0.45f),
+                    };
+                    this.decision = makeDecision(options);
+                }
             }
             else if (visibleList.Count == 3){
-                //PROBABILITIES
-                //Continue = 40%
-                //Attack = 50%
-                //Flee = 10%
-                var options = new List<KeyValuePair<string, float>>() 
-                { 
-                    new KeyValuePair<string, float>("flee", 0.1f),
-                    new KeyValuePair<string, float>("continue", 0.4f),
-                    new KeyValuePair<string, float>("attack", 0.5f),
-                    
-                };
-                this.decision = makeDecision(options);
+                if (Vector3.Distance(transform.position, Target.transform.position) < 5f){
+                    //PROBABILITIES
+                    //Continue = 47%
+                    //Attack = 50%
+                    //Flee = 3%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.03f),
+                        new KeyValuePair<string, float>("continue", 0.47f),
+                        new KeyValuePair<string, float>("attack", 0.50f),
+                    };
+                    this.decision = makeDecision(options);
+                }
+                else {
+                    //PROBABILITIES
+                    //Continue = 40%
+                    //Attack = 50%
+                    //Flee = 10%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.1f),
+                        new KeyValuePair<string, float>("continue", 0.4f),
+                        new KeyValuePair<string, float>("attack", 0.5f),
+                        
+                    };
+                    this.decision = makeDecision(options);
+                }
             }
             else {
-                //PROBABILITIES
-                //Continue = 50%
-                //Attack = 30%
-                //Flee = 20%
-                var options = new List<KeyValuePair<string, float>>() 
-                { 
-                    new KeyValuePair<string, float>("flee", 0.2f),
-                    new KeyValuePair<string, float>("attack", 0.3f), 
-                    new KeyValuePair<string, float>("continue", 0.5f),
-                };
-                this.decision = makeDecision(options);
+                if (Vector3.Distance(transform.position, Target.transform.position) < 5f){
+                    //PROBABILITIES
+                    //Continue = 66%
+                    //Attack = 30%
+                    //Flee = 4%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.04f),
+                        new KeyValuePair<string, float>("attack", 0.3f),
+                        new KeyValuePair<string, float>("continue", 0.66f),
+                    };
+                    this.decision = makeDecision(options);
+                }
+                else {
+                    //PROBABILITIES
+                    //Continue = 50%
+                    //Attack = 30%
+                    //Flee = 20%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.2f),
+                        new KeyValuePair<string, float>("attack", 0.3f), 
+                        new KeyValuePair<string, float>("continue", 0.5f),
+                    };
+                    this.decision = makeDecision(options);
+                }
             }
         }
         else {
@@ -240,14 +361,34 @@ public class StateAiPlayerController : MonoBehaviour
     // Weighted decision maker
     private void fleeOrAttackWhenHit(){
         var visibleList = enemyDetector.getAttackableEnemyTargets();
-        var attackableList = enemyDetector.getVisibleEnemyTargets();
 
         if (this.ps.beingAttacked == true){
             if (visibleList.Count > 0){
                 this.decision = "attack";
             }
             else {
-                this.decision = "flee";
+                if (Vector3.Distance(transform.position, Target.transform.position) < 5f){
+                    //PROBABILITIES
+                    //SearchForEnemy = 90%
+                    //Flee = 10%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.1f),
+                        new KeyValuePair<string, float>("seasearchForEnemyrch", 0.9f), 
+                    };
+                    this.decision = makeDecision(options);
+                }
+                else {
+                    //PROBABILITIES
+                    //SearchForEnemy = 70%
+                    //Flee = 30%
+                    var options = new List<KeyValuePair<string, float>>() 
+                    { 
+                        new KeyValuePair<string, float>("flee", 0.3f),
+                        new KeyValuePair<string, float>("searchForEnemy", 0.7f), 
+                    };
+                    this.decision = makeDecision(options);
+                }
             }
         }
 
@@ -259,14 +400,22 @@ public class StateAiPlayerController : MonoBehaviour
             case "attack":
                 this.attackDecision_attack = true;
                 this.attackDecision_flee = false;
+                this.attackDecision_searchForEnemy = false;
                 break;
             case "flee":
                 this.attackDecision_attack = false;
                 this.attackDecision_flee = true;
+                this.attackDecision_searchForEnemy = false;
+                break;
+            case "searchForEnemy":
+                this.attackDecision_attack = false;
+                this.attackDecision_flee = false;
+                this.attackDecision_searchForEnemy = true;
                 break;
             default:
                 this.attackDecision_attack = false;
                 this.attackDecision_flee = false;
+                this.attackDecision_searchForEnemy = false;
                 break;
         }
     }

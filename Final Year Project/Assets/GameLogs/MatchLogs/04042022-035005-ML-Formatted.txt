@@ -1,0 +1,1426 @@
+MATCH LOG: 04/04/2022 03:50:05
+-----------------------------------
+04/04/2022-03:50:05 | Match Started
+------
+04/04/2022-03:50:10 | red:xbot4 captured hardpoint B
+------
+04/04/2022-03:50:13 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:16 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:17 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:18 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:19 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot4 defended hardpoint B
+04/04/2022-03:50:20 | red:xbot1 defended hardpoint B
+04/04/2022-03:50:20 | red:xbot2 defended hardpoint B
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:20 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:21 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:22 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:23 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:24 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:25 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:26 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:27 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:28 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:29 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot4 defended hardpoint B
+04/04/2022-03:50:30 | red:xbot1 defended hardpoint B
+04/04/2022-03:50:30 | red:xbot2 defended hardpoint B
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:30 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:31 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:32 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:33 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:34 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:35 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:36 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:37 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:38 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:39 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot4 defended hardpoint B
+04/04/2022-03:50:40 | red:xbot1 defended hardpoint B
+04/04/2022-03:50:40 | red:xbot2 defended hardpoint B
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:40 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:41 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:42 | red:xbot3 respawned
+------
+04/04/2022-03:50:43 | red:xbot3 respawned
+------
+04/04/2022-03:50:43 | red:xbot3 respawned
+------
+04/04/2022-03:50:43 | red:xbot3 respawned
+------
+04/04/2022-03:50:43 | red:xbot3 respawned
+------
+04/04/2022-03:50:43 | red:xbot3 respawned
+------
+04/04/2022-03:50:43 | red:xbot3 respawned
+------
+04/04/2022-03:50:43 | red:xbot3 respawned
+------
+04/04/2022-03:50:43 | red:xbot3 respawned
+------
+04/04/2022-03:50:43 | red:xbot3 respawned
+------

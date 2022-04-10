@@ -1,0 +1,73 @@
+MATCH LOG: 09/04/2022 21:12:18
+-----------------------------------
+09/04/2022-21:12:18 | Match Started
+------
+09/04/2022-21:12:29 | blue:ybot3 captured hardpoint B
+------
+09/04/2022-21:12:30 | blue:ybot4 captured hardpoint A
+------
+09/04/2022-21:12:31 | red:xbot3 captured hardpoint C
+------
+09/04/2022-21:12:40 | red:xbot2 respawned
+------
+09/04/2022-21:12:40 | blue:ybot1 respawned
+------
+09/04/2022-21:12:40 | blue:ybot3 respawned
+------
+09/04/2022-21:12:42 | red:xbot4 respawned
+------
+09/04/2022-21:12:44 | red:xbot3 captured hardpoint B
+------
+09/04/2022-21:12:45 | red:xbot2 respawned
+------
+09/04/2022-21:12:45 | blue:ybot1 respawned
+------
+09/04/2022-21:12:45 | blue:ybot3 respawned
+------
+09/04/2022-21:12:47 | red:xbot4 respawned
+------
+09/04/2022-21:12:54 | red:xbot3 respawned
+------
+09/04/2022-21:12:56 | blue:ybot4 captured hardpoint C
+------
+09/04/2022-21:12:59 | blue:ybot2 captured hardpoint B
+------
+09/04/2022-21:12:59 | red:xbot3 respawned
+------
+09/04/2022-21:13:00 | red:xbot4 captured hardpoint A
+------
+09/04/2022-21:13:03 | red:xbot1 respawned
+------
+09/04/2022-21:13:06 | red:xbot2 captured hardpoint C
+------
+09/04/2022-21:13:08 | red:xbot1 respawned
+------
+09/04/2022-21:13:09 | blue:ybot2 defended hardpoint B
+------
+09/04/2022-21:13:11 | blue:ybot1 respawned
+------
+09/04/2022-21:13:16 | blue:ybot1 respawned
+------
+09/04/2022-21:13:24 | blue:ybot2 respawned
+------
+09/04/2022-21:13:27 | red:xbot2 captured hardpoint B
+------
+09/04/2022-21:13:28 | blue:ybot4 captured hardpoint A
+------
+09/04/2022-21:13:29 | blue:ybot2 respawned
+------
+09/04/2022-21:13:29 | red:xbot1 defended hardpoint C
+------
+09/04/2022-21:13:44 | red:xbot2 respawned
+------
+09/04/2022-21:13:46 | red:xbot4 defended hardpoint B
+------
+09/04/2022-21:13:49 | blue:ybot2 defended hardpoint A
+------
+09/04/2022-21:13:49 | red:xbot2 respawned
+------
+09/04/2022-21:13:53 | blue:ybot1 captured hardpoint B
+------
+09/04/2022-21:13:53 | Match Ended
+09/04/2022-21:13:53 | Winner: blue
+------

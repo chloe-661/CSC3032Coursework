@@ -18,7 +18,7 @@ public class GameInitialiser : MonoBehaviour
     public GameObject gameStatus;
     public GameObject stateRedTeam;
     public GameObject stateBlueTeam;
-    public GameObject simpleHardpoints;
+    public GameObject hardpoints;
     // public GameObject machineRedTeam;
     // public GameObject machineBlueTeam;
 
@@ -175,7 +175,7 @@ public class GameInitialiser : MonoBehaviour
 
         requiredObjects.Add(Instantiate(gameStatus));
         requiredObjects.Add(Instantiate(gameUI));
-        requiredObjects.Add(Instantiate(simpleHardpoints));
+        requiredObjects.Add(Instantiate(hardpoints));
 
         this.gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
         this.gameOver = false;

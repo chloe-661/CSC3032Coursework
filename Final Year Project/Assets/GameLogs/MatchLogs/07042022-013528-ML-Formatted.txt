@@ -1,0 +1,75 @@
+MATCH LOG: 07/04/2022 01:35:28
+-----------------------------------
+07/04/2022-01:35:28 | Match Started
+------
+07/04/2022-01:35:41 | blue:ybot1 captured hardpoint C
+------
+07/04/2022-01:35:41 | blue:ybot3 captured hardpoint A
+------
+07/04/2022-01:35:46 | red:xbot2 respawned
+------
+07/04/2022-01:35:46 | blue:ybot2 respawned
+------
+07/04/2022-01:35:48 | red:xbot1 captured hardpoint A
+------
+07/04/2022-01:35:51 | red:xbot2 respawned
+------
+07/04/2022-01:35:51 | blue:ybot2 respawned
+------
+07/04/2022-01:36:01 | red:xbot1 captured hardpoint B
+------
+07/04/2022-01:36:04 | blue:ybot2 captured hardpoint A
+------
+07/04/2022-01:36:04 | red:xbot4 captured hardpoint C
+------
+07/04/2022-01:36:06 | blue:ybot4 captured hardpoint B
+------
+07/04/2022-01:36:13 | red:xbot1 respawned
+------
+07/04/2022-01:36:14 | red:xbot4 defended hardpoint C
+------
+07/04/2022-01:36:16 | blue:ybot3 defended hardpoint B
+07/04/2022-01:36:16 | blue:ybot2 defended hardpoint B
+------
+07/04/2022-01:36:16 | red:xbot3 respawned
+------
+07/04/2022-01:36:18 | red:xbot1 respawned
+------
+07/04/2022-01:36:21 | red:xbot3 respawned
+------
+07/04/2022-01:36:23 | red:xbot2 respawned
+------
+07/04/2022-01:36:28 | red:xbot2 respawned
+------
+07/04/2022-01:36:30 | red:xbot4 captured hardpoint B
+------
+07/04/2022-01:36:33 | red:xbot1 respawned
+------
+07/04/2022-01:36:34 | blue:ybot3 respawned
+------
+07/04/2022-01:36:36 | blue:ybot4 captured hardpoint C
+------
+07/04/2022-01:36:38 | red:xbot1 respawned
+------
+07/04/2022-01:36:39 | blue:ybot3 respawned
+------
+07/04/2022-01:36:39 | red:xbot4 captured hardpoint A
+------
+07/04/2022-01:36:46 | blue:ybot4 defended hardpoint C
+07/04/2022-01:36:46 | blue:ybot2 defended hardpoint C
+------
+07/04/2022-01:36:49 | red:xbot4 defended hardpoint A
+------
+07/04/2022-01:36:51 | red:xbot3 respawned
+------
+07/04/2022-01:36:55 | red:xbot2 respawned
+------
+07/04/2022-01:36:56 | red:xbot3 respawned
+------
+07/04/2022-01:36:59 | red:xbot4 defended hardpoint A
+------
+07/04/2022-01:36:59 | blue:ybot3 captured hardpoint B
+------
+07/04/2022-01:37:00 | Match Ended
+07/04/2022-01:37:00 | Winner: blue
+------

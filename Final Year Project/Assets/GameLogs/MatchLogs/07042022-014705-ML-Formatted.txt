@@ -1,0 +1,65 @@
+MATCH LOG: 07/04/2022 01:47:05
+-----------------------------------
+07/04/2022-01:47:05 | Match Started
+------
+07/04/2022-01:47:16 | red:xbot3 captured hardpoint B
+------
+07/04/2022-01:47:17 | blue:ybot4 captured hardpoint A
+------
+07/04/2022-01:47:25 | red:xbot4 captured hardpoint C
+------
+07/04/2022-01:47:25 | red:xbot3 captured hardpoint A
+------
+07/04/2022-01:47:30 | blue:ybot2 respawned
+------
+07/04/2022-01:47:31 | blue:ybot3 captured hardpoint B
+------
+07/04/2022-01:47:34 | red:xbot1 respawned
+------
+07/04/2022-01:47:35 | blue:ybot2 respawned
+------
+07/04/2022-01:47:39 | red:xbot1 respawned
+------
+07/04/2022-01:47:40 | red:xbot3 defended hardpoint A
+------
+07/04/2022-01:47:46 | blue:ybot1 respawned
+------
+07/04/2022-01:47:48 | blue:ybot2 captured hardpoint C
+------
+07/04/2022-01:47:51 | blue:ybot1 respawned
+------
+07/04/2022-01:47:54 | blue:ybot3 respawned
+------
+07/04/2022-01:47:56 | red:xbot2 captured hardpoint C
+------
+07/04/2022-01:47:59 | blue:ybot4 respawned
+------
+07/04/2022-01:48:00 | blue:ybot3 respawned
+------
+07/04/2022-01:48:02 | blue:ybot2 captured hardpoint C
+------
+07/04/2022-01:48:04 | blue:ybot4 respawned
+------
+07/04/2022-01:48:06 | red:xbot2 captured hardpoint B
+------
+07/04/2022-01:48:08 | blue:ybot1 captured hardpoint A
+------
+07/04/2022-01:48:12 | blue:ybot2 respawned
+------
+07/04/2022-01:48:15 | red:xbot2 captured hardpoint C
+------
+07/04/2022-01:48:17 | blue:ybot2 respawned
+------
+07/04/2022-01:48:18 | blue:ybot1 defended hardpoint A
+------
+07/04/2022-01:48:22 | blue:ybot3 respawned
+------
+07/04/2022-01:48:23 | red:xbot4 respawned
+------
+07/04/2022-01:48:23 | red:xbot3 captured hardpoint A
+------
+07/04/2022-01:48:23 | Match Ended
+07/04/2022-01:48:23 | Winner: red
+------
+07/04/2022-01:48:23 | red:xbot2 defended hardpoint B
+------

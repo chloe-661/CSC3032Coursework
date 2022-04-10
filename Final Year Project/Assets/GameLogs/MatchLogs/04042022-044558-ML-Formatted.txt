@@ -1,0 +1,7524 @@
+MATCH LOG: 04/04/2022 04:45:58
+-----------------------------------
+04/04/2022-04:45:58 | Match Started
+------
+04/04/2022-04:46:03 | red:xbot4 captured hardpoint B
+------
+04/04/2022-04:46:06 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:09 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:10 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot1 captured hardpoint A
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:11 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:12 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | red:xbot3 defended hardpoint B
+04/04/2022-04:46:13 | red:xbot1 defended hardpoint B
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:13 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:14 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | red:xbot2 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot2 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | red:xbot1 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:15 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:16 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:17 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot2 respawned
+------
+04/04/2022-04:46:18 | blue:ybot3 respawned
+------
+04/04/2022-04:46:18 | red:xbot1 respawned
+------
+04/04/2022-04:46:18 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | Congested hardpoint: B
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | Congested hardpoint: B
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | Congested hardpoint: B
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | Congested hardpoint: B
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | Congested hardpoint: B
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | Congested hardpoint: B
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot1 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | Congested hardpoint: B
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:19 | red:xbot1 respawned
+------
+04/04/2022-04:46:19 | red:xbot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot2 respawned
+------
+04/04/2022-04:46:19 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot2 respawned
+------
+04/04/2022-04:46:20 | blue:ybot3 respawned
+------
+04/04/2022-04:46:20 | red:xbot1 respawned
+------
+04/04/2022-04:46:20 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:21 | red:xbot1 respawned
+------
+04/04/2022-04:46:21 | red:xbot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot2 respawned
+------
+04/04/2022-04:46:21 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:22 | red:xbot1 respawned
+------
+04/04/2022-04:46:22 | red:xbot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot1 respawned
+------
+04/04/2022-04:46:22 | blue:ybot2 respawned
+------
+04/04/2022-04:46:22 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:23 | red:xbot1 respawned
+------
+04/04/2022-04:46:23 | red:xbot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot1 respawned
+------
+04/04/2022-04:46:23 | blue:ybot2 respawned
+------
+04/04/2022-04:46:23 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:24 | red:xbot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot1 respawned
+------
+04/04/2022-04:46:24 | blue:ybot2 respawned
+------
+04/04/2022-04:46:24 | blue:ybot3 respawned
+------
+04/04/2022-04:46:24 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:25 | red:xbot1 respawned
+------
+04/04/2022-04:46:25 | red:xbot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot1 respawned
+------
+04/04/2022-04:46:25 | blue:ybot2 respawned
+------
+04/04/2022-04:46:25 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:26 | red:xbot1 respawned
+------
+04/04/2022-04:46:26 | red:xbot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot1 respawned
+------
+04/04/2022-04:46:26 | blue:ybot2 respawned
+------
+04/04/2022-04:46:26 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:27 | red:xbot1 respawned
+------
+04/04/2022-04:46:27 | red:xbot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot1 respawned
+------
+04/04/2022-04:46:27 | blue:ybot2 respawned
+------
+04/04/2022-04:46:27 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:28 | red:xbot1 respawned
+------
+04/04/2022-04:46:28 | red:xbot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot1 respawned
+------
+04/04/2022-04:46:28 | blue:ybot2 respawned
+------
+04/04/2022-04:46:28 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot3 defended hardpoint B
+04/04/2022-04:46:29 | red:xbot4 defended hardpoint B
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:29 | red:xbot1 respawned
+------
+04/04/2022-04:46:29 | red:xbot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot1 respawned
+------
+04/04/2022-04:46:29 | blue:ybot2 respawned
+------
+04/04/2022-04:46:29 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot1 respawned
+------
+04/04/2022-04:46:30 | blue:ybot2 respawned
+------
+04/04/2022-04:46:30 | blue:ybot3 respawned
+------
+04/04/2022-04:46:30 | red:xbot1 respawned
+------
+04/04/2022-04:46:30 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:31 | red:xbot1 respawned
+------
+04/04/2022-04:46:31 | red:xbot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot1 respawned
+------
+04/04/2022-04:46:31 | blue:ybot2 respawned
+------
+04/04/2022-04:46:31 | blue:ybot3 respawned
+------
+04/04/2022-04:46:32 | red:xbot1 respawned
+------
+04/04/2022-04:46:32 | red:xbot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot1 respawned
+------
+04/04/2022-04:46:32 | blue:ybot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot3 respawned
+------
+04/04/2022-04:46:32 | red:xbot1 respawned
+------
+04/04/2022-04:46:32 | red:xbot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot1 respawned
+------
+04/04/2022-04:46:32 | blue:ybot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot3 respawned
+------
+04/04/2022-04:46:32 | red:xbot1 respawned
+------
+04/04/2022-04:46:32 | red:xbot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot1 respawned
+------
+04/04/2022-04:46:32 | blue:ybot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot3 respawned
+------
+04/04/2022-04:46:32 | red:xbot1 respawned
+------
+04/04/2022-04:46:32 | red:xbot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot1 respawned
+------
+04/04/2022-04:46:32 | blue:ybot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot3 respawned
+------
+04/04/2022-04:46:32 | red:xbot1 respawned
+------
+04/04/2022-04:46:32 | red:xbot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot1 respawned
+------
+04/04/2022-04:46:32 | blue:ybot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot3 respawned
+------
+04/04/2022-04:46:32 | red:xbot1 respawned
+------
+04/04/2022-04:46:32 | red:xbot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot1 respawned
+------
+04/04/2022-04:46:32 | blue:ybot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot3 respawned
+------
+04/04/2022-04:46:32 | red:xbot1 respawned
+------
+04/04/2022-04:46:32 | red:xbot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot1 respawned
+------
+04/04/2022-04:46:32 | blue:ybot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot3 respawned
+------
+04/04/2022-04:46:32 | red:xbot1 respawned
+------
+04/04/2022-04:46:32 | red:xbot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot1 respawned
+------
+04/04/2022-04:46:32 | blue:ybot2 respawned
+------
+04/04/2022-04:46:32 | blue:ybot3 respawned
+------
+04/04/2022-04:46:33 | red:xbot1 respawned
+------
+04/04/2022-04:46:33 | red:xbot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot1 respawned
+------
+04/04/2022-04:46:33 | blue:ybot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot3 respawned
+------
+04/04/2022-04:46:33 | red:xbot1 respawned
+------
+04/04/2022-04:46:33 | red:xbot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot1 respawned
+------
+04/04/2022-04:46:33 | blue:ybot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot3 respawned
+------
+04/04/2022-04:46:33 | red:xbot1 respawned
+------
+04/04/2022-04:46:33 | red:xbot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot1 respawned
+------
+04/04/2022-04:46:33 | blue:ybot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot3 respawned
+------
+04/04/2022-04:46:33 | red:xbot1 respawned
+------
+04/04/2022-04:46:33 | red:xbot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot1 respawned
+------
+04/04/2022-04:46:33 | blue:ybot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot3 respawned
+------
+04/04/2022-04:46:33 | red:xbot1 respawned
+------
+04/04/2022-04:46:33 | red:xbot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot1 respawned
+------
+04/04/2022-04:46:33 | blue:ybot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot3 respawned
+------
+04/04/2022-04:46:33 | red:xbot1 respawned
+------
+04/04/2022-04:46:33 | red:xbot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot1 respawned
+------
+04/04/2022-04:46:33 | blue:ybot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot3 respawned
+------
+04/04/2022-04:46:33 | red:xbot1 respawned
+------
+04/04/2022-04:46:33 | red:xbot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot1 respawned
+------
+04/04/2022-04:46:33 | blue:ybot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot3 respawned
+------
+04/04/2022-04:46:33 | red:xbot1 respawned
+------
+04/04/2022-04:46:33 | red:xbot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot1 respawned
+------
+04/04/2022-04:46:33 | blue:ybot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot3 respawned
+------
+04/04/2022-04:46:33 | red:xbot1 respawned
+------
+04/04/2022-04:46:33 | red:xbot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot1 respawned
+------
+04/04/2022-04:46:33 | blue:ybot2 respawned
+------
+04/04/2022-04:46:33 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:34 | red:xbot1 respawned
+------
+04/04/2022-04:46:34 | red:xbot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot1 respawned
+------
+04/04/2022-04:46:34 | blue:ybot2 respawned
+------
+04/04/2022-04:46:34 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:35 | red:xbot1 respawned
+------
+04/04/2022-04:46:35 | red:xbot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot1 respawned
+------
+04/04/2022-04:46:35 | blue:ybot2 respawned
+------
+04/04/2022-04:46:35 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:36 | red:xbot1 respawned
+------
+04/04/2022-04:46:36 | red:xbot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot1 respawned
+------
+04/04/2022-04:46:36 | blue:ybot2 respawned
+------
+04/04/2022-04:46:36 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:37 | red:xbot1 respawned
+------
+04/04/2022-04:46:37 | red:xbot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot1 respawned
+------
+04/04/2022-04:46:37 | blue:ybot2 respawned
+------
+04/04/2022-04:46:37 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:38 | red:xbot1 respawned
+------
+04/04/2022-04:46:38 | red:xbot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot1 respawned
+------
+04/04/2022-04:46:38 | blue:ybot2 respawned
+------
+04/04/2022-04:46:38 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:39 | red:xbot3 defended hardpoint B
+04/04/2022-04:46:39 | red:xbot4 defended hardpoint B
+------
+04/04/2022-04:46:39 | red:xbot1 respawned
+------
+04/04/2022-04:46:39 | red:xbot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot1 respawned
+------
+04/04/2022-04:46:39 | blue:ybot2 respawned
+------
+04/04/2022-04:46:39 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot3 respawned
+------
+04/04/2022-04:46:40 | red:xbot1 respawned
+------
+04/04/2022-04:46:40 | red:xbot2 respawned
+------
+04/04/2022-04:46:40 | blue:ybot1 respawned
+------
+04/04/2022-04:46:40 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:41 | red:xbot1 respawned
+------
+04/04/2022-04:46:41 | red:xbot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot1 respawned
+------
+04/04/2022-04:46:41 | blue:ybot2 respawned
+------
+04/04/2022-04:46:41 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:42 | red:xbot1 respawned
+------
+04/04/2022-04:46:42 | red:xbot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot1 respawned
+------
+04/04/2022-04:46:42 | blue:ybot2 respawned
+------
+04/04/2022-04:46:42 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:43 | red:xbot1 respawned
+------
+04/04/2022-04:46:43 | red:xbot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot1 respawned
+------
+04/04/2022-04:46:43 | blue:ybot2 respawned
+------
+04/04/2022-04:46:43 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:44 | red:xbot1 respawned
+------
+04/04/2022-04:46:44 | red:xbot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot1 respawned
+------
+04/04/2022-04:46:44 | blue:ybot2 respawned
+------
+04/04/2022-04:46:44 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:45 | red:xbot1 respawned
+------
+04/04/2022-04:46:45 | red:xbot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot1 respawned
+------
+04/04/2022-04:46:45 | blue:ybot2 respawned
+------
+04/04/2022-04:46:45 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot1 respawned
+------
+04/04/2022-04:46:46 | blue:ybot2 respawned
+------
+04/04/2022-04:46:46 | blue:ybot3 respawned
+------
+04/04/2022-04:46:46 | red:xbot1 respawned
+------
+04/04/2022-04:46:46 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:47 | red:xbot1 respawned
+------
+04/04/2022-04:46:47 | red:xbot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot1 respawned
+------
+04/04/2022-04:46:47 | blue:ybot2 respawned
+------
+04/04/2022-04:46:47 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot3 respawned
+------
+04/04/2022-04:46:48 | red:xbot1 respawned
+------
+04/04/2022-04:46:48 | red:xbot2 respawned
+------
+04/04/2022-04:46:48 | blue:ybot1 respawned
+------
+04/04/2022-04:46:48 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot1 respawned
+------
+04/04/2022-04:46:49 | red:xbot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot1 respawned
+------
+04/04/2022-04:46:49 | blue:ybot2 respawned
+------
+04/04/2022-04:46:49 | blue:ybot3 respawned
+------
+04/04/2022-04:46:49 | red:xbot3 defended hardpoint B
+04/04/2022-04:46:49 | red:xbot4 defended hardpoint B
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:50 | red:xbot1 respawned
+------
+04/04/2022-04:46:50 | red:xbot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot1 respawned
+------
+04/04/2022-04:46:50 | blue:ybot2 respawned
+------
+04/04/2022-04:46:50 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:51 | red:xbot1 respawned
+------
+04/04/2022-04:46:51 | red:xbot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot1 respawned
+------
+04/04/2022-04:46:51 | blue:ybot2 respawned
+------
+04/04/2022-04:46:51 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:52 | red:xbot1 respawned
+------
+04/04/2022-04:46:52 | red:xbot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot1 respawned
+------
+04/04/2022-04:46:52 | blue:ybot2 respawned
+------
+04/04/2022-04:46:52 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:53 | red:xbot1 respawned
+------
+04/04/2022-04:46:53 | red:xbot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot1 respawned
+------
+04/04/2022-04:46:53 | blue:ybot2 respawned
+------
+04/04/2022-04:46:53 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:54 | red:xbot1 respawned
+------
+04/04/2022-04:46:54 | red:xbot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot1 respawned
+------
+04/04/2022-04:46:54 | blue:ybot2 respawned
+------
+04/04/2022-04:46:54 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:55 | red:xbot1 respawned
+------
+04/04/2022-04:46:55 | red:xbot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot1 respawned
+------
+04/04/2022-04:46:55 | blue:ybot2 respawned
+------
+04/04/2022-04:46:55 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:56 | red:xbot1 respawned
+------
+04/04/2022-04:46:56 | red:xbot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot1 respawned
+------
+04/04/2022-04:46:56 | blue:ybot2 respawned
+------
+04/04/2022-04:46:56 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:57 | red:xbot1 respawned
+------
+04/04/2022-04:46:57 | red:xbot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot1 respawned
+------
+04/04/2022-04:46:57 | blue:ybot2 respawned
+------
+04/04/2022-04:46:57 | blue:ybot3 respawned
+------
+04/04/2022-04:46:58 | red:xbot1 respawned
+------
+04/04/2022-04:46:58 | red:xbot2 respawned
+------
+04/04/2022-04:46:58 | blue:ybot1 respawned
+------
+04/04/2022-04:46:58 | blue:ybot2 respawned
+------
+04/04/2022-04:46:58 | blue:ybot3 respawned
+------
+04/04/2022-04:46:58 | red:xbot1 respawned
+------
+04/04/2022-04:46:58 | red:xbot2 respawned
+------
+04/04/2022-04:46:58 | blue:ybot1 respawned
+------
+04/04/2022-04:46:58 | blue:ybot2 respawned
+------
+04/04/2022-04:46:58 | blue:ybot3 respawned
+------
+04/04/2022-04:46:58 | red:xbot1 respawned
+------
+04/04/2022-04:46:58 | red:xbot2 respawned
+------
+04/04/2022-04:46:58 | blue:ybot1 respawned
+------
+04/04/2022-04:46:58 | blue:ybot2 respawned
+------
+04/04/2022-04:46:58 | blue:ybot3 respawned
+------
+04/04/2022-04:46:58 | red:xbot1 respawned
+------
+04/04/2022-04:46:58 | red:xbot2 respawned
+------
+04/04/2022-04:46:58 | blue:ybot1 respawned
+------
+04/04/2022-04:46:58 | blue:ybot2 respawned
+------
+04/04/2022-04:46:58 | blue:ybot3 respawned
+------

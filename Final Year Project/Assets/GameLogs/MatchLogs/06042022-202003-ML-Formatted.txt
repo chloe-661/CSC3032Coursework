@@ -1,0 +1,2653 @@
+MATCH LOG: 06/04/2022 20:20:03
+-----------------------------------
+06/04/2022-20:20:03 | Match Started
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: A
+------
+06/04/2022-20:20:13 | Congested hardpoint: A
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: A
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: A
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: A
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: A
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: A
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: A
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: A
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:13 | Congested hardpoint: A
+------
+06/04/2022-20:20:13 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:14 | Congested hardpoint: A
+------
+06/04/2022-20:20:14 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:15 | Congested hardpoint: B
+------
+06/04/2022-20:20:15 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | blue:ybot3 captured hardpoint C
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:16 | Congested hardpoint: A
+------
+06/04/2022-20:20:16 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:17 | Congested hardpoint: A
+------
+06/04/2022-20:20:17 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | blue:ybot4 respawned
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:18 | Congested hardpoint: A
+------
+06/04/2022-20:20:18 | Congested hardpoint: B
+------
+06/04/2022-20:20:19 | Congested hardpoint: A
+------
+06/04/2022-20:20:19 | Congested hardpoint: B
+------
+06/04/2022-20:20:19 | Congested hardpoint: A
+------
+06/04/2022-20:20:19 | Congested hardpoint: B
+------
+06/04/2022-20:20:19 | Congested hardpoint: A
+------
+06/04/2022-20:20:19 | Congested hardpoint: B
+------
+06/04/2022-20:20:19 | Congested hardpoint: A
+------
+06/04/2022-20:20:19 | Congested hardpoint: B
+------
+06/04/2022-20:20:19 | Congested hardpoint: A
+------
+06/04/2022-20:20:19 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:22 | Congested hardpoint: A
+------
+06/04/2022-20:20:22 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:23 | Congested hardpoint: A
+------
+06/04/2022-20:20:23 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:24 | Congested hardpoint: A
+------
+06/04/2022-20:20:24 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:25 | Congested hardpoint: B
+------
+06/04/2022-20:20:25 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | blue:ybot4 respawned
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:26 | Congested hardpoint: A
+------
+06/04/2022-20:20:26 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: A
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:27 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | Congested hardpoint: B
+------
+06/04/2022-20:20:28 | red:xbot4 respawned
+------
+06/04/2022-20:20:30 | red:xbot1 captured hardpoint A
+------
+06/04/2022-20:20:31 | blue:ybot1 captured hardpoint B
+------
+06/04/2022-20:20:33 | red:xbot4 respawned
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:40 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | blue:ybot4 captured hardpoint A
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:41 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:42 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:43 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:44 | red:xbot1 respawned
+------
+06/04/2022-20:20:44 | Congested hardpoint: B
+------
+06/04/2022-20:20:47 | red:xbot4 captured hardpoint A
+------
+06/04/2022-20:20:49 | red:xbot1 respawned
+------
+06/04/2022-20:20:50 | red:xbot2 respawned
+------
+06/04/2022-20:20:53 | blue:ybot2 defended hardpoint C
+------
+06/04/2022-20:20:54 | blue:ybot3 defended hardpoint B
+06/04/2022-20:20:54 | blue:ybot1 defended hardpoint B
+------
+06/04/2022-20:20:55 | red:xbot2 respawned
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:56 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:57 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:58 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:20:59 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:00 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:01 | red:xbot4 respawned
+------
+06/04/2022-20:21:01 | Congested hardpoint: B
+------
+06/04/2022-20:21:02 | red:xbot1 captured hardpoint C
+------
+06/04/2022-20:21:03 | blue:ybot2 respawned
+------
+06/04/2022-20:21:06 | red:xbot4 respawned
+------
+06/04/2022-20:21:08 | blue:ybot2 respawned
+------
+06/04/2022-20:21:11 | blue:ybot3 defended hardpoint B
+06/04/2022-20:21:11 | blue:ybot1 defended hardpoint B
+------
+06/04/2022-20:21:12 | red:xbot1 defended hardpoint C
+------
+06/04/2022-20:21:21 | blue:ybot3 defended hardpoint B
+------
+06/04/2022-20:21:23 | blue:ybot2 captured hardpoint A
+------
+06/04/2022-20:21:24 | blue:ybot1 captured hardpoint C
+------
+06/04/2022-20:21:24 | Match Ended
+06/04/2022-20:21:24 | Winner: blue
+------
