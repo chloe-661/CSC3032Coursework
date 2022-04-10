@@ -101,7 +101,7 @@ public class StateAiPlayerController : MonoBehaviour
         Func<bool> StuckForOverASecondWhenMovingToHardpoint() => () => moveToSelected.TimeStuck > 1f; 
         Func<bool> StuckForOverASecondWhenPatrolling() => () => patrol.TimeStuck > 1f; 
         Func<bool> StuckForOverASecondWhenFleeing() => () => flee.TimeStuck > 1f; 
-        Func<bool> StuckForOverASecondWhenSearchingForEnemy() => () => searchForEnemy.TimeStuck > 2f; 
+        Func<bool> StuckForOverASecondWhenSearchingForEnemy() => () => searchForEnemy.TimeStuck > 3f; 
         
         Func<bool> hardpointStateHasUpdated() => () => previousRunTimeCaptures < Target.transform.parent.gameObject.GetComponent<HardpointController>().getRunTimeCaptures() || previousRunTimeDefends < Target.transform.parent.gameObject.GetComponent<HardpointController>().getRunTimeDefends();
         

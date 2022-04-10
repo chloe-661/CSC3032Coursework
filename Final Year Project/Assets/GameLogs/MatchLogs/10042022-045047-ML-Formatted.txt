@@ -1,0 +1,72 @@
+MATCH LOG: 10/04/2022 04:50:47
+-----------------------------------
+10/04/2022-04:50:47 | Match Started
+------
+10/04/2022-04:50:59 | red:xbot3 captured hardpoint B
+------
+10/04/2022-04:51:01 | blue:ybot2 captured hardpoint C
+------
+10/04/2022-04:51:01 | red:xbot4 respawned
+------
+10/04/2022-04:51:03 | blue:ybot4 respawned
+------
+10/04/2022-04:51:04 | blue:ybot1 captured hardpoint A
+------
+10/04/2022-04:51:06 | red:xbot4 respawned
+------
+10/04/2022-04:51:08 | blue:ybot4 respawned
+------
+10/04/2022-04:51:10 | blue:ybot2 captured hardpoint B
+------
+10/04/2022-04:51:11 | blue:ybot1 respawned
+------
+10/04/2022-04:51:14 | red:xbot3 captured hardpoint A
+------
+10/04/2022-04:51:16 | blue:ybot1 respawned
+------
+10/04/2022-04:51:19 | red:xbot4 captured hardpoint C
+------
+10/04/2022-04:51:20 | blue:ybot2 defended hardpoint B
+10/04/2022-04:51:20 | blue:ybot4 defended hardpoint B
+------
+10/04/2022-04:51:21 | red:xbot1 respawned
+------
+10/04/2022-04:51:26 | red:xbot1 respawned
+------
+10/04/2022-04:51:28 | blue:ybot2 respawned
+------
+10/04/2022-04:51:28 | blue:ybot1 captured hardpoint A
+------
+10/04/2022-04:51:33 | blue:ybot2 respawned
+------
+10/04/2022-04:51:36 | red:xbot4 respawned
+------
+10/04/2022-04:51:40 | red:xbot1 captured hardpoint A
+------
+10/04/2022-04:51:40 | red:xbot2 defended hardpoint C
+------
+10/04/2022-04:51:41 | red:xbot4 respawned
+------
+10/04/2022-04:51:44 | red:xbot2 respawned
+------
+10/04/2022-04:51:48 | red:xbot1 captured hardpoint B
+------
+10/04/2022-04:51:49 | red:xbot2 respawned
+------
+10/04/2022-04:51:50 | red:xbot3 respawned
+------
+10/04/2022-04:51:54 | blue:ybot2 captured hardpoint C
+------
+10/04/2022-04:51:55 | red:xbot3 respawned
+------
+10/04/2022-04:51:58 | red:xbot1 defended hardpoint B
+------
+10/04/2022-04:52:02 | blue:ybot4 respawned
+------
+10/04/2022-04:52:03 | red:xbot1 respawned
+------
+10/04/2022-04:52:04 | blue:ybot3 captured hardpoint A
+------
+10/04/2022-04:52:04 | Match Ended
+10/04/2022-04:52:04 | Winner: blue
+------

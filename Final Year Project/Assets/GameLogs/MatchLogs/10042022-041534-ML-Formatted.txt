@@ -1,0 +1,71 @@
+MATCH LOG: 10/04/2022 04:15:34
+-----------------------------------
+10/04/2022-04:15:34 | Match Started
+------
+10/04/2022-04:15:47 | blue:ybot2 captured hardpoint C
+------
+10/04/2022-04:15:47 | blue:ybot4 respawned
+------
+10/04/2022-04:15:50 | red:xbot4 captured hardpoint A
+------
+10/04/2022-04:15:52 | blue:ybot4 respawned
+------
+10/04/2022-04:15:57 | blue:ybot2 respawned
+------
+10/04/2022-04:15:59 | red:xbot4 respawned
+------
+10/04/2022-04:15:59 | red:xbot3 respawned
+------
+10/04/2022-04:16:02 | blue:ybot2 respawned
+------
+10/04/2022-04:16:02 | blue:ybot3 captured hardpoint B
+------
+10/04/2022-04:16:04 | red:xbot4 respawned
+------
+10/04/2022-04:16:04 | red:xbot3 respawned
+------
+10/04/2022-04:16:05 | red:xbot2 respawned
+------
+10/04/2022-04:16:05 | blue:ybot4 captured hardpoint A
+------
+10/04/2022-04:16:10 | red:xbot2 respawned
+------
+10/04/2022-04:16:12 | blue:ybot1 defended hardpoint B
+------
+10/04/2022-04:16:15 | blue:ybot4 defended hardpoint A
+10/04/2022-04:16:15 | blue:ybot2 defended hardpoint A
+------
+10/04/2022-04:16:17 | red:xbot3 captured hardpoint C
+------
+10/04/2022-04:16:20 | red:xbot1 respawned
+------
+10/04/2022-04:16:22 | blue:ybot3 captured hardpoint C
+------
+10/04/2022-04:16:22 | blue:ybot1 defended hardpoint B
+10/04/2022-04:16:22 | blue:ybot4 defended hardpoint B
+------
+10/04/2022-04:16:24 | blue:ybot2 respawned
+------
+10/04/2022-04:16:25 | red:xbot1 respawned
+------
+10/04/2022-04:16:28 | red:xbot2 captured hardpoint A
+------
+10/04/2022-04:16:30 | blue:ybot2 respawned
+------
+10/04/2022-04:16:32 | blue:ybot1 respawned
+------
+10/04/2022-04:16:33 | red:xbot4 respawned
+------
+10/04/2022-04:16:37 | blue:ybot1 respawned
+------
+10/04/2022-04:16:38 | red:xbot3 respawned
+------
+10/04/2022-04:16:38 | red:xbot4 respawned
+------
+10/04/2022-04:16:38 | red:xbot1 captured hardpoint C
+------
+10/04/2022-04:16:42 | blue:ybot2 captured hardpoint A
+------
+10/04/2022-04:16:42 | Match Ended
+10/04/2022-04:16:42 | Winner: blue
+------
