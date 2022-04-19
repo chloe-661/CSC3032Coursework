@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ComplexLevel/ComplexLevel.unity
     guid: 0fc3f8c962198fe43aff5bad9042efeb
+  - enabled: 1
+    path: Assets/Scenes/Training Enviroment.unity
+    guid: ce8f88519f1b12c4f9824467fa4c4a28
   m_configObjects: {}

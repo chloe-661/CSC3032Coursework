@@ -87,6 +87,7 @@ MonoBehaviour:
   previousRunTimeCaptures: 0
   attackDecision_flee: 0
   attackDecision_attack: 0
+  attackDecision_searchForEnemy: 0
   decision: 
 --- !u!114 &107212696344041316
 MonoBehaviour:
@@ -129,6 +130,7 @@ MonoBehaviour:
   previousRunTimeCaptures: 0
   attackDecision_flee: 0
   attackDecision_attack: 0
+  attackDecision_searchForEnemy: 0
   decision: 
 --- !u!114 &4459567060954554185
 MonoBehaviour:
@@ -174,6 +176,7 @@ MonoBehaviour:
   previousRunTimeCaptures: 0
   attackDecision_flee: 0
   attackDecision_attack: 0
+  attackDecision_searchForEnemy: 0
   decision: 
 --- !u!114 &8572159841057075105
 MonoBehaviour:
@@ -216,6 +219,7 @@ MonoBehaviour:
   previousRunTimeCaptures: 0
   attackDecision_flee: 0
   attackDecision_attack: 0
+  attackDecision_searchForEnemy: 0
   decision: 
 --- !u!114 &3920453584229794927
 MonoBehaviour:
@@ -690,6 +694,10 @@ PrefabInstance:
     - target: {fileID: 6514210125699187276, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
       propertyPath: m_Layer
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7221722868812663357, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7363479242261063072, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
       propertyPath: m_Layer

@@ -26,25 +26,32 @@ public class StateAiPlayerCollisionController : MonoBehaviour
 // COLLISION DETECTION ---------------------------------------------------------------------------------
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.tag == "Bullet"){ 
+        if (other.gameObject.tag == "Bullet"){
+            if (other.gameObject.GetComponent<BulletController>().shotByTeam != ps.team){
+                float remainingHealth = ps.getHealth() - ps.getBulletDamage();
+                ps.setHealth(remainingHealth);
 
-            float remainingHealth = ps.getHealth() - ps.getBulletDamage();
-            ps.setHealth(remainingHealth);
-
-            ps.beingAttacked = true;
-            this.timePassedBullet = 0;
+                ps.beingAttacked = true;
+                this.timePassedBullet = 0;
+            }
+            Destroy(other.gameObject);
         }
+        
     }
 
     private void OnCollisionEnter (Collision other) {
         if (other.gameObject.tag == "Bullet"){
+            if (other.gameObject.GetComponent<BulletController>().shotByTeam != ps.team){
 
-            float remainingHealth = ps.getHealth() - ps.getBulletDamage();
-            ps.setHealth(remainingHealth);
+                float remainingHealth = ps.getHealth() - ps.getBulletDamage();
+                ps.setHealth(remainingHealth);
 
-            ps.beingAttacked = true;
-            this.timePassedBullet = 0;
+                ps.beingAttacked = true;
+                this.timePassedBullet = 0;
+            }
+            Destroy(other.gameObject);
         }
+        
     }
 
 // METHODS --------------------------------------------------------------------------------------------

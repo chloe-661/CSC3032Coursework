@@ -19,8 +19,13 @@ public class GameInitialiser : MonoBehaviour
     public GameObject stateRedTeam;
     public GameObject stateBlueTeam;
     public GameObject hardpoints;
-    // public GameObject machineRedTeam;
-    // public GameObject machineBlueTeam;
+    public GameObject machineRedTeam;
+    public GameObject machineBlueTeam;
+
+    //For the previous instances
+
+    private string previousWinner;
+    private string previousAiType;
 
 
     //For the new instances created
@@ -56,8 +61,34 @@ public class GameInitialiser : MonoBehaviour
             this.settingsUI.SetActive(false);
 
             if (gs.getGameOver() == true && this.gameOver == false){
+                
+                //Game Over Screen
                 this.gameOver = true;
                 this.gameOverUI.SetActive(true);
+
+                GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+                GameObject t = GameObject.FindWithTag("WinnerDisplayText");
+                Text winner = t.GetComponent<Text>();
+                
+                this.previousWinner = gs.getWinner();
+                switch(this.previousWinner){
+                    case "red":
+                        this.previousAiType = gs.getRedTeamAiType();
+                        winner.color = Color.red;
+                        break;
+                    case "blue":
+                        this.previousAiType = gs.getBlueTeamAiType();
+                        winner.color = Color.blue;
+                        break;
+                    default:
+                        this.previousAiType = "unknown";
+                        winner.color = Color.white;
+                        break;
+                }
+                winner.text = this.previousWinner + " (" + this.previousAiType + ")";
+
+                //Destroying unneeded objects
+
                 for (int i = 0; i < requiredObjects.Count; i++){
                     Destroy(requiredObjects[i]); 
                 }
@@ -127,8 +158,9 @@ public class GameInitialiser : MonoBehaviour
         }
     }
 
-    IEnumerator newGameWaiter(){
-        Text txt = this.gameOverUI.transform.GetChild(0).GetChild(3).gameObject.GetComponent<Text>();
+    IEnumerator newGameWaiter(){  
+        GameObject t = GameObject.FindWithTag("GameOverCountdownNumber");   
+        Text txt = t.GetComponent<Text>();
         txt.text = "3";
         yield return new WaitForSeconds(1);
         txt.text = "2";
@@ -146,10 +178,10 @@ public class GameInitialiser : MonoBehaviour
             case "state":
                 requiredObjects.Add(Instantiate(this.stateRedTeam));
                 break;
-            // case "machine":
-            //     GameObject obj = Instantiate(this.machineRedTeam);
-            //     requiredObjects.Add(obj);
-            //     break;
+            case "machine":
+                GameObject obj = Instantiate(this.machineRedTeam);
+                requiredObjects.Add(obj);
+                break;
             // case "mixed":
 
             //     break;
@@ -162,9 +194,9 @@ public class GameInitialiser : MonoBehaviour
             case "state":
                 requiredObjects.Add(Instantiate(this.stateBlueTeam));
                 break;
-            // case "machine":
-            //     requiredObjects.Add(Instantiate(this.stateBlueTeam));
-            //     break;
+            case "machine":
+                requiredObjects.Add(Instantiate(this.machineBlueTeam));
+                break;
             // case "mixed":
 
             //     break;

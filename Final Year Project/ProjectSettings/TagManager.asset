@@ -28,6 +28,8 @@ TagManager:
   - Wall
   - Ground
   - PatrolPoint
+  - WinnerDisplayText
+  - GameOverCountdownNumber
   layers:
   - Default
   - TransparentFX

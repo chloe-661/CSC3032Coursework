@@ -62,11 +62,13 @@ public class GameStatus : MonoBehaviour
     public float getRedTeamCaptureScore(){ return this.redTeamCaptureScore; }
     public float getRedTeamDefendScore(){ return this.redTeamDefendScore; }
     public float getRedTeamKillScore(){ return this.redTeamKillScore; }
+    public string getRedTeamAiType(){ return this.redTeamAiType; }
     
     public float getBlueTeamScore(){ return this.blueTeamScore; }
     public float getBlueTeamCaptureScore(){ return this.blueTeamCaptureScore; }
     public float getBlueTeamDefendScore(){ return this.blueTeamDefendScore; }
     public float getBlueTeamKillScore(){ return this.blueTeamKillScore; }
+    public string getBlueTeamAiType(){ return this.blueTeamAiType; }
 
     public string getWinner(){ 
         if (this.winner != null){

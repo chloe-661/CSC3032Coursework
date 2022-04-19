@@ -77,3 +77,6 @@ crashlytics-build.properties
 #Videos can get big in size,
 *.mp4
 /Assets/GameLogs/ArchivedSorted
+
+#Python Enviroment libaries are large files
+/venv/Lib/

@@ -47,7 +47,7 @@ public class StateAiPlayerController : MonoBehaviour
 // LIFECYCLE METHODS -------------------------------------------------------------------------------------------------------------------------------
     private void Awake()
     {
-        
+        this.GetComponent<Rigidbody>().sleepThreshold = 0.0f;
         // Variables
         var navMeshAgent    = this.GetComponent<NavMeshAgent>();
         var animator        = this.GetComponent<Animator>();
@@ -129,6 +129,7 @@ public class StateAiPlayerController : MonoBehaviour
 // METHODS -------------------------------------------------------------------------------------------------------------------------------
     public void shoot(){
         GameObject b = Instantiate(this.bullet, bulletSpawnPoint.transform.position, Quaternion.Euler(new Vector3(90, 0 ,0)));
+        b.GetComponent<BulletController>().shotBy = this.gameObject;
         b.GetComponent<Rigidbody>().velocity = bulletSpawnPoint.transform.forward * this.bulletSpeed;
     }
 

@@ -1,0 +1,10 @@
+MATCH LOG: 18/04/2022 18:06:10
+-----------------------------------
+18/04/2022-18:06:10 | Match Started
+------
+18/04/2022-18:06:33 | red:xbot4 captured hardpoint A
+------
+18/04/2022-18:06:34 | blue:ybot2 captured hardpoint C
+------
+18/04/2022-18:07:50 | blue:ybot3 respawned
+------
