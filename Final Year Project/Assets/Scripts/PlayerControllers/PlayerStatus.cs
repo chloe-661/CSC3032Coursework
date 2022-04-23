@@ -24,10 +24,12 @@ public class PlayerStatus : MonoBehaviour
     public bool inHardpoint;
     public bool beingAttacked;
 
-    private GameObject centerTarget;
+    public GameObject centerTarget;
+    public GameStatus gs;
+    public GameObject redSpawnArea;
+    public GameObject blueSpawnArea;
     
     private float counter;
-
     private List<GameObject> respawnPoints = new List<GameObject>();
 
 // GETTER METHODS --------------------------------------------------------------------------
@@ -55,9 +57,26 @@ public class PlayerStatus : MonoBehaviour
 
     void Start()
     {
-        this.centerTarget = GameObject.FindWithTag("CenterTarget");
+            this.centerTarget = GameObject.FindWithTag("CenterTarget");
         this.inPlay = true;
         this.health = 100f;
+        this.captureScore = 0f;
+        this.defendScore = 0f;
+        this.killScore = 0f;
+        this.totalScore = 0f;
+        this.inHardpoint = false;
+        this.beingAttacked = false;
+        this.counter = 0f;
+
+        whichTeam();
+        getRespawnPointsFromGame();
+    }
+
+    public void reset(){
+            this.centerTarget = GameObject.FindWithTag("CenterTarget");
+        this.inPlay = true;
+        this.health = 100f;
+        this.dead = false;
         this.captureScore = 0f;
         this.defendScore = 0f;
         this.killScore = 0f;
@@ -66,6 +85,7 @@ public class PlayerStatus : MonoBehaviour
         this.counter = 0f;
 
         whichTeam();
+        this.respawnPoints.Clear();
         getRespawnPointsFromGame();
     }
 
@@ -137,7 +157,7 @@ public class PlayerStatus : MonoBehaviour
                 //FSM will reset these....
 
                 string logMessage = (this.team + ":" + this.name + " respawned");
-                GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+                gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
                 gs.writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {logMessage});
             }
         }

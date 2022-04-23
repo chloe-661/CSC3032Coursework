@@ -25,6 +25,7 @@ public class GameStatus : MonoBehaviour
 
 //Game Variables
     private bool gameOver;
+    public bool isTraining;
 
     private bool init;
     private float scoreToWin = 100f;
@@ -102,14 +103,46 @@ public class GameStatus : MonoBehaviour
         writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {"Match Started"});
     }
 
+    public void reset()
+    {
+        getRedTeam();
+        getBlueTeam();
+
+        this.init = false;
+        this.scoreToWin = 100f;
+        this.gameOver = false;
+        this.redTeamScore = 0f;
+        this.blueTeamScore = 0f;
+        this.winner = null;
+        this.scoreUI = GameObject.FindWithTag("Scores");
+        this.winner = "";
+        this.winnerAiType = "";
+        this.isTraining = false;
+
+        this.blueTeamScore = 0f;
+        this.blueTeamCaptureScore = 0f;
+        this.blueTeamDefendScore = 0f;
+        this.blueTeamKillScore = 0f; 
+
+        this.redTeamScore = 0f;
+        this.redTeamCaptureScore = 0f;
+        this.redTeamDefendScore = 0f;
+        this.redTeamKillScore = 0f;
+
+        this.matchStartDateTime = System.DateTime.Now.ToString("ddMMyyyy-HHmmss");
+        this.matchReportWritten = false;
+        createTextFiles();
+        writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {"Match Started"});
+    }
+
     void Update()
     {
         if (!this.init){
             initalStartLocation();
         }
         if (isGameOver() && this.gameOver == false){
-            this.gameOver = true;
             Debug.Log("WINNER: " + this.winner);
+            this.gameOver = true;
             if (!this.matchReportWritten){
                 writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {"Match Ended", ("Winner: " + this.winner)});
                 writeMatchReport();
@@ -258,7 +291,7 @@ public class GameStatus : MonoBehaviour
         b.transform.Find("blueKillScore").gameObject.GetComponent<Text>().text = ("Total Kills: " + this.blueTeamKillScore.ToString());
     }
 
-    private void createTextFiles()
+    public void createTextFiles()
     {
         string dateTimeFormat = 
             this.matchStartDateTime.Substring(0, 2)  + "/" +
@@ -308,7 +341,7 @@ public class GameStatus : MonoBehaviour
         }
     }
 
-    private async void writeMatchReport()
+    public async void writeMatchReport()
     {   
         if(File.Exists(this.matchReportPath)){
             string csvContent = "";           

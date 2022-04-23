@@ -32,6 +32,12 @@ public class HardpointController : MonoBehaviour
 
     private List<GameObject> playersInside = new List<GameObject>();
 
+    public TrainingGameController tc;
+
+    public GameStatus gs;
+
+    public bool isTraining;
+
     
 
 
@@ -61,6 +67,19 @@ public class HardpointController : MonoBehaviour
         this.runTimeDefends = 0;
     }
 
+    public void reset(){
+        this.state = "unallocated";
+        this.counterActive = false;
+        this.owner = "none";
+        this.color = "green";
+        getProgressBar();
+        this.progressBar.BarValue = 100;
+        this.runTimeCaptures = 0;
+        this.runTimeDefends = 0;
+        this.counter = 0f;
+        this.playersInside.Clear();
+    }
+
     void Update()
     {
         updateState();
@@ -68,6 +87,17 @@ public class HardpointController : MonoBehaviour
 
         if (this.counterActive){
             countDown();
+            
+            if (!this.isTraining){
+                GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+            }
+            if (gs.isTraining){
+                for (int i = 0; i < playersInside.Count; i++){
+                    // Debug.Log("1 before");
+                    // playersInside[i].GetComponent<MachineAiPlayerController>().giveReward("stayedInHardpointBonus");
+                    // Debug.Log("1 after");
+                }
+            }
         }
     }
 
@@ -97,16 +127,18 @@ public class HardpointController : MonoBehaviour
 // Methods --------------------------------------------------------------------------------------------
     
     private void getProgressBar(){
-        switch(this.name){
-            case "A":
-                progressBar = GameObject.FindWithTag("aProgressBar").GetComponent<ProgressBarCircle>();
-                break;
-            case "B":
-                progressBar = GameObject.FindWithTag("bProgressBar").GetComponent<ProgressBarCircle>();
-                break;
-            case "C":
-                progressBar = GameObject.FindWithTag("cProgressBar").GetComponent<ProgressBarCircle>();
-                break;
+        if (!this.isTraining){
+            switch(this.name){
+                case "A":
+                    progressBar = GameObject.FindWithTag("aProgressBar").GetComponent<ProgressBarCircle>();
+                    break;
+                case "B":
+                    progressBar = GameObject.FindWithTag("bProgressBar").GetComponent<ProgressBarCircle>();
+                    break;
+                case "C":
+                    progressBar = GameObject.FindWithTag("cProgressBar").GetComponent<ProgressBarCircle>();
+                    break;
+            }
         }
     }
     private void updateState(){
@@ -174,6 +206,17 @@ public class HardpointController : MonoBehaviour
         
         this.state = "congested";
         this.counterActive = false;
+
+        if (!isTraining){
+            GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+        }
+        if (gs.isTraining){
+            for (int i = 0; i < playersInside.Count; i++){
+                // Debug.Log("1.5 before");
+                // playersInside[i].GetComponent<MachineAiPlayerController>().giveReward("stayedInHardpointBonus");
+                // Debug.Log("1.5 after");
+            }
+        }
         updateProgressBar();
         updateColor();
     }
@@ -184,7 +227,19 @@ public class HardpointController : MonoBehaviour
         //If the counter has been counting down has reached 0
         if (this.counterActive == true && this.counter <= 0f){
             Debug.Log("Successfully Captured");
-            GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+            if (!isTraining){
+                GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+            }
+
+            if (gs.isTraining){
+                this.tc = this.transform.root.GetComponent<TrainingGameController>();
+                var currentTeam = playersInside[0].GetComponent<PlayerStatus>().team;
+                var teamToReward = currentTeam == "red" ? this.tc.redTeamAgentGroup : this.tc.blueTeamAgentGroup;
+                // Debug.Log("3 before");
+                // teamToReward.AddGroupReward(TrainingGameController.CAPTURED_HARDPOINT_BONUS);
+                // teamToReward.AddGroupReward(100);
+                // Debug.Log("3 after");
+            }
             playersInside[0].GetComponent<PlayerStatus>().addToCaptureScore(gs.getCapturePoints());
 
             this.state = "captured";
@@ -209,10 +264,23 @@ public class HardpointController : MonoBehaviour
             this.state = "captured";
             this.runTimeDefends ++;
             this.counter = defendCounterTotal;
-            GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+            if (!isTraining){
+                GameStatus gs = GameObject.FindWithTag("GameStatus").GetComponent<GameStatus>();
+            }
+
             string[] logMessageArray = new String[playersInside.Count];
             
             for (int i = 0; i < playersInside.Count; i++){
+                //If Training
+                if (gs.isTraining){
+                    this.tc = this.transform.root.GetComponent<TrainingGameController>();
+                    var currentTeam = playersInside[i].GetComponent<PlayerStatus>().team;
+                    var teamToReward = currentTeam == "red" ? this.tc.redTeamAgentGroup : this.tc.blueTeamAgentGroup;
+                    // Debug.Log("4 before");
+                    // teamToReward.AddGroupReward(TrainingGameController.DEFENDED_HARDPOINT_BONUS);
+                    // teamToReward.AddGroupReward(50);
+                    // Debug.Log("4 after");
+                }
                 playersInside[i].GetComponent<PlayerStatus>().addToDefendScore(gs.getDefendPoints());
                 logMessageArray[i] = (team + ":" + playersInside[i].GetComponent<PlayerStatus>().name + " defended hardpoint " + this.name);
             }

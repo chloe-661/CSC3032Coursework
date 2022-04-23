@@ -37524,6 +37524,8 @@ MonoBehaviour:
   stateRedTeam: {fileID: 8188342585973656318, guid: a3cf7f61128e95e4d9fba2df654ce043, type: 3}
   stateBlueTeam: {fileID: 531052011492898434, guid: af66c964a41fc834088d61b9a1e5f0f6, type: 3}
   hardpoints: {fileID: 7511684353649974778, guid: 570d24b9751f2cb4e8d49179288879cb, type: 3}
+  machineRedTeam: {fileID: 8313237306902673699, guid: 01b7e409baec3ee4e929d34c51ead29b, type: 3}
+  machineBlueTeam: {fileID: 6427575916571010649, guid: 1fa5c8ab9400acf46a8658e47f4102fc, type: 3}
 --- !u!4 &1829676339
 Transform:
   m_ObjectHideFlags: 0

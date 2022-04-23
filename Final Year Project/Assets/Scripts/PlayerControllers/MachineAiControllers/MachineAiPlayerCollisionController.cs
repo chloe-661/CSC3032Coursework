@@ -35,13 +35,13 @@ public class MachineAiPlayerCollisionController : MonoBehaviour
                 ps.setHealth(remainingHealth);
 
                 //Rewards for the player hit 
-                pc.giveReward("beenHitBonus");
+                // pc.giveReward("beenHitBonus");
                 
                 //Rewards for the shooter
                 var shooter = other.gameObject.GetComponent<BulletController>().shotBy.GetComponent<MachineAiPlayerController>();
-                shooter.giveReward("hitEnemyBonus");
+                // shooter.giveReward("hitEnemyBonus");
                 if (remainingHealth <= 0 ){
-                    shooter.giveReward("killedEnemyBonus");
+                    // shooter.giveReward("killedEnemyBonus");
                 }
 
                 ps.beingAttacked = true;
@@ -60,13 +60,13 @@ public class MachineAiPlayerCollisionController : MonoBehaviour
                 ps.setHealth(remainingHealth);
 
                 //Rewards for the player hit 
-                pc.giveReward("beenHitBonus");
+                // pc.giveReward("beenHitBonus");
                 
                 //Rewards for the shooter
                 var shooter = other.gameObject.GetComponent<BulletController>().shotBy.GetComponent<MachineAiPlayerController>();
-                shooter.giveReward("hitEnemyBonus");
+                // shooter.giveReward("hitEnemyBonus");
                 if (remainingHealth <= 0 ){
-                    shooter.giveReward("killedEnemyBonus");
+                    // shooter.giveReward("killedEnemyBonus");
                 }
 
                 ps.beingAttacked = true;
