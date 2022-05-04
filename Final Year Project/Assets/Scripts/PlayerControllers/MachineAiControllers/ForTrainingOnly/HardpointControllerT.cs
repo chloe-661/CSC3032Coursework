@@ -83,6 +83,12 @@ public class HardpointControllerT : MonoBehaviour
         if (this.counterActive){
             countDown();
         }
+
+        // if (playersInside.Count > 0 && this.state != "congested"){
+        //     for (int i = 0; i < playersInside.Count; i++){
+        //         playersInside[i].GetComponent<MachineAiPlayerController>().giveReward("stayedInHardpointBonus");
+        //     }
+        // }
     }
 
     // Collision Detection ---------------------------------------------------------------------------------
@@ -167,6 +173,7 @@ public class HardpointControllerT : MonoBehaviour
     }
 
     private void congested(){
+        // this.tc.congestedHardpoint();
         Debug.Log("Hardpoint Congested");
         
         this.state = "congested";
@@ -180,6 +187,8 @@ public class HardpointControllerT : MonoBehaviour
 
         //If the counter has been counting down has reached 0
         if (this.counterActive == true && this.counter <= 0f){
+            // this.tc.capturedHardpoint(team);
+            
             Debug.Log("Successfully Captured");
             playersInside[0].GetComponent<PlayerStatusT>().addToCaptureScore(gs.getCapturePoints());
 
@@ -200,10 +209,13 @@ public class HardpointControllerT : MonoBehaviour
 
     private void defend(string team){
         if (this.counterActive == true && this.counter <= 0f){
+            // this.tc.defendedHardpoint(team);
+            
             Debug.Log("Successfully Defended");
 
             this.state = "captured";
             this.runTimeDefends ++;
+            this.counter = defendCounterTotal;
             string[] logMessageArray = new string[playersInside.Count];
             
             for (int i = 0; i < playersInside.Count; i++){

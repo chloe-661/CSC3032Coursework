@@ -1,0 +1,24 @@
+MATCH LOG: 27/04/2022 03:49:59
+-----------------------------------
+27/04/2022-03:49:59 | Match Started
+------
+27/04/2022-03:49:59 | Match Started
+------
+27/04/2022-03:50:17 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-03:50:34 | red:xbot1 captured hardpoint B
+------
+27/04/2022-03:50:39 | blue:ybot1 captured hardpoint C
+------
+27/04/2022-03:50:40 | red:xbot1 captured hardpoint A
+------
+27/04/2022-03:50:50 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-03:51:39 | red:xbot1 defended hardpoint A
+------
+27/04/2022-03:51:58 | red:xbot1 captured hardpoint B
+------
+27/04/2022-03:52:07 | blue:ybot1 captured hardpoint A
+------
+27/04/2022-03:52:18 | red:xbot1 captured hardpoint C
+------

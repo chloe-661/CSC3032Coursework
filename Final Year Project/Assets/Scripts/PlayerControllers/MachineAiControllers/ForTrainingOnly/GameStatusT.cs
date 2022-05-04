@@ -32,6 +32,7 @@ public class GameStatusT : MonoBehaviour
     public string winnerAiType;
     public float capturePoints = 15f;
     public float defendPoints = 5f;
+    public HardpointControllerT activeHardpoint;
 
     [Header("OtherControllers")]
     public TrainingGameController tc;
@@ -103,6 +104,7 @@ public class GameStatusT : MonoBehaviour
     {   
         if (!this.init){
             initalStartLocation();
+            // randomStartLocation();
         }
         if (isGameOver() && this.gameOver == false){
             Debug.Log("WINNER: " + this.winner);
@@ -111,6 +113,7 @@ public class GameStatusT : MonoBehaviour
                 writeMatchLogRecord(System.DateTime.Now.ToString("dd/MM/yyyy-HH:mm:ss"), new string[] {"Match Ended", ("Winner: " + this.winner)});
                 writeMatchReport();
             }
+            this.tc.gameWon(this.winner);
         }
 
         updateScores();
@@ -144,6 +147,7 @@ public class GameStatusT : MonoBehaviour
 
         updateScores();
         initalStartLocation();
+        // randomStartLocation();
     }
 
     //Methods ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -193,7 +197,6 @@ public class GameStatusT : MonoBehaviour
     }
 
     private void initalStartLocation(){
-        Debug.Log("ENTERED LOCATION THING");
         this.init = true;
         //Sets the player to a respawn point
         //Done this way so that there doesn't end up being 2 players on one respawn point
@@ -206,6 +209,16 @@ public class GameStatusT : MonoBehaviour
             this.blueTeam[j].GetComponent<PlayerStatusT>().initalStartLocation(j);
         }
         
+    }
+
+    private void randomStartLocation(){
+         this.init = true;
+        for (int i = 0; i < this.redTeam.Count; i++){
+            this.redTeam[i].GetComponent<PlayerStatusT>().randomStartLocation();
+        }
+        for (int j = 0; j < this.blueTeam.Count; j++){
+            this.blueTeam[j].GetComponent<PlayerStatusT>().randomStartLocation();
+        }
     }
 
     public void addToKillScores(string teamThatDied){

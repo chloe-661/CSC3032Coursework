@@ -35,7 +35,7 @@ public class BulletController : MonoBehaviour
 
         if (   this.hit.tag == "Wall" || this.hit.tag == "Ground")
         {    
-            Debug.Log("T: Hit a wall/ground");
+            // Debug.Log("T: Hit a wall/ground");
             Destroy(this.gameObject);
         }
         // else if (   (this.hit.tag == "RedPlayer" && shotBy.GetComponent<PlayerStatus>().team == "blue") 
@@ -63,7 +63,7 @@ public class BulletController : MonoBehaviour
 
         if (   this.hit.tag == "Wall" || this.hit.tag == "Ground")
         {   
-            Debug.Log("C: Hit a wall/ground"); 
+            // Debug.Log("C: Hit a wall/ground"); 
             Destroy(this.gameObject);
         }
         // else if (   (this.hit.tag == "RedPlayer" && shotBy.GetComponent<PlayerStatus>().team == "blue") 

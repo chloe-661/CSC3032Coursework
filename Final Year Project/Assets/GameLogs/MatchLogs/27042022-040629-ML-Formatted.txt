@@ -1,0 +1,152 @@
+MATCH LOG: 27/04/2022 04:06:29
+-----------------------------------
+27/04/2022-04:06:29 | Match Started
+------
+27/04/2022-04:06:29 | Match Started
+------
+27/04/2022-04:06:29 | Match Started
+------
+27/04/2022-04:06:29 | Match Started
+------
+27/04/2022-04:06:29 | Match Started
+------
+27/04/2022-04:06:29 | Match Started
+------
+27/04/2022-04:06:29 | Match Started
+------
+27/04/2022-04:06:29 | Match Started
+------
+27/04/2022-04:06:43 | blue:ybot1 captured hardpoint C
+------
+27/04/2022-04:06:51 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-04:06:54 | red:xbot1 captured hardpoint B
+------
+27/04/2022-04:06:55 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-04:06:57 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-04:07:03 | blue:ybot1 defended hardpoint C
+------
+27/04/2022-04:07:04 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-04:07:11 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-04:07:21 | red:xbot1 captured hardpoint B
+------
+27/04/2022-04:07:24 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-04:07:27 | red:xbot1 defended hardpoint B
+------
+27/04/2022-04:07:30 | blue:ybot1 captured hardpoint A
+------
+27/04/2022-04:07:32 | red:xbot1 captured hardpoint A
+------
+27/04/2022-04:07:35 | red:xbot1 defended hardpoint B
+------
+27/04/2022-04:07:37 | blue:ybot1 captured hardpoint A
+------
+27/04/2022-04:07:39 | blue:ybot1 captured hardpoint A
+------
+27/04/2022-04:07:40 | blue:ybot1 defended hardpoint A
+------
+27/04/2022-04:07:43 | blue:ybot1 defended hardpoint A
+------
+27/04/2022-04:07:46 | red:xbot1 captured hardpoint B
+------
+27/04/2022-04:07:46 | blue:ybot1 defended hardpoint A
+------
+27/04/2022-04:07:48 | red:xbot1 captured hardpoint B
+------
+27/04/2022-04:07:49 | blue:ybot1 defended hardpoint A
+------
+27/04/2022-04:07:52 | blue:ybot1 defended hardpoint A
+------
+27/04/2022-04:07:56 | red:xbot1 defended hardpoint B
+------
+27/04/2022-04:07:56 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-04:07:58 | blue:ybot1 defended hardpoint A
+------
+27/04/2022-04:08:02 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-04:08:04 | red:xbot1 defended hardpoint A
+------
+27/04/2022-04:08:09 | red:xbot1 defended hardpoint B
+------
+27/04/2022-04:08:10 | red:xbot1 defended hardpoint A
+------
+27/04/2022-04:08:18 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-04:08:21 | red:xbot1 captured hardpoint B
+------
+27/04/2022-04:08:29 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-04:08:29 | red:xbot1 captured hardpoint C
+------
+27/04/2022-04:08:31 | red:xbot1 captured hardpoint B
+------
+27/04/2022-04:08:35 | red:xbot1 defended hardpoint C
+------
+27/04/2022-04:08:37 | red:xbot1 defended hardpoint B
+------
+27/04/2022-04:08:38 | red:xbot1 captured hardpoint A
+------
+27/04/2022-04:08:58 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-04:09:02 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-04:09:03 | red:xbot1 defended hardpoint A
+------
+27/04/2022-04:09:08 | red:xbot1 defended hardpoint A
+------
+27/04/2022-04:09:08 | red:xbot1 captured hardpoint A
+------
+27/04/2022-04:09:10 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-04:09:14 | red:xbot1 captured hardpoint B
+------
+27/04/2022-04:09:19 | red:xbot1 defended hardpoint B
+------
+27/04/2022-04:09:21 | red:xbot1 captured hardpoint B
+------
+27/04/2022-04:09:21 | Match Ended
+27/04/2022-04:09:21 | Winner: red
+------
+27/04/2022-04:09:33 | red:xbot1 defended hardpoint B
+------
+27/04/2022-04:09:41 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-04:09:42 | red:xbot1 defended hardpoint B
+------
+27/04/2022-04:09:46 | red:xbot1 defended hardpoint A
+------
+27/04/2022-04:09:47 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-04:09:52 | red:xbot1 defended hardpoint A
+------
+27/04/2022-04:10:02 | blue:ybot1 captured hardpoint C
+------
+27/04/2022-04:10:02 | Match Ended
+27/04/2022-04:10:02 | Winner: blue
+------
+27/04/2022-04:10:17 | red:xbot1 captured hardpoint A
+------
+27/04/2022-04:12:10 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-04:12:21 | red:xbot1 defended hardpoint A
+------
+27/04/2022-04:12:23 | red:xbot1 defended hardpoint A
+------
+27/04/2022-04:12:23 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-04:12:26 | red:xbot1 defended hardpoint A
+------
+27/04/2022-04:12:39 | blue:ybot1 captured hardpoint A
+------
+27/04/2022-04:12:44 | red:xbot1 captured hardpoint C
+------
+27/04/2022-04:12:50 | blue:ybot1 captured hardpoint A
+------
+27/04/2022-04:12:50 | red:xbot1 defended hardpoint C
+------

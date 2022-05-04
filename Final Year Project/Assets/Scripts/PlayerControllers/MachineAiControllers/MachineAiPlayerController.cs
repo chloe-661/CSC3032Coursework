@@ -20,15 +20,16 @@ public class MachineAiPlayerController : Agent
     public TrainingGameController tc;
     public BufferSensorComponent otherPlayersBuffer;
     public BufferSensorComponent hardpointsBuffer;
-    private const float LOCATION_NORMALIZATION_FACTOR = 80.0f;
+    private const float LOCATION_NORMALIZATION_FACTOR = 25.0f;
     
     //INDIVIDUAL REWARDS        
-    public const float STAYED_IN_HARDPOINT_BONUS = 0.1f;
-    public const float KILLED_ENEMY_BONUS = 1f;
-    public const float BEEN_KILLED_BONUS = -1f;
-    public const float HIT_ENEMY_BONUS = 0.25f;
-    public const float BEEN_HIT_BONUS = -0.25f;
-    public const float STEP_BONUS = -0.001f;  
+    public const float STAYED_IN_HARDPOINT_BONUS = 0.01f;
+    public const float KILLED_ENEMY_BONUS = 0.2f;
+    public const float BEEN_KILLED_BONUS = -0.2f;
+    public const float HIT_ENEMY_BONUS = 0.1f;
+    public const float BEEN_HIT_BONUS = -0.1f;
+    public const float STEP_BONUS = -0.001f;
+    public const float SHOT_BONUS = -0.01f;  
 
     //Player
     public PlayerStatusT ps;
@@ -77,7 +78,6 @@ public class MachineAiPlayerController : Agent
     }
 
     public void OnEpisodeBegin() {
-        Debug.Log("OnEpisodeBegin has run...");
         reset();
     }
 
@@ -85,7 +85,7 @@ public class MachineAiPlayerController : Agent
         this.rb.velocity = Vector3.zero;
         this.rb.angularVelocity = Vector3.zero;
         this.canShoot = true;
-        this.shootTimer = 0;
+        this.shootTimer = 1;
         this.rb.drag = 4;
         this.rb.angularDrag = 1;
         this.isDecisionStep = true;
@@ -124,6 +124,9 @@ public class MachineAiPlayerController : Agent
                 otherPlayersBuffer.AppendObservation(getOtherPlayerData(player));
             }
         }
+
+        sensor.AddObservation(this.gs.redTeamScore);
+        sensor.AddObservation(this.gs.blueTeamScore);
     }
     void FixedUpdate()
     {
@@ -132,21 +135,21 @@ public class MachineAiPlayerController : Agent
         // checkIfGameOver();
 
         if (this.ps.inHardpoint == true){
-            Debug.Log("Hit Hardpoint");
             this.tc.reachedTarget(this.ps.team);
         }
 
-        if (this.stepCount % 5 == 0)
+        if (StepCount % 5 == 0)
         {
+            Debug.Log("111111111");
             this.isDecisionStep = true;
             this.stepCount++;
         }
 
         if (this.shootTimer > 1){
-            this.canShoot = false;
+            this.canShoot = true;
         }
         else {
-            this.canShoot = true;
+            this.canShoot = false;
         }
         this.shootTimer += Time.fixedDeltaTime;
     }
@@ -154,10 +157,10 @@ public class MachineAiPlayerController : Agent
 //Methods ----------------------------------------------------------------------------------------------------
     private float[] getHardpointData(HardpointControllerT hardpoint)
     {
-        var hardpointData = new float[4];
+        var hardpointData = new float[6];
 
         //Location     
-        var relativePosition = transform.InverseTransformPoint(hardpoint.transform.GetChild(0).position); //Gets child "centerTarget", sets it position as local position
+        var relativePosition = transform.InverseTransformPoint(hardpoint.transform.position);
         hardpointData[0] = relativePosition.x / LOCATION_NORMALIZATION_FACTOR;
         hardpointData[1] = relativePosition.z / LOCATION_NORMALIZATION_FACTOR;
 
@@ -170,7 +173,11 @@ public class MachineAiPlayerController : Agent
         }
 
         //State
-        hardpointData[3] = hardpoint.getState() == "congested" ? 1.0f : 0.0f; 
+        hardpointData[3] = hardpoint.getState() == "congested" ? 1.0f : 0.0f;
+
+        //Counter
+        hardpointData[4] = hardpoint.counterActive ? 1.0f : 0.0f;
+        hardpointData[5] = hardpoint.counter; 
         
         return hardpointData;
     }
@@ -198,9 +205,7 @@ public class MachineAiPlayerController : Agent
     }
     
     public void move(ActionBuffers actions){
-        Debug.Log("2 before");
         giveReward("stepBonus");
-        Debug.Log("2 after");
         var continuousActions = actions.ContinuousActions;
         var discreteActions = actions.DiscreteActions;
         
@@ -232,31 +237,32 @@ public class MachineAiPlayerController : Agent
             {
                 this.isDecisionStep = false;
                 //SHOOT
-                // if (this.shootInput > 0)
-                // {
-                //     shoot();
-                // }
+                if (this.shootInput > 0)
+                {
+                    shoot();
+                }
             }
         }
     }
 
-    // public void shoot (){
-    //     this.animator.SetBool("isRunning", false);
-    //     this.animator.SetBool("isPatrolling", false);
-    //     this.animator.SetBool("isAttacking", true);
+    public void shoot (){
+        giveReward("shotBonus");
+        this.animator.SetBool("isRunning", false);
+        this.animator.SetBool("isPatrolling", false);
+        this.animator.SetBool("isAttacking", true);
 
-    //     if (canShoot){
-    //         GameObject b = Instantiate(this.BULLET, bulletSpawnPoint.transform.position, Quaternion.Euler(new Vector3(90, 0 ,0)));
-    //         b.transform.parent = this.transform.root;
-    //         b.GetComponent<BulletController>().shotBy = this.gameObject;
-    //         b.GetComponent<Rigidbody>().velocity = bulletSpawnPoint.transform.forward * this.bulletSpeed;
-    //         this.shootTimer = 0;
-    //     }
-    // }
+        if (canShoot){
+            GameObject b = Instantiate(this.BULLET, bulletSpawnPoint.transform.localPosition , Quaternion.Euler(new Vector3(90, 0 ,0)));
+            b.transform.parent = this.transform.root;
+            b.GetComponent<BulletController>().shotBy = this.gameObject;
+            b.GetComponent<Rigidbody>().velocity = bulletSpawnPoint.transform.forward * this.bulletSpeed;
+            this.shootTimer = 0;
+        }
+    }
 
     public void checkIfDead(){
         if (this.ps.dead == true){
-            // giveReward("beenKilledBonus");
+            giveReward("beenKilledBonus");
             respawn();
         }
     }
@@ -265,9 +271,9 @@ public class MachineAiPlayerController : Agent
 
     public void respawn(){
         int num = Random.Range(0, this.ps.getRespawnPoints().Count);
-        float x = this.ps.getRespawnPoints()[num].transform.localPosition .x;
-        float y = this.ps.getRespawnPoints()[num].transform.localPosition .y;
-        float z = this.ps.getRespawnPoints()[num].transform.localPosition .z;
+        float x = this.ps.getRespawnPoints()[num].transform.localPosition.x;
+        float y = this.ps.getRespawnPoints()[num].transform.localPosition.y;
+        float z = this.ps.getRespawnPoints()[num].transform.localPosition.z;
 
         this.transform.localPosition = new Vector3(x,y,z);
         foreach (Transform child in this.tc.transform){
@@ -289,21 +295,31 @@ public class MachineAiPlayerController : Agent
         switch(type){
             case "stepBonus":
                 AddReward(STEP_BONUS);
+                Debug.Log("Given stepBonus reward");
                 break;
             case "hitEnemyBonus":
                 AddReward(HIT_ENEMY_BONUS);
+                Debug.Log("Given hitEnemyBonus reward");
                 break;
             case "beenHitBonus":
                 AddReward(BEEN_HIT_BONUS);
+                Debug.Log("Given beenHitBonus reward");
                 break;
             case "stayedInHardpointBonus":
                 AddReward(STAYED_IN_HARDPOINT_BONUS);
+                Debug.Log("Given stayedInHardpointBonus reward");
                 break;
             case "killedEnemyBonus":
                 AddReward(KILLED_ENEMY_BONUS);
+                Debug.Log("Given killedEnemyBonus reward");
                 break;
             case "beenKilledBonus":
                 AddReward(BEEN_KILLED_BONUS);
+                Debug.Log("Given beenKilledBonus reward");
+                break;
+            case "shotBonus":
+                AddReward(SHOT_BONUS);
+                Debug.Log("Given shotBonus reward");
                 break;
             default:
                 break;

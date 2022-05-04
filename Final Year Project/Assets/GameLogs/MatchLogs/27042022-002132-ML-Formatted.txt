@@ -1,0 +1,69 @@
+MATCH LOG: 27/04/2022 00:21:32
+-----------------------------------
+27/04/2022-00:21:32 | Match Started
+------
+27/04/2022-00:21:32 | Match Started
+------
+27/04/2022-00:22:25 | blue:ybot1 captured hardpoint B
+------
+27/04/2022-00:22:34 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:34 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:34 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:35 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:35 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:35 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:35 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:36 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:36 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:36 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:36 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:22:37 | blue:ybot1 defended hardpoint B
+------
+27/04/2022-00:23:17 | red:xbot1 captured hardpoint B
+------
+27/04/2022-00:23:35 | blue:ybot1 captured hardpoint A
+------
+27/04/2022-00:23:55 | red:xbot1 captured hardpoint A
+------
+27/04/2022-00:24:05 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:06 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:06 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:06 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:06 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:07 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:07 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:07 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:07 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:08 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:08 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:08 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:08 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:09 | red:xbot1 defended hardpoint A
+------
+27/04/2022-00:24:09 | Match Ended
+27/04/2022-00:24:09 | Winner: red
+------

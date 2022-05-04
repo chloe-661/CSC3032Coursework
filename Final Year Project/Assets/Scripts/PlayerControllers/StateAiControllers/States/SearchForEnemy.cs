@@ -19,7 +19,6 @@ public class SearchForEnemy : IState
 
     public void OnEnter()
     {
-        Debug.Log("ENTERED SEARCH ENEMY STATE");
         TimeStuck = 0f;
         this.navMeshAgent.enabled = true;
 
@@ -39,7 +38,6 @@ public class SearchForEnemy : IState
 
     public void OnExit()
     {
-        Debug.Log("EXITTED SEARCH ENEMY STATE");
         this.player.attackDecision_searchForEnemy = false;
     }
 }

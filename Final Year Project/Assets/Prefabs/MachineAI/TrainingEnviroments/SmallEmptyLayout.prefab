@@ -6652,7 +6652,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1719605011272023647}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 63.1737, y: 14.339987, z: -22}
+  m_LocalPosition: {x: 71, y: 14.339987, z: -33}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8279800523396784438}
@@ -22228,6 +22228,7 @@ MonoBehaviour:
   blueTeamPlayers: []
   initialized: 0
   currentSteps: 0
+  activeHardpoint: {fileID: 0}
   gs: {fileID: 7488252060207591657}
   requiredObjects: []
   hardpointsList: []
@@ -27052,6 +27053,7 @@ MonoBehaviour:
   winnerAiType: 
   capturePoints: 15
   defendPoints: 5
+  activeHardpoint: {fileID: 0}
   tc: {fileID: 224853089218262220}
   scoreUI: {fileID: 711554672526847947}
 --- !u!1 &8649697077962314415
@@ -28704,7 +28706,7 @@ PrefabInstance:
     - target: {fileID: 466869782316058082, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: gs
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 7488252060207591657}
     - target: {fileID: 466869782316058082, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: tc
       value: 
@@ -28743,7 +28745,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2800653567273801793, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2800653567273801802, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: gs
@@ -28767,7 +28769,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2800653567273801803, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: m_VersionIndex
-      value: 1966
+      value: 1969
       objectReference: {fileID: 0}
     - target: {fileID: 2800653567273801806, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: m_Mesh
@@ -28839,7 +28841,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2800653567934692984, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: m_VersionIndex
-      value: 1960
+      value: 1963
       objectReference: {fileID: 0}
     - target: {fileID: 2800653567934692987, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: m_Mesh
@@ -28859,7 +28861,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2800653567934692990, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3890903068344041008, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: m_Name
@@ -28868,7 +28870,7 @@ PrefabInstance:
     - target: {fileID: 4804328351180774133, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: gs
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 7488252060207591657}
     - target: {fileID: 4804328351180774133, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: tc
       value: 
@@ -28900,7 +28902,7 @@ PrefabInstance:
     - target: {fileID: 5345639535143583222, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: gs
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 7488252060207591657}
     - target: {fileID: 5345639535143583222, guid: 81a92856c3a7ba7459d3cd4b2137d0ec, type: 3}
       propertyPath: tc
       value: 

@@ -1,5 +1,239 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &485184022514685322
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5703468436382511874}
+  - component: {fileID: 7472300597465370530}
+  m_Layer: 0
+  m_Name: raycastSensorHardpoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5703468436382511874
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 485184022514685322}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5778702604044408966}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7472300597465370530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 485184022514685322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorHardpoint
+  m_DetectableTags:
+  - Hardpoint
+  m_RaysPerDirection: 20
+  m_MaxRayDegrees: 135
+  m_SphereCastRadius: 0.64
+  m_RayLength: 50
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 704
+  m_ObservationStacks: 3
+  rayHitColor: {r: 0, g: 1, b: 0.029838085, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
+--- !u!1 &614733900363534523
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6837699744859090815}
+  - component: {fileID: 172129457080063211}
+  m_Layer: 0
+  m_Name: raycastSensorBack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6837699744859090815
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 614733900363534523}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8769499331176939636}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &172129457080063211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 614733900363534523}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorBack
+  m_DetectableTags:
+  - Wall
+  - Hardpoint
+  m_RaysPerDirection: 5
+  m_MaxRayDegrees: 25
+  m_SphereCastRadius: 0.64
+  m_RayLength: 25
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 2147483647
+  m_ObservationStacks: 3
+  rayHitColor: {r: 1, g: 0, b: 0.7345495, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
+--- !u!1 &1634810229727480008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6643661623204049536}
+  - component: {fileID: 7261973115943084234}
+  m_Layer: 0
+  m_Name: raycastSensorBack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6643661623204049536
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1634810229727480008}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3822497383618528912}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &7261973115943084234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1634810229727480008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorBack
+  m_DetectableTags:
+  - Wall
+  - Hardpoint
+  m_RaysPerDirection: 5
+  m_MaxRayDegrees: 25
+  m_SphereCastRadius: 0.64
+  m_RayLength: 25
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 2147483647
+  m_ObservationStacks: 3
+  rayHitColor: {r: 1, g: 0, b: 0.7345495, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
+--- !u!1 &2491485644069518838
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7618595062868823398}
+  - component: {fileID: 557855754237357014}
+  m_Layer: 0
+  m_Name: raycastSensorHardpoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7618595062868823398
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2491485644069518838}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8769499331176939636}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &557855754237357014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2491485644069518838}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorHardpoint
+  m_DetectableTags:
+  - Hardpoint
+  m_RaysPerDirection: 20
+  m_MaxRayDegrees: 135
+  m_SphereCastRadius: 0.64
+  m_RayLength: 50
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 704
+  m_ObservationStacks: 3
+  rayHitColor: {r: 0, g: 1, b: 0.029838085, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
 --- !u!1 &2545231474194548294
 GameObject:
   m_ObjectHideFlags: 0
@@ -44,8 +278,125 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SensorName: BufferSensorHardpoint
-  m_ObservableSize: 4
+  m_ObservableSize: 6
   m_MaxNumObservables: 3
+--- !u!1 &2634476758985187237
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5708516872045295180}
+  - component: {fileID: 8653396526932888155}
+  m_Layer: 0
+  m_Name: raycastSensorAgent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5708516872045295180
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2634476758985187237}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8769499331176939636}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8653396526932888155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2634476758985187237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorAgent
+  m_DetectableTags:
+  - RedPlayer
+  - BluePlayer
+  m_RaysPerDirection: 10
+  m_MaxRayDegrees: 41
+  m_SphereCastRadius: 0.64
+  m_RayLength: 8
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 256
+  m_ObservationStacks: 3
+  rayHitColor: {r: 1, g: 0, b: 0, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
+--- !u!1 &2681711348561366029
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1431094182087424337}
+  - component: {fileID: 1443490810010610582}
+  m_Layer: 0
+  m_Name: raycastSensorWall
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1431094182087424337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2681711348561366029}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3822497383618528912}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1443490810010610582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2681711348561366029}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorWall
+  m_DetectableTags:
+  - Wall
+  m_RaysPerDirection: 20
+  m_MaxRayDegrees: 135
+  m_SphereCastRadius: 0.64
+  m_RayLength: 50
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 128
+  m_ObservationStacks: 3
+  rayHitColor: {r: 0.2735849, g: 0.2735849, b: 0.2735849, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
 --- !u!1 &2774631690913705545
 GameObject:
   m_ObjectHideFlags: 0
@@ -92,6 +443,65 @@ MonoBehaviour:
   m_SensorName: BufferSensorAgent
   m_ObservableSize: 9
   m_MaxNumObservables: 4
+--- !u!1 &3258507406787343786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6584703265518739295}
+  - component: {fileID: 9048127198231656706}
+  m_Layer: 0
+  m_Name: raycastSensorAgent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6584703265518739295
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3258507406787343786}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4577497424665368983}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9048127198231656706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3258507406787343786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorAgent
+  m_DetectableTags:
+  - RedPlayer
+  - BluePlayer
+  m_RaysPerDirection: 10
+  m_MaxRayDegrees: 41
+  m_SphereCastRadius: 0.64
+  m_RayLength: 8
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 256
+  m_ObservationStacks: 3
+  rayHitColor: {r: 1, g: 0, b: 0, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
 --- !u!114 &2401440432980814991
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -149,6 +559,38 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DecisionPeriod: 5
   TakeActionsBetweenDecisions: 1
+--- !u!114 &7963393364268650800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3747439178428431464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d7f0310ad981aa4dbf1039ed4cf2935, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: 
+  aiType: 
+  team: 
+  health: 0
+  dead: 0
+  previousStartLocation: {x: 0, y: 0, z: 0}
+  captureScore: 0
+  defendScore: 0
+  killScore: 0
+  totalScore: 0
+  inPlay: 0
+  inHardpoint: 0
+  beingAttacked: 0
+  respawnPoints: []
+  bulletDamage: 25
+  counter: 0
+  centerTarget: {fileID: 0}
+  gs: {fileID: 0}
+  redSpawnArea: {fileID: 0}
+  blueSpawnArea: {fileID: 0}
 --- !u!114 &8668146921080635859
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -195,38 +637,123 @@ MonoBehaviour:
   bulletSpeed: 50
   canShoot: 0
   shootTimer: 0
---- !u!114 &7963393364268650800
+--- !u!1 &3819687800782283033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3706721986022921583}
+  - component: {fileID: 9019877963314573346}
+  m_Layer: 0
+  m_Name: raycastSensorAgent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3706721986022921583
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3819687800782283033}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3822497383618528912}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9019877963314573346
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3747439178428431464}
+  m_GameObject: {fileID: 3819687800782283033}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d7f0310ad981aa4dbf1039ed4cf2935, type: 3}
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: 
-  aiType: 
-  team: 
-  health: 0
-  dead: 0
-  previousStartLocation: {x: 0, y: 0, z: 0}
-  captureScore: 0
-  defendScore: 0
-  killScore: 0
-  totalScore: 0
-  inPlay: 0
-  inHardpoint: 0
-  beingAttacked: 0
-  respawnPoints: []
-  bulletDamage: 25
-  counter: 0
-  centerTarget: {fileID: 0}
-  gs: {fileID: 0}
-  redSpawnArea: {fileID: 0}
-  blueSpawnArea: {fileID: 0}
+  m_SensorName: raycastSensorAgent
+  m_DetectableTags:
+  - RedPlayer
+  - BluePlayer
+  m_RaysPerDirection: 10
+  m_MaxRayDegrees: 41
+  m_SphereCastRadius: 0.64
+  m_RayLength: 8
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 256
+  m_ObservationStacks: 3
+  rayHitColor: {r: 1, g: 0, b: 0, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
+--- !u!1 &4221658824490851327
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1329024004142310127}
+  - component: {fileID: 6341644771086172365}
+  m_Layer: 0
+  m_Name: raycastSensorHardpoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1329024004142310127
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4221658824490851327}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4577497424665368983}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6341644771086172365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4221658824490851327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorHardpoint
+  m_DetectableTags:
+  - Hardpoint
+  m_RaysPerDirection: 20
+  m_MaxRayDegrees: 135
+  m_SphereCastRadius: 0.64
+  m_RayLength: 50
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 704
+  m_ObservationStacks: 3
+  rayHitColor: {r: 0, g: 1, b: 0.029838085, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
 --- !u!1 &4306790748288372248
 GameObject:
   m_ObjectHideFlags: 0
@@ -271,7 +798,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SensorName: BufferSensorHardpoint
-  m_ObservableSize: 4
+  m_ObservableSize: 6
   m_MaxNumObservables: 3
 --- !u!114 &376106619334278708
 MonoBehaviour:
@@ -319,6 +846,38 @@ MonoBehaviour:
   bulletSpeed: 50
   canShoot: 0
   shootTimer: 0
+--- !u!114 &2091190257554463213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4506731768570389359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d7f0310ad981aa4dbf1039ed4cf2935, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: 
+  aiType: 
+  team: 
+  health: 0
+  dead: 0
+  previousStartLocation: {x: 0, y: 0, z: 0}
+  captureScore: 0
+  defendScore: 0
+  killScore: 0
+  totalScore: 0
+  inPlay: 0
+  inHardpoint: 0
+  beingAttacked: 0
+  respawnPoints: []
+  bulletDamage: 25
+  counter: 0
+  centerTarget: {fileID: 0}
+  gs: {fileID: 0}
+  redSpawnArea: {fileID: 0}
+  blueSpawnArea: {fileID: 0}
 --- !u!114 &6895384518074442304
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -376,38 +935,65 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1932ffde65a6971498eabee9423b4716, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &2091190257554463213
+--- !u!1 &5049740465156851200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5914883022390740438}
+  - component: {fileID: 3827441289109702216}
+  m_Layer: 0
+  m_Name: raycastSensorAgent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5914883022390740438
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5049740465156851200}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5778702604044408966}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3827441289109702216
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4506731768570389359}
+  m_GameObject: {fileID: 5049740465156851200}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d7f0310ad981aa4dbf1039ed4cf2935, type: 3}
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: 
-  aiType: 
-  team: 
-  health: 0
-  dead: 0
-  previousStartLocation: {x: 0, y: 0, z: 0}
-  captureScore: 0
-  defendScore: 0
-  killScore: 0
-  totalScore: 0
-  inPlay: 0
-  inHardpoint: 0
-  beingAttacked: 0
-  respawnPoints: []
-  bulletDamage: 25
-  counter: 0
-  centerTarget: {fileID: 0}
-  gs: {fileID: 0}
-  redSpawnArea: {fileID: 0}
-  blueSpawnArea: {fileID: 0}
+  m_SensorName: raycastSensorAgent
+  m_DetectableTags:
+  - RedPlayer
+  - BluePlayer
+  m_RaysPerDirection: 10
+  m_MaxRayDegrees: 41
+  m_SphereCastRadius: 0.64
+  m_RayLength: 8
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 256
+  m_ObservationStacks: 3
+  rayHitColor: {r: 1, g: 0, b: 0, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
 --- !u!1 &5505120689005882949
 GameObject:
   m_ObjectHideFlags: 0
@@ -454,6 +1040,123 @@ MonoBehaviour:
   m_SensorName: BufferSensorAgent
   m_ObservableSize: 9
   m_MaxNumObservables: 4
+--- !u!1 &5562744716805915371
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1932031374566188823}
+  - component: {fileID: 8123993078204672232}
+  m_Layer: 0
+  m_Name: raycastSensorBack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1932031374566188823
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5562744716805915371}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5778702604044408966}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &8123993078204672232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5562744716805915371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorBack
+  m_DetectableTags:
+  - Wall
+  - Hardpoint
+  m_RaysPerDirection: 5
+  m_MaxRayDegrees: 25
+  m_SphereCastRadius: 0.64
+  m_RayLength: 25
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 2147483647
+  m_ObservationStacks: 3
+  rayHitColor: {r: 1, g: 0, b: 0.7345495, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
+--- !u!1 &6060113164561339025
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3294666930883664811}
+  - component: {fileID: 4524315194171267488}
+  m_Layer: 0
+  m_Name: raycastSensorHardpoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3294666930883664811
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6060113164561339025}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3822497383618528912}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4524315194171267488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6060113164561339025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorHardpoint
+  m_DetectableTags:
+  - Hardpoint
+  m_RaysPerDirection: 20
+  m_MaxRayDegrees: 135
+  m_SphereCastRadius: 0.64
+  m_RayLength: 50
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 704
+  m_ObservationStacks: 3
+  rayHitColor: {r: 0, g: 1, b: 0.029838085, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
 --- !u!1 &6427575916571010649
 GameObject:
   m_ObjectHideFlags: 0
@@ -669,6 +1372,65 @@ MonoBehaviour:
   m_SensorName: BufferSensorAgent
   m_ObservableSize: 9
   m_MaxNumObservables: 4
+--- !u!1 &7455329027340847326
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1487519485974254159}
+  - component: {fileID: 1108302325833063325}
+  m_Layer: 0
+  m_Name: raycastSensorBack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1487519485974254159
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7455329027340847326}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4577497424665368983}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1108302325833063325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7455329027340847326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorBack
+  m_DetectableTags:
+  - Wall
+  - Hardpoint
+  m_RaysPerDirection: 5
+  m_MaxRayDegrees: 25
+  m_SphereCastRadius: 0.64
+  m_RayLength: 25
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 2147483647
+  m_ObservationStacks: 3
+  rayHitColor: {r: 1, g: 0, b: 0.7345495, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
 --- !u!1 &7823511030714551341
 GameObject:
   m_ObjectHideFlags: 0
@@ -713,8 +1475,98 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SensorName: BufferSensorHardpoint
-  m_ObservableSize: 4
+  m_ObservableSize: 6
   m_MaxNumObservables: 3
+--- !u!1 &8016699834402526965
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332534744516664008}
+  - component: {fileID: 9048332778898299521}
+  m_Layer: 0
+  m_Name: raycastSensorWall
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332534744516664008
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8016699834402526965}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8769499331176939636}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9048332778898299521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8016699834402526965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorWall
+  m_DetectableTags:
+  - Wall
+  m_RaysPerDirection: 20
+  m_MaxRayDegrees: 135
+  m_SphereCastRadius: 0.64
+  m_RayLength: 50
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 128
+  m_ObservationStacks: 3
+  rayHitColor: {r: 0.2735849, g: 0.2735849, b: 0.2735849, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
+--- !u!114 &905410277557035457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8229370204396299659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d7f0310ad981aa4dbf1039ed4cf2935, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: 
+  aiType: 
+  team: 
+  health: 0
+  dead: 0
+  previousStartLocation: {x: 0, y: 0, z: 0}
+  captureScore: 0
+  defendScore: 0
+  killScore: 0
+  totalScore: 0
+  inPlay: 0
+  inHardpoint: 0
+  beingAttacked: 0
+  respawnPoints: []
+  bulletDamage: 25
+  counter: 0
+  centerTarget: {fileID: 0}
+  gs: {fileID: 0}
+  redSpawnArea: {fileID: 0}
+  blueSpawnArea: {fileID: 0}
 --- !u!114 &1007456262357742564
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -818,38 +1670,64 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1932ffde65a6971498eabee9423b4716, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &905410277557035457
+--- !u!1 &8307995426826797404
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 933820780417191860}
+  - component: {fileID: 3664223082485754228}
+  m_Layer: 0
+  m_Name: raycastSensorWall
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &933820780417191860
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8307995426826797404}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5778702604044408966}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3664223082485754228
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8229370204396299659}
+  m_GameObject: {fileID: 8307995426826797404}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d7f0310ad981aa4dbf1039ed4cf2935, type: 3}
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: 
-  aiType: 
-  team: 
-  health: 0
-  dead: 0
-  previousStartLocation: {x: 0, y: 0, z: 0}
-  captureScore: 0
-  defendScore: 0
-  killScore: 0
-  totalScore: 0
-  inPlay: 0
-  inHardpoint: 0
-  beingAttacked: 0
-  respawnPoints: []
-  bulletDamage: 25
-  counter: 0
-  centerTarget: {fileID: 0}
-  gs: {fileID: 0}
-  redSpawnArea: {fileID: 0}
-  blueSpawnArea: {fileID: 0}
+  m_SensorName: raycastSensorWall
+  m_DetectableTags:
+  - Wall
+  m_RaysPerDirection: 20
+  m_MaxRayDegrees: 135
+  m_SphereCastRadius: 0.64
+  m_RayLength: 50
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 128
+  m_ObservationStacks: 3
+  rayHitColor: {r: 0.2735849, g: 0.2735849, b: 0.2735849, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
 --- !u!1 &8961863321640687718
 GameObject:
   m_ObjectHideFlags: 0
@@ -894,7 +1772,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SensorName: BufferSensorHardpoint
-  m_ObservableSize: 4
+  m_ObservableSize: 6
   m_MaxNumObservables: 3
 --- !u!1 &9157548294208810889
 GameObject:
@@ -942,6 +1820,64 @@ MonoBehaviour:
   m_SensorName: BufferSensorAgent
   m_ObservableSize: 9
   m_MaxNumObservables: 4
+--- !u!1 &9188112326122710975
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1316836936490318554}
+  - component: {fileID: 7542782361978653037}
+  m_Layer: 0
+  m_Name: raycastSensorWall
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1316836936490318554
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9188112326122710975}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4577497424665368983}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7542782361978653037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9188112326122710975}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: raycastSensorWall
+  m_DetectableTags:
+  - Wall
+  m_RaysPerDirection: 20
+  m_MaxRayDegrees: 135
+  m_SphereCastRadius: 0.64
+  m_RayLength: 50
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 128
+  m_ObservationStacks: 3
+  rayHitColor: {r: 0.2735849, g: 0.2735849, b: 0.2735849, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 1.2
+  m_EndVerticalOffset: 1.2
 --- !u!1001 &495482255575298860
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1040,11 +1976,6 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 5079335655272727378, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
---- !u!1 &3019678646350686503 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3389033240089303563, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
-  m_PrefabInstance: {fileID: 495482255575298860}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3822497383618528912 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3741492256480327100, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
@@ -1053,6 +1984,11 @@ Transform:
 --- !u!1 &4506731768570389359 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4065464954294636611, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
+  m_PrefabInstance: {fileID: 495482255575298860}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3019678646350686503 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3389033240089303563, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
   m_PrefabInstance: {fileID: 495482255575298860}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &894803204164004907
@@ -1153,9 +2089,9 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 5079335655272727378, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
---- !u!1 &2549803763184449056 stripped
+--- !u!1 &3747439178428431464 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 3389033240089303563, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
+  m_CorrespondingSourceObject: {fileID: 4065464954294636611, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
   m_PrefabInstance: {fileID: 894803204164004907}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &4577497424665368983 stripped
@@ -1163,9 +2099,9 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3741492256480327100, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
   m_PrefabInstance: {fileID: 894803204164004907}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &3747439178428431464 stripped
+--- !u!1 &2549803763184449056 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 4065464954294636611, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
+  m_CorrespondingSourceObject: {fileID: 3389033240089303563, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
   m_PrefabInstance: {fileID: 894803204164004907}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5359272902932936136
@@ -1266,14 +2202,14 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 5079335655272727378, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
---- !u!1 &8229370204396299659 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4065464954294636611, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
-  m_PrefabInstance: {fileID: 5359272902932936136}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8769499331176939636 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3741492256480327100, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
+  m_PrefabInstance: {fileID: 5359272902932936136}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8229370204396299659 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4065464954294636611, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
   m_PrefabInstance: {fileID: 5359272902932936136}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &7302504921460518851 stripped
@@ -1380,13 +2316,13 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3389033240089303563, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
   m_PrefabInstance: {fileID: 7196294827125992762}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &5778702604044408966 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3741492256480327100, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
-  m_PrefabInstance: {fileID: 7196294827125992762}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &6608204325663243641 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4065464954294636611, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
+  m_PrefabInstance: {fileID: 7196294827125992762}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5778702604044408966 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3741492256480327100, guid: b717e6567f9787041ad08fe2126e219d, type: 3}
   m_PrefabInstance: {fileID: 7196294827125992762}
   m_PrefabAsset: {fileID: 0}

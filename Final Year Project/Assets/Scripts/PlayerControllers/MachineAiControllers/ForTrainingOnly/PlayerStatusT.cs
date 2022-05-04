@@ -193,4 +193,38 @@ public class PlayerStatusT : MonoBehaviour
         this.transform.LookAt(this.centerTarget.transform.localPosition);
         this.GetComponent<TrailRenderer>().enabled = true;
     }
+
+    public void randomStartLocation(){
+        this.GetComponent<TrailRenderer>().enabled = false;
+        Vector3 ah = new Vector3 (this.gs.activeHardpoint.transform.localPosition.x, 1.3f, this.gs.activeHardpoint.transform.localPosition.z);
+        float x = 0f;
+        float y = 1.3f;
+        float z = 0f;
+
+        if (this.team == "blue"){
+            do {
+                x = Random.Range(-2f, 23f);
+                z = Random.Range(-23f, 2f);
+            }
+            while(Vector3.Distance(ah, new Vector3(x, y, z)) < 10);
+
+            this.transform.localPosition = new Vector3(x, y, z);
+            this.previousStartLocation = new Vector3(x, y, z);
+        }
+
+        if (this.team == "red"){
+            do {
+                x = Random.Range(-23f, 2f);
+                z = Random.Range(-2f, 23f);
+            }
+            while(Vector3.Distance(ah, new Vector3(x, y, z)) < 10);
+
+            this.transform.localPosition = new Vector3(x, y, z);
+            this.previousStartLocation = new Vector3(x, y, z);
+        }
+            
+        
+        this.transform.LookAt(this.centerTarget.transform.localPosition);
+        this.GetComponent<TrailRenderer>().enabled = true;
+    }
 }

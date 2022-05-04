@@ -1,0 +1,10 @@
+TEAM,AI TYPE,NAME,TOTAL,CAPTURES,DEFENDS,KILLS,DATE/TIME
+==============================================
+red,machine,xbot1,45,45,0,0,27042022-014801
+red,machine,xbot2,0,0,0,0,27042022-014801
+red,machine,xbot3,0,0,0,0,27042022-014801
+red,machine,xbot4,0,0,0,0,27042022-014801
+blue,machine,ybot1,100,15,90,0,27042022-014801
+blue,machine,ybot2,0,0,0,0,27042022-014801
+blue,machine,ybot3,0,0,0,0,27042022-014801
+blue,machine,ybot4,0,0,0,0,27042022-014801

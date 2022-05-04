@@ -29,6 +29,7 @@ public class TrainingGameController : MonoBehaviour
     public bool initialized;
     public int currentSteps;
     public const int MAX_STEPS = 25000;
+    public HardpointControllerT activeHardpoint;
 
     [Header("Objects")]
     public GameStatusT gs;
@@ -171,6 +172,9 @@ public class TrainingGameController : MonoBehaviour
             h.reset();
         }
 
+        Debug.Log("justbeforefunction");
+        randomiseActiveHardpoint();
+
         foreach (var r in this.redTeamPlayers){
             r.GetComponent<MachineAiPlayerController>().reset();
         }
@@ -207,15 +211,80 @@ public class TrainingGameController : MonoBehaviour
     }
 
 //TRAINING METHODS -----------------------------------------------------------------------------------
+    
+    //Run when player reached a hardpoint
     public void reachedTarget(string playerTeam){
-        Debug.Log("ENTERED FUNCTION");
         var teamToReward = playerTeam == "red" ? this.redTeamAgentGroup : this.blueTeamAgentGroup;
         var teamThatLost = playerTeam == "red" ? this.blueTeamAgentGroup : this.redTeamAgentGroup;
-        Debug.Log("W: " + teamToReward + " L: " + teamThatLost);
-        teamToReward.AddGroupReward(10);
-        teamThatLost.AddGroupReward(-10);
+        teamToReward.AddGroupReward(1f);
+        teamThatLost.AddGroupReward(-1f);
         this.redTeamAgentGroup.EndGroupEpisode();
         this.blueTeamAgentGroup.EndGroupEpisode();
         startNewGame();
+    }
+
+    //Run when player captured hardpoint
+    public void capturedHardpoint(string playerTeam){
+        var teamToReward = playerTeam == "red" ? this.redTeamAgentGroup : this.blueTeamAgentGroup;
+        var teamThatLost = playerTeam == "red" ? this.blueTeamAgentGroup : this.redTeamAgentGroup;
+        teamToReward.AddGroupReward(0.5f);
+        teamThatLost.AddGroupReward(-0.5f);
+    }
+
+    //Run when player defended hardpoint
+    public void defendedHardpoint(string playerTeam){
+        var teamToReward = playerTeam == "red" ? this.redTeamAgentGroup : this.blueTeamAgentGroup;
+        var teamThatLost = playerTeam == "red" ? this.blueTeamAgentGroup : this.redTeamAgentGroup;
+        teamToReward.AddGroupReward(0.4f);
+        teamThatLost.AddGroupReward(-0.4f);
+    }
+
+    //Run when team has won
+    public void gameWon(string playerTeam){
+        var teamToReward = playerTeam == "red" ? this.redTeamAgentGroup : this.blueTeamAgentGroup;
+        var teamThatLost = playerTeam == "red" ? this.blueTeamAgentGroup : this.redTeamAgentGroup;
+        teamToReward.AddGroupReward(1f);
+        teamThatLost.AddGroupReward(-1f);
+        this.redTeamAgentGroup.EndGroupEpisode();
+        this.blueTeamAgentGroup.EndGroupEpisode();
+        startNewGame();
+    }
+
+    //Run when hardpoint is congested
+    public void congestedHardpoint(){
+        this.redTeamAgentGroup.AddGroupReward(-0.02f);
+        this.blueTeamAgentGroup.AddGroupReward(-0.02f);
+    }
+
+    public void randomiseActiveHardpoint(){
+        Debug.Log("Enteredfunction");
+        int num = Random.Range(0, 4);
+        switch(num){
+            case 0:
+                this.activeHardpoint = this.hardpointsList[0];
+                this.hardpointsList[0].gameObject.SetActive(true);
+                this.hardpointsList[1].gameObject.SetActive(false);
+                this.hardpointsList[2].gameObject.SetActive(false);
+                break;
+            case 1:
+                this.activeHardpoint = this.hardpointsList[1];
+                this.hardpointsList[0].gameObject.SetActive(false);
+                this.hardpointsList[1].gameObject.SetActive(true);
+                this.hardpointsList[2].gameObject.SetActive(false);
+                break;
+            case 2:
+                this.activeHardpoint = this.hardpointsList[2];
+                this.hardpointsList[0].gameObject.SetActive(false);
+                this.hardpointsList[1].gameObject.SetActive(false);
+                this.hardpointsList[2].gameObject.SetActive(true);
+                break;
+            default:
+                this.activeHardpoint = this.hardpointsList[1];
+                this.hardpointsList[0].gameObject.SetActive(false);
+                this.hardpointsList[1].gameObject.SetActive(true);
+                this.hardpointsList[2].gameObject.SetActive(false);
+                break;
+        }
+        this.gs.activeHardpoint = this.activeHardpoint;
     }
 }
