@@ -6,8 +6,8 @@ Newcastle University - 2021/22 - 3rd Year
 	Final year project and dissertation
 
 	Poster Submitted: 25/03/2022
-	Dissertation Submitted: 15/05/2022
-	Demonstration Submitted: 
+	Dissertation Submitted: 13/05/2022
+	Demonstration Submitted: 16/05/2022
 	
 Marks and Feedback
 
@@ -36,7 +36,7 @@ Marks and Feedback
 	
 	Marks: ??
 	Feedback:
-		- Supervisor
+		- Supervisor (Dr G Bergami)
 			
 			Introduction:
 			The student provides an introduction which is sometimes incoherent: in particular, the structure of the dissertation should be the last thing in the introduction after describing the other points. Aims and Objectives were separated from the introduction with a separate section, while they should have been in §1. The dissertation contains some motivation and sketched aims and objectives. Still, the student should consider that "explore and research" or "Develop" are not actual objectives that validate the pursuance of the aim, rather than the methodology required for implementing the objectives. In particular, the objective is a research question determine which are the most relevant features that make the algorithm preferable to another solution, evaluate the algorithms analysed in the dissertation, and list the outcome of such findings.
@@ -61,7 +61,7 @@ Marks and Feedback
 			Form/References:
 			The dissertation exhibits a coherent structure. As per previous mentions, the dissertation still has content omissions, especially on state of the art. Still, it is well structured, has no noticeable language defect, and is easy to read. The presentation is adequate, figures are essential, and listings for the ML parts add some value, as this might be the only way to assess a proprietary product with no FOSS API. The dissertation is well presented, albeit the introduction and related works are gaunt. The dissertation is adequately structured, and there are some spelling mistakes ("they produced some interested behaviours" vs "interesting" in §5.4). Against all odds, the writing is concise and clear. Although the student attempted to meet technical standards (e.g., computer specifications, hyper-parameters), a more in-depth discussion of the related works would have clearly made an outstandingly written dissertation.
 			
-		- Second Marker
+		- Second Marker (Tong Xin)
 			
 			Introduction:
 			This project aims to investigate the effectiveness of DL techniques against State AI in hardpoint games. The Abstract section is empty. Expect more introduction to the different AI approaches. Why deep reinforcement learning? What is State AI? It is worth thinking that there may have an “overfit” problem if given an “unlimited amount of time to train” the ML models.
